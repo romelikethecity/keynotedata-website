@@ -1,7 +1,7 @@
 # KeynoteData — Content, Writing & SEO Best Practices
 
 Sources: CRO Report writing guide, Verum website docs, DataStackGuide copywriting principles,
-Provyx CLAUDE.md, Harry Dry / Marketing Examples.
+Provyx CLAUDE.md, Harry Dry / Marketing Examples, github.com/coreyhaines31/marketingskills.
 
 ---
 
@@ -401,3 +401,137 @@ Add to `build_conference_page()`:
 ### Bidirectional Link Rule
 - New roundup/role pages → conference detail pages (in ranked list / conference grid)
 - Conference pages → new roundup/role pages (update `CONF_RELATED_PAGES` in build.py)
+
+---
+
+## Programmatic SEO Principles (from marketingskills)
+
+### 6 Core Principles
+
+1. **Every page must provide unique value.** If a user lands on a page and gets nothing they couldn't find elsewhere, Google will figure it out. Data, analysis, or curation that competitors lack = justification for the page.
+2. **Proprietary data hierarchy.** Pages with data nobody else has rank easier and hold rankings longer. Speaker seniority breakdowns, sponsor lists, session counts — this is our moat.
+3. **Subfolders, not subdomains.** `keynotedata.com/conferences/inbound/` passes domain authority. `inbound.keynotedata.com/` does not. Never introduce subdomains for SEO content.
+4. **Match genuine search intent.** "Best B2B marketing conferences 2026" wants a ranked list with reasons, not a database home page. Build pages that satisfy the actual search, not the keyword.
+5. **100 great pages > 10,000 thin pages.** One conference page with real speaker data, seniority breakdown, and FAQ ranks. A page with just a conference name and location does not. Never generate for volume alone.
+6. **Avoid doorway pages and keyword stuffing.** Pages exist to serve users, not crawlers. If the page has no value for a human, it will eventually be deindexed.
+
+### The 12 Programmatic Playbooks
+
+| Playbook | KeynoteData Application |
+|----------|------------------------|
+| Templates | Conference page template (seniority + sponsors + sessions) |
+| Curation | "Best X Conferences 2026" roundup pages |
+| Conversions | Vendelux alternative page (cost comparison) |
+| Comparisons | Future: KeynoteData vs. ConferenceDatabase |
+| Examples | Speaker profile pages, sample data previews |
+| Locations | Future: "B2B Conferences in London/NYC/San Francisco" |
+| Personas | Role pages (Conferences for VP of Marketing, for CRO) |
+| Integrations | Future: "Export to HubSpot", "Salesforce Speaker Data" |
+| Glossary | Future: "What is conference sponsorship ROI?" |
+| Translations | N/A for now |
+| Directory | Conferences index page (keynotedata.com/conferences/) |
+| Profiles | Individual conference detail pages |
+
+### Common Programmatic SEO Mistakes
+
+- **Thin content:** Conference pages with no speaker/sponsor data. Add seniority breakdown and top companies minimum.
+- **Keyword cannibalization:** Two pages targeting "best B2B conferences 2026." Keep one per intent variant.
+- **Over-generation:** Creating 500 conference pages for conferences with no data. Only build pages we can populate with real data.
+
+---
+
+## Content Strategy Framework (from marketingskills)
+
+### Searchable vs. Shareable
+
+| Type | Characteristics | KeynoteData Examples |
+|------|----------------|---------------------|
+| Searchable | Evergreen, search-intent driven, compounding | Conference detail pages, roundup pages, role pages |
+| Shareable | Emotional resonance, network-driven, spiky | "43% of INBOUND speakers are C-level" data posts |
+
+Build searchable content for organic growth. Create shareable content from the same data for distribution.
+
+### Keyword Research by Buyer Stage
+
+| Stage | Modifier Pattern | Examples for KeynoteData |
+|-------|-----------------|--------------------------|
+| Awareness | "what is X", "X explained", "X vs Y" | "what is conference sponsorship ROI", "B2B conference speaker database" |
+| Consideration | "best X for Y", "top X 2026" | "best sales conferences 2026", "best revops conferences for VP" |
+| Decision | "X pricing", "X alternative", "X reviews" | "Vendelux pricing", "Vendelux alternative", "KeynoteData review" |
+| Implementation | "how to X", "X template", "X guide" | "how to get speaking opportunities", "conference sponsorship ROI template" |
+
+Target awareness and consideration keywords for conference/roundup pages. Target decision keywords for alternative/comparison pages.
+
+### Content Prioritization Scoring
+
+When choosing which new pages to build, score each on:
+
+| Factor | Weight | Question |
+|--------|--------|----------|
+| Customer impact | 40% | Does this help our ICP make a decision? |
+| Content-market fit | 30% | Can we make this page better than what ranks? |
+| Search potential | 20% | Does search volume justify the build? |
+| Resources | 10% | Do we have the data to populate it? |
+
+KeynoteData order: conference detail pages (all four boxes checked) > roundup pages (high fit) > role pages (growing demand) > location pages (future, needs data).
+
+---
+
+## SEO Audit Checklist (from marketingskills)
+
+### Audit Priority Order
+
+Fix issues in this order — earlier items block later ones:
+
+1. **Crawlability** — Is the page in sitemap.xml? Is it blocked by robots.txt? Is the canonical correct?
+2. **Technical** — Page speed (LCP < 2.5s), mobile usability, HTTPS, no redirect chains
+3. **On-page** — Title tag, meta description, H1, heading hierarchy, internal links
+4. **Content** — Unique value, proprietary data, E-E-A-T signals, FAQ schema
+5. **Authority** — Backlinks, brand mentions (earned over time)
+
+### E-E-A-T Signals for KeynoteData
+
+Google's E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness) framework rewards content from credible sources. Our signals:
+
+- **Experience:** Real scraped data from conference websites (not synthesized)
+- **Expertise:** Seniority breakdown, function tagging — analysis a conference attendee would recognize as accurate
+- **Authoritativeness:** Specific, falsifiable numbers ("887 speakers tracked") rather than vague claims
+- **Trustworthiness:** Admit what we don't have ("session data not available for this edition"), link to primary sources (conference official sites)
+
+### Common Issues for Data/Conference Sites
+
+- **Conference pages lack depth:** Add seniority breakdown, top companies, FAQ — not just name + location
+- **Missing comparison/alternative pages:** "Vendelux alternative" is decision-stage traffic we can own
+- **No FAQ schema:** FAQPage schema gets rich results in Google. Every conference and category page should have it.
+- **Keyword cannibalization across conference years:** Use canonical + year in URL slug to avoid 2025 vs 2026 conflicts
+
+---
+
+## Schema — @graph Pattern for Multiple Types
+
+When a single page has multiple schema types (e.g., a conference page with Event + FAQPage + BreadcrumbList), wrap them in `@graph` for cleaner markup:
+
+```json
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Event",
+      "name": "INBOUND 2026",
+      "location": {"@type": "Place", "name": "Boston, USA"}
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [...]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [...]
+    }
+  ]
+}
+```
+
+**When to use @graph:** Any page with 2+ schema types. Conference detail pages qualify (Event + FAQPage + BreadcrumbList).
+
+**Validate:** Google Rich Results Test — https://search.google.com/test/rich-results

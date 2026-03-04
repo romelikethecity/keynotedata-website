@@ -31,10 +31,40 @@ cd output && git add -A && git commit -m "..." && git push origin gh-pages  # De
 `/Users/rome/Documents/projects/conference-intel/data/conferences.db`
 SQL reference: `/Users/rome/Documents/projects/conference-intel/viewer.py`
 
-## Writing Rules
+## Writing & SEO Rules
+
+**Full reference: `CONTENT-BEST-PRACTICES.md`** — read before writing any copy or building any pages.
+
+Quick rules:
 - NEVER: false reframes ("not X, it's Y"), em-dashes for asides, "unlock/unleash/empower"
-- ALWAYS: specific numbers, active voice, "call to value" CTAs
+- ALWAYS: specific numbers, active voice, "call to value" CTAs ("See All 393 Speakers")
 - Voice: Direct + analytical. Smart colleague, not sales pitch.
+- Every page: unique title (50-60 chars), unique meta (120-160 chars), canonical to keynotedata.com
+- FAQPage schema on every conference, category, and role page
+- BreadcrumbList schema on all inner pages
+
+## Build.py Architecture
+
+ALL data and generation logic is inline in `build.py`. Never create separate data files.
+
+Key data structures:
+- `CONFERENCES` — conference dicts (name, slug, location, speakers, sponsors, sessions)
+- `CONF_RELATED_PAGES` — slug → related page URLs (controls bidirectional linking)
+- `ROUNDUP_PAGES` — "Best X Conferences" pages
+- `ROLE_PAGES` — role-specific audience pages
+- `CATEGORY_PAGES` — category/topic pages
+
+Adding new pages: add entry to the relevant list, then update `CONF_RELATED_PAGES` so conference pages link back.
+
+## Pre-Deploy Checklist
+
+- [ ] `python3 build.py` runs without errors, page count correct
+- [ ] New pages: unique title + meta description + canonical (keynotedata.com)
+- [ ] FAQPage + BreadcrumbList schema on new pages
+- [ ] `CONF_RELATED_PAGES` updated for any referenced conference pages
+- [ ] New pages appear in sitemap.xml
+
+Full checklist in `CONTENT-BEST-PRACTICES.md`.
 
 ## Reference Builds (for code patterns)
 - `/Users/rome/Documents/projects/sultanofsaas/scripts/build.py`
