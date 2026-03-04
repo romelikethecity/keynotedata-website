@@ -1,0 +1,9 @@
+<svg width="800" height="160" viewBox="0 0 800 160" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g transform="translate(40, 16) scale(0.25)">
+    <rect x="192" y="80" width="128" height="224" rx="64" fill="#FAFBFA"/>
+    <path d="M144 264 C144 332 192 376 256 376 C320 376 368 332 368 264" stroke="#FAFBFA" stroke-width="24" fill="none" stroke-linecap="round"/>
+    <line x1="256" y1="376" x2="256" y2="432" stroke="#FAFBFA" stroke-width="24" stroke-linecap="round"/>
+    <line x1="192" y1="432" x2="320" y2="432" stroke="#FAFBFA" stroke-width="24" stroke-linecap="round"/>
+  </g>
+  <text x="185" y="100" font-family="'Plus Jakarta Sans', sans-serif" font-weight="700" font-size="56" fill="#FAFBFA" letter-spacing="-1">KeynoteData</text>
+</svg>

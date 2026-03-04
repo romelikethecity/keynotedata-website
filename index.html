@@ -1,0 +1,492 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>KeynoteData — Conference Intelligence for B2B Marketers</title>
+<meta name="description" content="Track speakers, sponsors, and sessions across the top B2B SaaS conferences. 887 speakers, 487 sponsors, 13 conferences with full data.">
+<link rel="canonical" href="https://keynotedata.com/">
+<link rel="icon" type="image/x-icon" href="/favicons/favicon.ico">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicons/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicons/favicon-16x16.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/favicons/apple-touch-icon.png">
+<link rel="manifest" href="/favicons/site.webmanifest">
+<meta name="theme-color" content="#0F5132">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@600;700;800&family=Source+Sans+3:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/assets/css/tokens.css?v=1">
+<link rel="stylesheet" href="/assets/css/styles.css?v=1">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="KeynoteData">
+<meta property="og:title" content="KeynoteData — Conference Intelligence for B2B Marketers">
+<meta property="og:description" content="Track speakers, sponsors, and sessions across the top B2B SaaS conferences. 887 speakers, 487 sponsors, 13 conferences with full data.">
+<meta property="og:image" content="https://keynotedata.com/favicons/og-image.png">
+<meta property="og:url" content="https://keynotedata.com/">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="KeynoteData — Conference Intelligence for B2B Marketers">
+<meta name="twitter:description" content="Track speakers, sponsors, and sessions across the top B2B SaaS conferences. 887 speakers, 487 sponsors, 13 conferences with full data.">
+<meta name="twitter:image" content="https://keynotedata.com/favicons/og-image.png">
+<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"Organization","name":"KeynoteData","url":"https://keynotedata.com","logo":"https://keynotedata.com/logos/lockup-horizontal-primary.svg","description":"B2B conference intelligence — speakers, sponsors, and sessions across the top B2B SaaS and marketing conferences."},{"@type":"WebSite","name":"KeynoteData","url":"https://keynotedata.com","potentialAction":{"@type":"SearchAction","target":"https://keynotedata.com/conference-speaker-database/?q={search_term_string}","query-input":"required name=search_term_string"}}]}</script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-GG8Y6BRDZ0"></script>
+<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-GG8Y6BRDZ0');</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "How often is the data updated?", "acceptedAnswer": {"@type": "Answer", "text": "We refresh the database after each conference cycle \u2014 typically twice a year per event. Our scrapers run on a schedule, and every record is reviewed before it goes into the database."}}, {"@type": "Question", "name": "What conferences are covered?", "acceptedAnswer": {"@type": "Answer", "text": "We have full data on 13 conferences today, including INBOUND, Dreamforce, SaaStr Annual, MozCon, Slush, LeadsCon, and more. We're tracking 49 conferences total and adding data as conferences publish their speaker lineups."}}, {"@type": "Question", "name": "Can I export the data?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. CSV export is included on all paid plans. You can export speaker lists, sponsor rosters, and session data filtered by conference, seniority, function, or topic."}}, {"@type": "Question", "name": "What data is included for each speaker?", "acceptedAnswer": {"@type": "Answer", "text": "Name, title, company, seniority tier (C-level, VP, Director, etc.), function category, LinkedIn URL (available for 605 of 887 speakers), and every conference they've spoken at."}}, {"@type": "Question", "name": "Is there an API?", "acceptedAnswer": {"@type": "Answer", "text": "Not yet. It's on the roadmap. For now, all data is available via CSV export or custom data pulls. If you need API access, reach out \u2014 we're working with early customers to scope the requirements."}}, {"@type": "Question", "name": "How is this different from just looking at conference websites?", "acceptedAnswer": {"@type": "Answer", "text": "Conference sites list speakers per event, with no cross-conference view. KeynoteData lets you see who speaks everywhere, track sponsor patterns across events, and identify the speakers who keep showing up \u2014 all in one searchable, exportable database."}}]}</script>
+</head>
+<body>
+<nav class="site-nav">
+<div class="site-nav-inner">
+<a href="/" class="site-logo">
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+<rect x="9" y="2" width="6" height="11" rx="3" fill="#5B9E7A"/>
+<path d="M5 10a7 7 0 0014 0" stroke="#5B9E7A" stroke-width="2" stroke-linecap="round"/>
+<line x1="12" y1="17" x2="12" y2="21" stroke="#5B9E7A" stroke-width="2" stroke-linecap="round"/>
+<line x1="8" y1="21" x2="16" y2="21" stroke="#5B9E7A" stroke-width="2" stroke-linecap="round"/>
+</svg>
+<span class="site-logo-text">KeynoteData</span>
+</a>
+<div class="site-nav-links" id="nav-links">
+<a href="/conferences/">Conferences</a>
+<a href="/conference-speaker-database/">Speaker Database</a>
+<a href="/b2b-conference-sponsors/">Sponsors</a>
+<a href="/about/">About</a>
+<a href="/pricing/">Pricing</a>
+<a href="/#get-access" class="nav-cta">Get Early Access</a>
+</div>
+<button class="nav-toggle" aria-label="Menu">
+<span></span><span></span><span></span>
+</button>
+</div>
+</nav>
+
+<!-- HERO -->
+<section class="hero" id="get-access">
+<div class="hero-inner">
+<div class="hero-content">
+<div class="hero-eyebrow">B2B Conference Intelligence</div>
+<h1>Conference websites show you the agenda. KeynoteData shows you who's in the room.</h1>
+<p class="hero-subtitle">Filter speakers by conference, seniority, and company. Track which sponsors keep showing up. Export everything. Research before you spend.</p>
+<div class="hero-stats">
+<div class="hero-stat">
+<span class="hero-stat-number">887</span>
+<span class="hero-stat-label">Speakers tracked</span>
+</div>
+<div class="stat-divider"></div>
+<div class="hero-stat">
+<span class="hero-stat-number">487</span>
+<span class="hero-stat-label">Sponsors indexed</span>
+</div>
+<div class="stat-divider"></div>
+<div class="hero-stat">
+<span class="hero-stat-number">13</span>
+<span class="hero-stat-label">Conferences with full data</span>
+</div>
+<div class="stat-divider"></div>
+<div class="hero-stat">
+<span class="hero-stat-number">1,256</span>
+<span class="hero-stat-label">Sessions tagged</span>
+</div>
+</div>
+<form action="https://formspree.io/f/xgolgepl" method="POST" class="email-form ">
+<input type="text" name="_gotcha" style="display:none" tabindex="-1" autocomplete="off">
+<input type="email" name="email" placeholder="your@company.com" required>
+<button type="submit" class="btn-primary">See the Data</button>
+</form>
+<p class="email-form-subtext">Free to start. No credit card.</p>
+</div>
+<div class="hero-visual"><div class="speaker-card-hero">
+<div class="speaker-card-header">
+<div class="speaker-avatar avatar-green">D</div>
+<div>
+<div class="speaker-card-name">Dario Amodei</div>
+<div class="speaker-card-meta">Co-Founder & CEO</div>
+</div>
+</div>
+<div class="speaker-card-meta" style="margin-bottom:8px;color:rgba(255,255,255,0.55);font-size:12px;">Anthropic</div>
+<div class="speaker-card-badges"><span class="conf-badge">INBOUND</span><span class="conf-badge">Dreamforce</span></div>
+</div><div class="speaker-card-hero">
+<div class="speaker-card-header">
+<div class="speaker-avatar avatar-sage">M</div>
+<div>
+<div class="speaker-card-name">Mati Staniszewski</div>
+<div class="speaker-card-meta">Co-Founder & CEO</div>
+</div>
+</div>
+<div class="speaker-card-meta" style="margin-bottom:8px;color:rgba(255,255,255,0.55);font-size:12px;">ElevenLabs</div>
+<div class="speaker-card-badges"><span class="conf-badge">INBOUND</span><span class="conf-badge">Dreamforce</span></div>
+</div><div class="speaker-card-hero">
+<div class="speaker-card-header">
+<div class="speaker-avatar avatar-forest">Y</div>
+<div>
+<div class="speaker-card-name">Yamini Rangan</div>
+<div class="speaker-card-meta">CEO</div>
+</div>
+</div>
+<div class="speaker-card-meta" style="margin-bottom:8px;color:rgba(255,255,255,0.55);font-size:12px;">HubSpot</div>
+<div class="speaker-card-badges"><span class="conf-badge">INBOUND</span><span class="conf-badge">SaaStr Annual</span></div>
+</div><div class="speaker-card-hero">
+<div class="speaker-card-header">
+<div class="speaker-avatar avatar-dark">K</div>
+<div>
+<div class="speaker-card-name">Kerry Cunningham</div>
+<div class="speaker-card-meta">Head of Research & Thought Leadership</div>
+</div>
+</div>
+<div class="speaker-card-meta" style="margin-bottom:8px;color:rgba(255,255,255,0.55);font-size:12px;">6sense</div>
+<div class="speaker-card-badges"><span class="conf-badge">INBOUND</span><span class="conf-badge">6sense Breakthrough</span></div>
+</div></div>
+</div>
+</section>
+
+<!-- USE CASES -->
+<section class="use-cases">
+<div class="container">
+<h2 class="section-title">Who uses KeynoteData</h2>
+<p class="section-subtitle">Three teams that can't afford to walk in blind. Which one is yours?</p>
+<div class="use-cases-grid">
+
+<div class="use-case-card">
+<div class="use-case-icon">📊</div>
+<h3>Event Marketing Managers</h3>
+<p>Know which sponsors keep showing up — and which ones are new. See who's speaking before you commit your budget. Stop flying blind on $50K+ conference decisions.</p>
+<p class="use-case-feature">Multi-event sponsor tracker with tier data. Speaker seniority breakdowns per conference.</p>
+</div>
+
+<div class="use-case-card">
+<div class="use-case-icon">🎤</div>
+<h3>PR Agencies &amp; Speaker Placement</h3>
+<p>See who speaks at every conference in your space. Find the gaps — conferences your client's competitors are missing. Pitch the right events with data, not guesswork.</p>
+<p class="use-case-feature">Cross-conference speaker database with LinkedIn. 152 C-level and 183 VP+ speakers tracked.</p>
+</div>
+
+<div class="use-case-card">
+<div class="use-case-icon">🏆</div>
+<h3>Conference Sponsors &amp; Organizers</h3>
+<p>Benchmark your speaker roster against competing events. Track which brands are sponsoring your competitors. Know the full landscape before you set your strategy.</p>
+<p class="use-case-feature">Cross-conference sponsor analysis. 11 sponsors appearing at 2+ events tracked.</p>
+</div>
+
+</div>
+</div>
+</section>
+
+<!-- SAMPLE DATA -->
+<section class="data-section">
+<div class="container">
+<h2 class="section-title">The data looks like this</h2>
+<p class="section-subtitle">Real speakers. Real companies. Real conference appearances. This is the actual database.</p>
+<div class="data-table-wrapper">
+<table class="data-table">
+<thead><tr>
+<th>Name</th><th>Title</th><th>Company</th><th>Level</th><th>Conference(s)</th><th>LinkedIn</th>
+</tr></thead>
+<tbody><tr>
+<td class="td-name">Dario Amodei</td>
+<td>Co-Founder & CEO</td>
+<td>Anthropic</td>
+<td><span class="seniority-badge">C-Level</span></td>
+<td class="td-mono">INBOUND,Dreamforce</td>
+<td><a href="https://www.linkedin.com/in/dario-amodei-3934934" class="td-link" target="_blank" rel="noopener">LinkedIn ↗</a></td>
+</tr><tr>
+<td class="td-name">Mati Staniszewski</td>
+<td>Co-Founder & CEO</td>
+<td>ElevenLabs</td>
+<td><span class="seniority-badge">C-Level</span></td>
+<td class="td-mono">INBOUND,Dreamforce</td>
+<td><a href="https://uk.linkedin.com/in/matiii" class="td-link" target="_blank" rel="noopener">LinkedIn ↗</a></td>
+</tr><tr>
+<td class="td-name">Yamini Rangan</td>
+<td>CEO</td>
+<td>HubSpot</td>
+<td><span class="seniority-badge">C-Level</span></td>
+<td class="td-mono">INBOUND,SaaStr Annual</td>
+<td><a href="https://www.linkedin.com/in/yaminirangan" class="td-link" target="_blank" rel="noopener">LinkedIn ↗</a></td>
+</tr><tr>
+<td class="td-name">Kerry Cunningham</td>
+<td>Head of Research & Thought Leadership</td>
+<td>6sense</td>
+<td><span class="seniority-badge">Head of</span></td>
+<td class="td-mono">INBOUND,6sense Breakthrough</td>
+<td><a href="https://www.linkedin.com/in/kerrycunningham" class="td-link" target="_blank" rel="noopener">LinkedIn ↗</a></td>
+</tr><tr>
+<td class="td-name">Olivier Godement</td>
+<td>Head of Platform</td>
+<td>OpenAI</td>
+<td><span class="seniority-badge">Head of</span></td>
+<td class="td-mono">INBOUND,Dreamforce</td>
+<td><a href="https://www.linkedin.com/in/oliviergodement" class="td-link" target="_blank" rel="noopener">LinkedIn ↗</a></td>
+</tr><tr>
+<td class="td-name">Aaron Levie</td>
+<td>CEO</td>
+<td>Box</td>
+<td><span class="seniority-badge">C-Level</span></td>
+<td class="td-mono">SaaStr Annual</td>
+<td><a href="https://www.linkedin.com/in/boxaaron" class="td-link" target="_blank" rel="noopener">LinkedIn ↗</a></td>
+</tr><tr>
+<td class="td-name">Allan Thygesen</td>
+<td>CEO</td>
+<td>Docusign</td>
+<td><span class="seniority-badge">C-Level</span></td>
+<td class="td-mono">Dreamforce</td>
+<td><a href="https://www.linkedin.com/in/allanthygesen" class="td-link" target="_blank" rel="noopener">LinkedIn ↗</a></td>
+</tr><tr>
+<td class="td-name">Allison Dancy</td>
+<td>CMO</td>
+<td>RED OAK</td>
+<td><span class="seniority-badge">C-Level</span></td>
+<td class="td-mono">Spryng</td>
+<td><a href="https://www.linkedin.com/in/allisondancy" class="td-link" target="_blank" rel="noopener">LinkedIn ↗</a></td>
+</tr><tr>
+<td class="td-name">Alon Arvatz</td>
+<td>CEO</td>
+<td>PointFive</td>
+<td><span class="seniority-badge">C-Level</span></td>
+<td class="td-mono">Dreamforce</td>
+<td><a href="https://il.linkedin.com/in/alon-arvatz" class="td-link" target="_blank" rel="noopener">LinkedIn ↗</a></td>
+</tr><tr>
+<td class="td-name">Amanda McGuckin Hager</td>
+<td>CMO and CRO</td>
+<td>truedialog</td>
+<td><span class="seniority-badge">C-Level</span></td>
+<td class="td-mono">Spryng</td>
+<td><a href="https://www.linkedin.com/in/amanda" class="td-link" target="_blank" rel="noopener">LinkedIn ↗</a></td>
+</tr><tr>
+<td class="td-name">Amelia Lerutte</td>
+<td>Chief AI Officer</td>
+<td>SaaStr</td>
+<td><span class="seniority-badge">C-Level</span></td>
+<td class="td-mono">SaaStr Annual</td>
+<td><a href="https://www.linkedin.com/in/amelialerutte" class="td-link" target="_blank" rel="noopener">LinkedIn ↗</a></td>
+</tr><tr>
+<td class="td-name">Amro Naddy</td>
+<td>Product and Business Leader, Founder</td>
+<td>Naddy Consulting</td>
+<td><span class="seniority-badge">C-Level</span></td>
+<td class="td-mono">LeadsCon</td>
+<td><span class="text-muted">—</span></td>
+</tr></tbody>
+</table>
+</div>
+<div class="data-gate">
+<div class="data-gate-inner">
+<p>Showing 12 of 887 speakers. See the full database — filtered by conference, seniority, company, or function.</p>
+<form action="https://formspree.io/f/xgolgepl" method="POST" class="email-form ">
+<input type="text" name="_gotcha" style="display:none" tabindex="-1" autocomplete="off">
+<input type="email" name="email" placeholder="your@company.com" required>
+<button type="submit" class="btn-primary">Get Full Access</button>
+</form>
+</div>
+</div>
+</div>
+</section>
+
+<!-- THREE THINGS YOU'LL KNOW -->
+<section class="how-it-works">
+<div class="container">
+<h2 class="section-title">Three things you'll know before anyone else</h2>
+<p class="section-subtitle">This is what the data actually tells you.</p>
+<div class="steps-grid">
+<div class="step-card">
+<div class="step-number">01</div>
+<h3>Which target accounts have speakers at your next conference</h3>
+<p>Match the speaker roster against your ICP before you commit the budget. Know who's in the room — by company, title, and seniority — before you book the sponsorship.</p>
+</div>
+<div class="step-card">
+<div class="step-number">02</div>
+<h3>Which sponsors keep showing up</h3>
+<p>11 companies sponsor 2+ events in our database. That's not coincidence — that's where your competitors are spending. Know the pattern before you set your strategy.</p>
+</div>
+<div class="step-card">
+<div class="step-number">03</div>
+<h3>What topics the audience actually cares about</h3>
+<p>1,256 sessions tagged by track and format across 13 conferences. See what's trending, what's saturated, and where the gaps are.</p>
+</div>
+</div>
+</div>
+</section>
+
+<!-- CONFERENCES COVERED -->
+<section class="data-section">
+<div class="container">
+<h2 class="section-title">Conferences in the database</h2>
+<p class="section-subtitle">214 conferences tracked. 13 with full speaker and sponsor data — and growing.</p>
+<div class="conference-grid"><a href="/conferences/inbound/" class="conf-card">
+<div class="conf-card-name">INBOUND</div>
+<div class="conf-card-meta">Boston · 25,000 attendees</div>
+<div class="conf-card-stats">
+<div class="conf-stat">
+<span class="conf-stat-num">393</span>
+<span class="conf-stat-label">speakers</span>
+</div>
+<div class='conf-stat'><span class='conf-stat-num'>112</span><span class='conf-stat-label'>sponsors</span></div>
+<div class='conf-stat'><span class='conf-stat-num'>279</span><span class='conf-stat-label'>sessions</span></div>
+</div>
+</a><a href="/conferences/slush/" class="conf-card">
+<div class="conf-card-name">Slush</div>
+<div class="conf-card-meta">Helsinki · 8,000 attendees</div>
+<div class="conf-card-stats">
+<div class="conf-stat">
+<span class="conf-stat-num">120</span>
+<span class="conf-stat-label">speakers</span>
+</div>
+
+
+</div>
+</a><a href="/conferences/leadscon/" class="conf-card">
+<div class="conf-card-name">LeadsCon</div>
+<div class="conf-card-meta">Las Vegas · 2,700 attendees</div>
+<div class="conf-card-stats">
+<div class="conf-stat">
+<span class="conf-stat-num">88</span>
+<span class="conf-stat-label">speakers</span>
+</div>
+<div class='conf-stat'><span class='conf-stat-num'>26</span><span class='conf-stat-label'>sponsors</span></div>
+
+</div>
+</a><a href="/conferences/spryng/" class="conf-card">
+<div class="conf-card-name">Spryng</div>
+<div class="conf-card-meta">Austin · 500 attendees</div>
+<div class="conf-card-stats">
+<div class="conf-stat">
+<span class="conf-stat-num">72</span>
+<span class="conf-stat-label">speakers</span>
+</div>
+<div class='conf-stat'><span class='conf-stat-num'>3</span><span class='conf-stat-label'>sponsors</span></div>
+
+</div>
+</a><a href="/conferences/dreamforce/" class="conf-card">
+<div class="conf-card-name">Dreamforce</div>
+<div class="conf-card-meta">San Francisco · 40,000 attendees</div>
+<div class="conf-card-stats">
+<div class="conf-stat">
+<span class="conf-stat-num">70</span>
+<span class="conf-stat-label">speakers</span>
+</div>
+
+<div class='conf-stat'><span class='conf-stat-num'>910</span><span class='conf-stat-label'>sessions</span></div>
+</div>
+</a><a href="/conferences/sandler-summit/" class="conf-card">
+<div class="conf-card-name">Sandler Summit</div>
+<div class="conf-card-meta">US · 1,000 attendees</div>
+<div class="conf-card-stats">
+<div class="conf-stat">
+<span class="conf-stat-num">54</span>
+<span class="conf-stat-label">speakers</span>
+</div>
+
+<div class='conf-stat'><span class='conf-stat-num'>18</span><span class='conf-stat-label'>sessions</span></div>
+</div>
+</a><a href="/conferences/saastr-annual/" class="conf-card">
+<div class="conf-card-name">SaaStr Annual</div>
+<div class="conf-card-meta">San Francisco · 12,500 attendees</div>
+<div class="conf-card-stats">
+<div class="conf-stat">
+<span class="conf-stat-num">30</span>
+<span class="conf-stat-label">speakers</span>
+</div>
+<div class='conf-stat'><span class='conf-stat-num'>38</span><span class='conf-stat-label'>sponsors</span></div>
+
+</div>
+</a><a href="/conferences/ere/" class="conf-card">
+<div class="conf-card-name">ERE</div>
+<div class="conf-card-meta">US · 700 attendees</div>
+<div class="conf-card-stats">
+<div class="conf-stat">
+<span class="conf-stat-num">23</span>
+<span class="conf-stat-label">speakers</span>
+</div>
+
+<div class='conf-stat'><span class='conf-stat-num'>16</span><span class='conf-stat-label'>sessions</span></div>
+</div>
+</a><a href="/conferences/mozcon/" class="conf-card">
+<div class="conf-card-name">MozCon</div>
+<div class="conf-card-meta">New York · 1,500 attendees</div>
+<div class="conf-card-stats">
+<div class="conf-stat">
+<span class="conf-stat-num">16</span>
+<span class="conf-stat-label">speakers</span>
+</div>
+
+
+</div>
+</a></div>
+<div style="text-align:center;">
+<a href="/conferences/" style="font-family:var(--font-heading);font-weight:var(--weight-semibold);color:var(--color-primary);font-size:var(--text-sm);">View all 13 conferences with full data →</a>
+</div>
+</div>
+</section>
+
+<!-- FAQ -->
+<section class="faq-section">
+<div class="container">
+<h2 class="section-title">Questions</h2>
+<div class="faq-list"><details class="faq-item"><summary class="faq-question">How often is the data updated?</summary><div class="faq-answer">We refresh the database after each conference cycle — typically twice a year per event. Our scrapers run on a schedule, and every record is reviewed before it goes into the database.</div></details><details class="faq-item"><summary class="faq-question">What conferences are covered?</summary><div class="faq-answer">We have full data on 13 conferences today, including INBOUND, Dreamforce, SaaStr Annual, MozCon, Slush, LeadsCon, and more. We're tracking 49 conferences total and adding data as conferences publish their speaker lineups.</div></details><details class="faq-item"><summary class="faq-question">Can I export the data?</summary><div class="faq-answer">Yes. CSV export is included on all paid plans. You can export speaker lists, sponsor rosters, and session data filtered by conference, seniority, function, or topic.</div></details><details class="faq-item"><summary class="faq-question">What data is included for each speaker?</summary><div class="faq-answer">Name, title, company, seniority tier (C-level, VP, Director, etc.), function category, LinkedIn URL (available for 605 of 887 speakers), and every conference they've spoken at.</div></details><details class="faq-item"><summary class="faq-question">Is there an API?</summary><div class="faq-answer">Not yet. It's on the roadmap. For now, all data is available via CSV export or custom data pulls. If you need API access, reach out — we're working with early customers to scope the requirements.</div></details><details class="faq-item"><summary class="faq-question">How is this different from just looking at conference websites?</summary><div class="faq-answer">Conference sites list speakers per event, with no cross-conference view. KeynoteData lets you see who speaks everywhere, track sponsor patterns across events, and identify the speakers who keep showing up — all in one searchable, exportable database.</div></details></div>
+</div>
+</section>
+
+<!-- 2ND CTA -->
+<section class="cta-section">
+<div class="container">
+<h2>Stop guessing who'll be in the room.</h2>
+<p>887 speakers. 487 sponsors. 13 conferences. The data exists — now it's organized.</p>
+<div class="cta-form-wrap"><form action="https://formspree.io/f/xgolgepl" method="POST" class="email-form ">
+<input type="text" name="_gotcha" style="display:none" tabindex="-1" autocomplete="off">
+<input type="email" name="email" placeholder="your@company.com" required>
+<button type="submit" class="btn-primary">Get Early Access</button>
+</form></div>
+</div>
+</section>
+
+<!-- FOUNDER'S NOTE -->
+<section class="founders-section">
+<div class="container">
+<div class="founders-note">
+<blockquote>"I built KeynoteData after spending tens of thousands of dollars on conferences where I had no idea who was speaking or why they were there. The data existed — scattered across conference websites, LinkedIn, and speaker directories. I just organized it."</blockquote>
+<cite>— Rome, Founder</cite>
+</div>
+</div>
+</section>
+
+<footer class="site-footer">
+<div class="footer-inner">
+<div class="footer-brand-col">
+<div class="footer-logo"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+<rect x="9" y="2" width="6" height="11" rx="3" fill="#5B9E7A"/>
+<path d="M5 10a7 7 0 0014 0" stroke="#5B9E7A" stroke-width="2" stroke-linecap="round"/>
+<line x1="12" y1="17" x2="12" y2="21" stroke="#5B9E7A" stroke-width="2" stroke-linecap="round"/>
+<line x1="8" y1="21" x2="16" y2="21" stroke="#5B9E7A" stroke-width="2" stroke-linecap="round"/>
+</svg><span class="footer-logo-text">KeynoteData</span></div>
+<p class="footer-tagline">Conference intelligence for B2B marketers. 887 speakers, 487 sponsors, 13 conferences — and growing.</p>
+</div>
+<div class="footer-col">
+<h3>Conferences</h3>
+<ul><li><a href="/conferences/inbound/">INBOUND</a></li>
+<li><a href="/conferences/dreamforce/">Dreamforce</a></li>
+<li><a href="/conferences/saastr-annual/">SaaStr Annual</a></li>
+<li><a href="/conferences/mozcon/">MozCon</a></li>
+<li><a href="/conferences/slush/">Slush</a></li>
+<li><a href="/conferences/">All Conferences →</a></li></ul>
+</div>
+<div class="footer-col">
+<h3>Intelligence</h3>
+<ul><li><a href="/conference-speaker-database/">Speaker Database</a></li>
+<li><a href="/b2b-conference-sponsors/">Sponsor Intelligence</a></li>
+<li><a href="/conference-speaking-opportunities/">Speaking Opportunities</a></li>
+<li><a href="/event-marketing-intelligence/">Event Marketing</a></li></ul>
+</div>
+<div class="footer-col">
+<h3>Resources</h3>
+<ul><li><a href="/best-b2b-saas-conferences-2026/">Best B2B SaaS Conferences</a></li>
+<li><a href="/best-b2b-marketing-conferences-2026/">Best Marketing Conferences</a></li>
+<li><a href="/best-sales-conferences-2026/">Best Sales Conferences</a></li>
+<li><a href="/about/">About</a></li>
+<li><a href="/pricing/">Pricing</a></li></ul>
+</div>
+</div>
+<div class="footer-bottom">
+<p class="footer-copyright">&copy; 2026 KeynoteData. All rights reserved.</p>
+<p class="footer-copyright">Data updated 2026-03-03.</p>
+</div>
+</footer>
+<script src="/assets/js/main.js"></script>
+</body>
+</html>
