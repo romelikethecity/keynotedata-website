@@ -1,0 +1,4872 @@
+[
+  {
+    "id": 60,
+    "name": "Aurasell",
+    "name_normalized": "aurasell",
+    "category": null,
+    "website_url": "https://www.aurasell.ai",
+    "events_sponsored": 3,
+    "conferences": "INBOUND (bronze),Pavilion GTM2026 (sponsor),SaaStr Annual (sponsor)",
+    "conference_slugs": "inbound,pavilion-gtm,saastr-annual"
+  },
+  {
+    "id": 73,
+    "name": "Attention",
+    "name_normalized": "attention",
+    "category": null,
+    "website_url": "https://www.attention.tech",
+    "events_sponsored": 2,
+    "conferences": "INBOUND (gold),SaaStr Annual (sponsor)",
+    "conference_slugs": "inbound,saastr-annual"
+  },
+  {
+    "id": 131,
+    "name": "Deluxe",
+    "name_normalized": "deluxe",
+    "category": null,
+    "website_url": "https://www.deluxe.com/merchant-services/",
+    "events_sponsored": 2,
+    "conferences": "LeadsCon (sponsor),SaaStr Annual (sponsor)",
+    "conference_slugs": "leadscon,saastr-annual"
+  },
+  {
+    "id": 110,
+    "name": "G2",
+    "name_normalized": "g2",
+    "category": null,
+    "website_url": "https://www.g2.com",
+    "events_sponsored": 2,
+    "conferences": "INBOUND (silver),SaaStr Annual (sponsor)",
+    "conference_slugs": "inbound,saastr-annual"
+  },
+  {
+    "id": 9,
+    "name": "Nooks",
+    "name_normalized": "nooks",
+    "category": null,
+    "website_url": "https://www.nooks.ai/",
+    "events_sponsored": 2,
+    "conferences": "INBOUND (bronze),Pavilion GTM2026 (sponsor)",
+    "conference_slugs": "inbound,pavilion-gtm"
+  },
+  {
+    "id": 87,
+    "name": "Qualified",
+    "name_normalized": "qualified",
+    "category": null,
+    "website_url": "https://www.qualified.com",
+    "events_sponsored": 2,
+    "conferences": "INBOUND (silver),SaaStr Annual (sponsor)",
+    "conference_slugs": "inbound,saastr-annual"
+  },
+  {
+    "id": 77,
+    "name": "QuotaPath",
+    "name_normalized": "quotapath",
+    "category": null,
+    "website_url": "https://www.quotapath.com/",
+    "events_sponsored": 2,
+    "conferences": "INBOUND (silver),Pavilion GTM2026 (sponsor)",
+    "conference_slugs": "inbound,pavilion-gtm"
+  },
+  {
+    "id": 2,
+    "name": "UserGems",
+    "name_normalized": "usergems",
+    "category": null,
+    "website_url": "https://www.usergems.com/",
+    "events_sponsored": 2,
+    "conferences": "INBOUND (bronze),Pavilion GTM2026 (sponsor)",
+    "conference_slugs": "inbound,pavilion-gtm"
+  },
+  {
+    "id": 286,
+    "name": "Vector",
+    "name_normalized": "vector",
+    "category": null,
+    "website_url": "https://www.vector.co/",
+    "events_sponsored": 2,
+    "conferences": "MOps-Apalooza (sponsor),Pavilion GTM2026 (sponsor)",
+    "conference_slugs": "mops-apalooza,pavilion-gtm"
+  },
+  {
+    "id": 140,
+    "name": "knak.com",
+    "name_normalized": "knak.com",
+    "category": null,
+    "website_url": "https://knak.com/",
+    "events_sponsored": 2,
+    "conferences": "Spryng (sponsor),B2BMX (exhibitor)",
+    "conference_slugs": "spryng,b2bmx"
+  },
+  {
+    "id": 279,
+    "name": "openprise",
+    "name_normalized": "openprise",
+    "category": null,
+    "website_url": "https://www.openprisetech.com",
+    "events_sponsored": 2,
+    "conferences": "MOps-Apalooza (sponsor),SaaStr Annual (sponsor)",
+    "conference_slugs": "mops-apalooza,saastr-annual"
+  },
+  {
+    "id": 305,
+    "name": "11x",
+    "name_normalized": "11x",
+    "category": null,
+    "website_url": "https://www.11x.ai/",
+    "events_sponsored": 1,
+    "conferences": "Pavilion GTM2026 (sponsor)",
+    "conference_slugs": "pavilion-gtm"
+  },
+  {
+    "id": 292,
+    "name": "1N7A7707",
+    "name_normalized": "1n7a7707",
+    "category": null,
+    "website_url": null,
+    "events_sponsored": 1,
+    "conferences": "Pavilion GTM2026 (sponsor)",
+    "conference_slugs": "pavilion-gtm"
+  },
+  {
+    "id": 289,
+    "name": "1N7A7745",
+    "name_normalized": "1n7a7745",
+    "category": null,
+    "website_url": null,
+    "events_sponsored": 1,
+    "conferences": "Pavilion GTM2026 (sponsor)",
+    "conference_slugs": "pavilion-gtm"
+  },
+  {
+    "id": 293,
+    "name": "1N7A8188",
+    "name_normalized": "1n7a8188",
+    "category": null,
+    "website_url": null,
+    "events_sponsored": 1,
+    "conferences": "Pavilion GTM2026 (sponsor)",
+    "conference_slugs": "pavilion-gtm"
+  },
+  {
+    "id": 288,
+    "name": "1N7A8253",
+    "name_normalized": "1n7a8253",
+    "category": null,
+    "website_url": null,
+    "events_sponsored": 1,
+    "conferences": "Pavilion GTM2026 (sponsor)",
+    "conference_slugs": "pavilion-gtm"
+  },
+  {
+    "id": 291,
+    "name": "1N7A9144 1",
+    "name_normalized": "1n7a9144 1",
+    "category": null,
+    "website_url": null,
+    "events_sponsored": 1,
+    "conferences": "Pavilion GTM2026 (sponsor)",
+    "conference_slugs": "pavilion-gtm"
+  },
+  {
+    "id": 290,
+    "name": "1N7A9940",
+    "name_normalized": "1n7a9940",
+    "category": null,
+    "website_url": null,
+    "events_sponsored": 1,
+    "conferences": "Pavilion GTM2026 (sponsor)",
+    "conference_slugs": "pavilion-gtm"
+  },
+  {
+    "id": 311,
+    "name": "1mind",
+    "name_normalized": "1mind",
+    "category": null,
+    "website_url": "https://www.1mind.com/",
+    "events_sponsored": 1,
+    "conferences": "Pavilion GTM2026 (sponsor)",
+    "conference_slugs": "pavilion-gtm"
+  },
+  {
+    "id": 144,
+    "name": "2x",
+    "name_normalized": "2x",
+    "category": null,
+    "website_url": null,
+    "events_sponsored": 1,
+    "conferences": "6sense Breakthrough (sponsor)",
+    "conference_slugs": "6sense-breakthrough"
+  },
+  {
+    "id": 104,
+    "name": "6sense",
+    "name_normalized": "6sense",
+    "category": null,
+    "website_url": "https://6sense.com/events-webinars/inbound-2025/",
+    "events_sponsored": 1,
+    "conferences": "INBOUND (silver)",
+    "conference_slugs": "inbound"
+  },
+  {
+    "id": 412,
+    "name": "6sense.com",
+    "name_normalized": "6sense.com",
+    "category": null,
+    "website_url": "https://6sense.com",
+    "events_sponsored": 1,
+    "conferences": "B2BMX (exhibitor)",
+    "conference_slugs": "b2bmx"
+  },
+  {
+    "id": 178,
+    "name": "A blue technology-inspired background with AI 4 Sales in white",
+    "name_normalized": "a blue technology-inspired background with ai 4 sales in white",
+    "category": null,
+    "website_url": "/blog/subscribe-to-the-sales-3-0-newsletter/?sp_src=Sales30Conf_Site_Homepage_Newsletter-CTA_Tile-Image",
+    "events_sponsored": 1,
+    "conferences": "Sales 3.0 (sponsor)",
+    "conference_slugs": "sales-3-0"
+  },
+  {
+    "id": 174,
+    "name": "A blue to green gradient.",
+    "name_normalized": "a blue to green gradient.",
+    "category": null,
+    "website_url": null,
+    "events_sponsored": 1,
+    "conferences": "Sales 3.0 (sponsor)",
+    "conference_slugs": "sales-3-0"
+  },
+  {
+    "id": 114,
+    "name": "AWL",
+    "name_normalized": "awl",
+    "category": null,
+    "website_url": null,
+    "events_sponsored": 1,
+    "conferences": "LeadsCon (sponsor)",
+    "conference_slugs": "leadscon"
+  },
+  {
+    "id": 115,
+    "name": "ActiveProspect",
+    "name_normalized": "activeprospect",
+    "category": null,
+    "website_url": null,
+    "events_sponsored": 1,
+    "conferences": "LeadsCon (sponsor)",
+    "conference_slugs": "leadscon"
+  },
+  {
+    "id": 51,
+    "name": "AdRoll",
+    "name_normalized": "adroll",
+    "category": null,
+    "website_url": "https://www.adroll.com/inbound",
+    "events_sponsored": 1,
+    "conferences": "INBOUND (platinum)",
+    "conference_slugs": "inbound"
+  },
+  {
+    "id": 89,
+    "name": "Agency",
+    "name_normalized": "agency",
+    "category": null,
+    "website_url": "https://agency.inc/",
+    "events_sponsored": 1,
+    "conferences": "INBOUND (bronze)",
+    "conference_slugs": "inbound"
+  },
+  {
+    "id": 160,
+    "name": "Agentss.ai logo",
+    "name_normalized": "agentss.ai logo",
+    "category": null,
+    "website_url": null,
+    "events_sponsored": 1,
+    "conferences": "Outreach Unleash (bronze)",
+    "conference_slugs": "outreach-unleash"
+  },
+  {
+    "id": 336,
+    "name": "Agree.com",
+    "name_normalized": "agree.com",
+    "category": null,
+    "website_url": "https://www.agree.com",
+    "events_sponsored": 1,
+    "conferences": "SaaStr Annual (sponsor)",
+    "conference_slugs": "saastr-annual"
+  },
+  {
+    "id": 64,
+    "name": "Aircall",
+    "name_normalized": "aircall",
+    "category": null,
+    "website_url": "https://aircall.io/",
+    "events_sponsored": 1,
+    "conferences": "INBOUND (bronze)",
+    "conference_slugs": "inbound"
+  },
+  {
+    "id": 481,
+    "name": "Alex Bauer",
+    "name_normalized": "alex bauer",
+    "category": null,
+    "website_url": null,
+    "events_sponsored": 1,
+    "conferences": "B2BMX (exhibitor)",
+    "conference_slugs": "b2bmx"
+  },
+  {
+    "id": 484,
+    "name": "Alexis Cline",
+    "name_normalized": "alexis cline",
+    "category": null,
+    "website_url": null,
+    "events_sponsored": 1,
+    "conferences": "B2BMX (exhibitor)",
+    "conference_slugs": "b2bmx"
+  },
+  {
+    "id": 129,
+    "name": "Alliant Cooperative Data Solutions",
+    "name_normalized": "alliant cooperative data",
+    "category": null,
+    "website_url": null,
+    "events_sponsored": 1,
+    "conferences": "LeadsCon (sponsor)",
+    "conference_slugs": "leadscon"
+  },
+  {
+    "id": 25,
+    "name": "Aloware",
+    "name_normalized": "aloware",
+    "category": null,
+    "website_url": "https://aloware.com/",
+    "events_sponsored": 1,
+    "conferences": "INBOUND (silver)",
+    "conference_slugs": "inbound"
+  },
+  {
+    "id": 161,
+    "name": "Altisales logo",
+    "name_normalized": "altisales logo",
+    "category": null,
+    "website_url": null,
+    "events_sponsored": 1,
+    "conferences": "Outreach Unleash (bronze)",
+    "conference_slugs": "outreach-unleash"
+  },
+  {
+    "id": 337,
+    "name": "Ampersand",
+    "name_normalized": "ampersand",
+    "category": null,
+    "website_url": "https://www.ampersand.com",
+    "events_sponsored": 1,
+    "conferences": "SaaStr Annual (sponsor)",
+    "conference_slugs": "saastr-annual"
+  },
+  {
+    "id": 48,
+    "name": "Amplemarket",
+    "name_normalized": "amplemarket",
+    "category": null,
+    "website_url": "https://www.amplemarket.com/",
+    "events_sponsored": 1,
+    "conferences": "INBOUND (silver)",
+    "conference_slugs": "inbound"
+  },
+  {
+    "id": 297,
+    "name": "Aristan",
+    "name_normalized": "aristan",
+    "category": null,
+    "website_url": "https://www.artisan.co/",
+    "events_sponsored": 1,
+    "conferences": "Pavilion GTM2026 (sponsor)",
+    "conference_slugs": "pavilion-gtm"
+  },
+  {
+    "id": 153,
+    "name": "Arrive eager, leave determined",
+    "name_normalized": "arrive eager, leave determined",
+    "category": null,
+    "website_url": null,
+    "events_sponsored": 1,
+    "conferences": "Outreach Unleash (sponsor)",
+    "conference_slugs": "outreach-unleash"
+  },
+  {
+    "id": 317,
+    "name": "Artisan",
+    "name_normalized": "artisan",
+    "category": null,
+    "website_url": "https://www.artisan.co",
+    "events_sponsored": 1,
+    "conferences": "SaaStr Annual (sponsor)",
+    "conference_slugs": "saastr-annual"
+  },
+  {
+    "id": 56,
+    "name": "Asana",
+    "name_normalized": "asana",
+    "category": null,
+    "website_url": "https://www.asana.com",
+    "events_sponsored": 1,
+    "conferences": "INBOUND (silver)",
+    "conference_slugs": "inbound"
+  },
+  {
+    "id": 313,
+    "name": "Ascent Cloud",
+    "name_normalized": "ascent cloud",
+    "category": null,
+    "website_url": "https://ascentcloud.io/",
+    "events_sponsored": 1,
+    "conferences": "Pavilion GTM2026 (sponsor)",
+    "conference_slugs": "pavilion-gtm"
+  },
+  {
+    "id": 361,
+    "name": "Aurasell Vertical logo",
+    "name_normalized": "aurasell vertical logo",
+    "category": null,
+    "website_url": "https://hubs.li/Q044YcPG0",
+    "events_sponsored": 1,
+    "conferences": "RevOpsAF US (gold)",
+    "conference_slugs": "revopsaf-us"
+  },
+  {
+    "id": 96,
+    "name": "Awin",
+    "name_normalized": "awin",
+    "category": null,
+    "website_url": "https://www.awin.com/",
+    "events_sponsored": 1,
+    "conferences": "INBOUND (bronze)",
+    "conference_slugs": "inbound"
+  },
+  {
+    "id": 364,
+    "name": "B2B Marketing Exchange",
+    "name_normalized": "b2b marketing exchange",
+    "category": null,
+    "website_url": "https://b2bmarketing.exchange/",
+    "events_sponsored": 1,
+    "conferences": "B2BMX (exhibitor)",
+    "conference_slugs": "b2bmx"
+  },
+  {
+    "id": 363,
+    "name": "B2B Marketing Exchange Logo",
+    "name_normalized": "b2b marketing exchange logo",
+    "category": null,
+    "website_url": "https://b2bmarketing.exchange/",
+    "events_sponsored": 1,
+    "conferences": "B2BMX (exhibitor)",
+    "conference_slugs": "b2bmx"
+  },
+  {
+    "id": 13,
+    "name": "BHN | Tango",
+    "name_normalized": "bhn | tango",
+    "category": null,
+    "website_url": "https://www.tangocard.com/",
+    "events_sponsored": 1,
+    "conferences": "INBOUND (silver)",
+    "conference_slugs": "inbound"
+  },
+  {
+    "id": 65,
+    "name": "BRANDITO",
+    "name_normalized": "brandito",
+    "category": null,
+    "website_url": "https://brandito.net/",
+    "events_sponsored": 1,
+    "conferences": "INBOUND (silver)",
+    "conference_slugs": "inbound"
+  },
+  {
+    "id": 70,
+    "name": "Badger Maps",
+    "name_normalized": "badger maps",
+    "category": null,
+    "website_url": "https://www.badgermapping.com/",
+    "events_sponsored": 1,
+    "conferences": "INBOUND (silver)",
+    "conference_slugs": "inbound"
+  },
+  {
+    "id": 483,
+    "name": "Ben Belcher",
+    "name_normalized": "ben belcher",
+    "category": null,
+    "website_url": null,
+    "events_sponsored": 1,
+    "conferences": "B2BMX (exhibitor)",
+    "conference_slugs": "b2bmx"
+  },
+  {
+    "id": 80,
+    "name": "Bevi",
+    "name_normalized": "bevi",
+    "category": null,
+    "website_url": "https://bevi.co/office-water-cooler/",
+    "events_sponsored": 1,
+    "conferences": "INBOUND (bronze)",
+    "conference_slugs": "inbound"
+  },
+  {
+    "id": 136,
+    "name": "Blacks in Performance Marketing",
+    "name_normalized": "blacks in performance marketing",
+    "category": null,
+    "website_url": null,
+    "events_sponsored": 1,
+    "conferences": "LeadsCon (sponsor)",
+    "conference_slugs": "leadscon"
+  },
+  {
+    "id": 15,
+    "name": "Blend",
+    "name_normalized": "blend",
+    "category": null,
+    "website_url": "https://www.blendb2b.com",
+    "events_sponsored": 1,
+    "conferences": "INBOUND (silver)",
+    "conference_slugs": "inbound"
+  },
+  {
+    "id": 24,
+    "name": "Blinq",
+    "name_normalized": "blinq",
+    "category": null,
+    "website_url": "https://blinq.me/",
+    "events_sponsored": 1,
+    "conferences": "INBOUND (bronze)",
+    "conference_slugs": "inbound"
+  },
+  {
+    "id": 335,
+    "name": "Booking.com",
+    "name_normalized": "booking.com",
+    "category": null,
+    "website_url": "https://www.booking.com",
+    "events_sponsored": 1,
+    "conferences": "SaaStr Annual (sponsor)",
+    "conference_slugs": "saastr-annual"
+  },
+  {
+    "id": 12,
+    "name": "Botpress",
+    "name_normalized": "botpress",
+    "category": null,
+    "website_url": "https://botpress.com",
+    "events_sponsored": 1,
+    "conferences": "INBOUND (bronze)",
+    "conference_slugs": "inbound"
+  },
+  {
+    "id": 310,
+    "name": "Braindate",
+    "name_normalized": "braindate",
+    "category": null,
+    "website_url": "https://www.braindate.com",
+    "events_sponsored": 1,
+    "conferences": "Pavilion GTM2026 (sponsor)",
+    "conference_slugs": "pavilion-gtm"
+  },
+  {
+    "id": 97,
+    "name": "Brandlive",
+    "name_normalized": "brandlive",
+    "category": null,
+    "website_url": "https://www.brandlive.com/",
+    "events_sponsored": 1,
+    "conferences": "INBOUND (platinum)",
+    "conference_slugs": "inbound"
+  },
+  {
+    "id": 142,
+    "name": "Break Through 24",
+    "name_normalized": "break through 24",
+    "category": null,
+    "website_url": null,
+    "events_sponsored": 1,
+    "conferences": "6sense Breakthrough (sponsor)",
+    "conference_slugs": "6sense-breakthrough"
+  },
+  {
+    "id": 76,
+    "name": "BruntWork",
+    "name_normalized": "bruntwork",
+    "category": null,
+    "website_url": "https://www.bruntwork.co/",
+    "events_sponsored": 1,
+    "conferences": "INBOUND (bronze)",
+    "conference_slugs": "inbound"
+  },
+  {
+    "id": 14,
+    "name": "CHEQ",
+    "name_normalized": "cheq",
+    "category": null,
+    "website_url": "https://cheq.ai/?utm_campaign=CQ-EV-2025-09-03-INBOUND--San-Francisco&utm_medium=event&utm_source=inbound&utm_content=inbound-lp",
+    "events_sponsored": 1,
+    "conferences": "INBOUND (gold)",
+    "conference_slugs": "inbound"
+  },
+  {
+    "id": 282,
+    "name": "COMMUNITY",
+    "name_normalized": "community",
+    "category": null,
+    "website_url": null,
+    "events_sponsored": 1,
+    "conferences": "MOps-Apalooza (sponsor)",
+    "conference_slugs": "mops-apalooza"
+  },
+  {
+    "id": 46,
+    "name": "CallRail",
+    "name_normalized": "callrail",
+    "category": null,
+    "website_url": "https://sta.mx/4131",
+    "events_sponsored": 1,
+    "conferences": "INBOUND (platinum)",
+    "conference_slugs": "inbound"
+  },
+  {
+    "id": 93,
+    "name": "Canva",
+    "name_normalized": "canva",
+    "category": null,
+    "website_url": "https://www.canva.com/enterprise/",
+    "events_sponsored": 1,
+    "conferences": "INBOUND (gold)",
+    "conference_slugs": "inbound"
+  },
+  {
+    "id": 316,
+    "name": "CaptivateTalent",
+    "name_normalized": "captivatetalent",
+    "category": null,
+    "website_url": "https://www.captivatetalent.com/",
+    "events_sponsored": 1,
+    "conferences": "Pavilion GTM2026 (sponsor)",
+    "conference_slugs": "pavilion-gtm"
+  },
+  {
+    "id": 314,
+    "name": "Chart Mogul",
+    "name_normalized": "chart mogul",
+    "category": null,
+    "website_url": "https://chartmogul.com/",
+    "events_sponsored": 1,
+    "conferences": "Pavilion GTM2026 (sponsor)",
+    "conference_slugs": "pavilion-gtm"
+  },
+  {
+    "id": 1,
+    "name": "Chili Piper",
+    "name_normalized": "chili piper",
+    "category": null,
+    "website_url": "https://www.chilipiper.com/",
+    "events_sponsored": 1,
+    "conferences": "INBOUND (silver)",
+    "conference_slugs": "inbound"
+  },
+  {
+    "id": 362,
+    "name": "Chili Piper logo RevOpsAF",
+    "name_normalized": "chili piper logo revopsaf",
+    "category": null,
+    "website_url": "https://hubs.li/Q04457XZ0",
+    "events_sponsored": 1,
+    "conferences": "RevOpsAF US (gold)",
+    "conference_slugs": "revopsaf-us"
+  },
+  {
+    "id": 37,
+    "name": "Clay",
+    "name_normalized": "clay",
+    "category": null,
+    "website_url": "https://www.clay.com",
+    "events_sponsored": 1,
+    "conferences": "INBOUND (gold)",
+    "conference_slugs": "inbound"
+  },
+  {
+    "id": 298,
+    "name": "Clearitty",
+    "name_normalized": "clearitty",
+    "category": null,
+    "website_url": "https://www.clearitty.com/",
+    "events_sponsored": 1,
+    "conferences": "Pavilion GTM2026 (sponsor)",
+    "conference_slugs": "pavilion-gtm"
+  },
+  {
+    "id": 130,
+    "name": "Clerk Chat",
+    "name_normalized": "clerk chat",
+    "category": null,
+    "website_url": null,
+    "events_sponsored": 1,
+    "conferences": "LeadsCon (sponsor)",
+    "conference_slugs": "leadscon"
+  },
+  {
+    "id": 304,
+    "name": "Clozd",
+    "name_normalized": "clozd",
+    "category": null,
+    "website_url": "https://www.clozd.com/",
+    "events_sponsored": 1,
+    "conferences": "Pavilion GTM2026 (sponsor)",
+    "conference_slugs": "pavilion-gtm"
+  },
+  {
+    "id": 94,
+    "name": "Coefficient",
+    "name_normalized": "coefficient",
+    "category": null,
+    "website_url": "https://coefficient.io/",
+    "events_sponsored": 1,
+    "conferences": "INBOUND (silver)",
+    "conference_slugs": "inbound"
+  },
+  {
+    "id": 91,
+    "name": "Commercient",
+    "name_normalized": "commercient",
+    "category": null,
+    "website_url": "https://www.commercient.com/",
+    "events_sponsored": 1,
+    "conferences": "INBOUND (silver)",
+    "conference_slugs": "inbound"
+  },
+  {
+    "id": 78,
+    "name": "Computan",
+    "name_normalized": "computan",
+    "category": null,
+    "website_url": "https://www.computan.com/",
+    "events_sponsored": 1,
+    "conferences": "INBOUND (bronze)",
+    "conference_slugs": "inbound"
+  },
+  {
+    "id": 66,
+    "name": "Consensus",
+    "name_normalized": "consensus",
+    "category": null,
+    "website_url": "https://goconsensus.com/",
+    "events_sponsored": 1,
+    "conferences": "INBOUND (bronze)",
+    "conference_slugs": "inbound"
+  },
+  {
+    "id": 116,
+    "name": "Contact Center Compliance",
+    "name_normalized": "contact center compliance",
+    "category": null,
+    "website_url": null,
+    "events_sponsored": 1,
+    "conferences": "LeadsCon (sponsor)",
+    "conference_slugs": "leadscon"
+  },
+  {
+    "id": 7,
+    "name": "Cvent",
+    "name_normalized": "cvent",
+    "category": null,
+    "website_url": "https://www.cvent.com",
+    "events_sponsored": 1,
+    "conferences": "INBOUND (silver)",
+    "conference_slugs": "inbound"
+  },
+  {
+    "id": 486,
+    "name": "DGR_Logo_Funnel_White.png",
+    "name_normalized": "dgr_logo_funnel_white.png",
+    "category": null,
+    "website_url": "https://demandgenreport.com",
+    "events_sponsored": 1,
+    "conferences": "B2BMX (exhibitor)",
+    "conference_slugs": "b2bmx"
+  },
+  {
+    "id": 52,
+    "name": "Data Axle",
+    "name_normalized": "data axle",
+    "category": null,
+    "website_url": "https://www.salesgenie.com/lp/launchparty",
+    "events_sponsored": 1,
+    "conferences": "INBOUND (silver)",
+    "conference_slugs": "inbound"
+  },
+  {
+    "id": 36,
+    "name": "DealHub",
+    "name_normalized": "dealhub",
+    "category": null,
+    "website_url": "https://dealhub.io/",
+    "events_sponsored": 1,
+    "conferences": "INBOUND (gold)",
+    "conference_slugs": "inbound"
+  },
+  {
+    "id": 99,
+    "name": "DemandWorks",
+    "name_normalized": "demandworks",
+    "category": null,
+    "website_url": "https://www.dwmedia.com/",
+    "events_sponsored": 1,
+    "conferences": "INBOUND (silver)",
+    "conference_slugs": "inbound"
+  },
+  {
+    "id": 8,
+    "name": "Demandbase",
+    "name_normalized": "demandbase",
+    "category": null,
+    "website_url": "https://www.demandbase.com/",
+    "events_sponsored": 1,
+    "conferences": "INBOUND (silver)",
+    "conference_slugs": "inbound"
+  },
+  {
+    "id": 18,
+    "name": "Docket",
+    "name_normalized": "docket",
+    "category": null,
+    "website_url": "https://www.docket.io/",
+    "events_sponsored": 1,
+    "conferences": "INBOUND (bronze)",
+    "conference_slugs": "inbound"
+  },
+  {
+    "id": 326,
+    "name": "DuploCloud",
+    "name_normalized": "duplocloud",
+    "category": null,
+    "website_url": "https://www.duplocloud.com",
+    "events_sponsored": 1,
+    "conferences": "SaaStr Annual (sponsor)",
+    "conference_slugs": "saastr-annual"
+  },
+  {
+    "id": 26,
+    "name": "ElevenLabs",
+    "name_normalized": "elevenlabs",
+    "category": null,
+    "website_url": "https://elevenlabs.io/",
+    "events_sponsored": 1,
+    "conferences": "INBOUND (bronze)",
+    "conference_slugs": "inbound"
+  },
+  {
+    "id": 164,
+    "name": "Explorium logo",
+    "name_normalized": "explorium logo",
+    "category": null,
+    "website_url": null,
+    "events_sponsored": 1,
+    "conferences": "Outreach Unleash (bronze)",
+    "conference_slugs": "outreach-unleash"
+  },
+  {
+    "id": 10,
+    "name": "Factors.ai",
+    "name_normalized": "factors.ai",
+    "category": null,
+    "website_url": "https://www.factors.ai/",
+    "events_sponsored": 1,
+    "conferences": "INBOUND (silver)",
+    "conference_slugs": "inbound"
+  },
+  {
+    "id": 86,
+    "name": "Fathom",
+    "name_normalized": "fathom",
+    "category": null,
+    "website_url": "https://fathom.video/",
+    "events_sponsored": 1,
+    "conferences": "INBOUND (platinum)",
+    "conference_slugs": "inbound"
+  },
+  {
+    "id": 323,
+    "name": "Firebolt",
+    "name_normalized": "firebolt",
+    "category": null,
+    "website_url": "https://www.firebolt.io/",
+    "events_sponsored": 1,
+    "conferences": "SaaStr Annual (sponsor)",
+    "conference_slugs": "saastr-annual"
+  },
+  {
+    "id": 175,
+    "name": "Five blue arrows point up and to the right.",
+    "name_normalized": "five blue arrows point up and to the right.",
+    "category": null,
+    "website_url": null,
+    "events_sponsored": 1,
+    "conferences": "Sales 3.0 (sponsor)",
+    "conference_slugs": "sales-3-0"
+  },
+  {
+    "id": 324,
+    "name": "Flatfile",
+    "name_normalized": "flatfile",
+    "category": null,
+    "website_url": "https://www.flatfile.com",
+    "events_sponsored": 1,
+    "conferences": "SaaStr Annual (sponsor)",
+    "conference_slugs": "saastr-annual"
+  },
+  {
+    "id": 301,
+    "name": "Force Managment",
+    "name_normalized": "force managment",
+    "category": null,
+    "website_url": "https://www.forcemanagement.com/",
+    "events_sponsored": 1,
+    "conferences": "Pavilion GTM2026 (sponsor)",
+    "conference_slugs": "pavilion-gtm"
+  },
+  {
+    "id": 177,
+    "name": "Four purple spheres made of dots.",
+    "name_normalized": "four purple spheres made of dots.",
+    "category": null,
+    "website_url": null,
+    "events_sponsored": 1,
+    "conferences": "Sales 3.0 (sponsor)",
+    "conference_slugs": "sales-3-0"
+  },
+  {
+    "id": 308,
+    "name": "Fullcast",
+    "name_normalized": "fullcast",
+    "category": null,
+    "website_url": "https://www.fullcast.com",
+    "events_sponsored": 1,
+    "conferences": "Pavilion GTM2026 (sponsor)",
+    "conference_slugs": "pavilion-gtm"
+  },
+  {
+    "id": 27,
+    "name": "FunnelStory",
+    "name_normalized": "funnelstory",
+    "category": null,
+    "website_url": "https://funnelstory.ai/",
+    "events_sponsored": 1,
+    "conferences": "INBOUND (bronze)",
+    "conference_slugs": "inbound"
+  },
+  {
+    "id": 303,
+    "name": "G2g",
+    "name_normalized": "g2g",
+    "category": null,
+    "website_url": "https://www.g2.com/",
+    "events_sponsored": 1,
+    "conferences": "Pavilion GTM2026 (sponsor)",
+    "conference_slugs": "pavilion-gtm"
+  },
+  {
+    "id": 280,
+    "name": "GOLD",
+    "name_normalized": "gold",
+    "category": null,
+    "website_url": null,
+    "events_sponsored": 1,
+    "conferences": "MOps-Apalooza (sponsor)",
+    "conference_slugs": "mops-apalooza"
+  },
+  {
+    "id": 315,
+    "name": "Glyphic AI",
+    "name_normalized": "glyphic ai",
+    "category": null,
+    "website_url": "https://www.glyphic.ai/",
+    "events_sponsored": 1,
+    "conferences": "Pavilion GTM2026 (sponsor)",
+    "conference_slugs": "pavilion-gtm"
+  },
+  {
+    "id": 45,
+    "name": "Goldcast",
+    "name_normalized": "goldcast",
+    "category": null,
+    "website_url": "https://www.goldcast.io/",
+    "events_sponsored": 1,
+    "conferences": "INBOUND (bronze)",
+    "conference_slugs": "inbound"
+  },
+  {
+    "id": 21,
+    "name": "Google",
+    "name_normalized": "google",
+    "category": null,
+    "website_url": "http://about.google.com/products",
+    "events_sponsored": 1,
+    "conferences": "INBOUND (silver)",
+    "conference_slugs": "inbound"
+  },
+  {
+    "id": 318,
+    "name": "Google Cloud",
+    "name_normalized": "google cloud",
+    "category": null,
+    "website_url": "https://cloud.google.com",
+    "events_sponsored": 1,
+    "conferences": "SaaStr Annual (sponsor)",
+    "conference_slugs": "saastr-annual"
+  },
+  {
+    "id": 53,
+    "name": "Grammarly",
+    "name_normalized": "grammarly",
+    "category": null,
+    "website_url": "https://www.grammarly.com/business/marketing",
+    "events_sponsored": 1,
+    "conferences": "INBOUND (silver)",
+    "conference_slugs": "inbound"
+  },
+  {
+    "id": 30,
+    "name": "Grazitti Interactive",
+    "name_normalized": "grazitti interactive",
+    "category": null,
+    "website_url": "https://www.grazitti.com/",
+    "events_sponsored": 1,
+    "conferences": "INBOUND (bronze)",
+    "conference_slugs": "inbound"
+  },
+  {
+    "id": 165,
+    "name": "Greaser logo",
+    "name_normalized": "greaser logo",
+    "category": null,
+    "website_url": null,
+    "events_sponsored": 1,
+    "conferences": "Outreach Unleash (bronze)",
+    "conference_slugs": "outreach-unleash"
+  },
+  {
+    "id": 284,
+    "name": "Group",
+    "name_normalized": "group",
+    "category": null,
+    "website_url": null,
+    "events_sponsored": 1,
+    "conferences": "MOps-Apalooza (sponsor)",
+    "conference_slugs": "mops-apalooza"
+  },
+  {
+    "id": 327,
+    "name": "Happy Fox",
+    "name_normalized": "happy fox",
+    "category": null,
+    "website_url": "https://www.happyfox.com",
+    "events_sponsored": 1,
+    "conferences": "SaaStr Annual (sponsor)",
+    "conference_slugs": "saastr-annual"
+  },
+  {
+    "id": 118,
+    "name": "Heathos",
+    "name_normalized": "heathos",
+    "category": null,
+    "website_url": null,
+    "events_sponsored": 1,
+    "conferences": "LeadsCon (sponsor)",
+    "conference_slugs": "leadscon"
+  },
+  {
+    "id": 6,
+    "name": "Huble",
+    "name_normalized": "huble",
+    "category": null,
+    "website_url": "https://huble.com/",
+    "events_sponsored": 1,
+    "conferences": "INBOUND (gold)",
+    "conference_slugs": "inbound"
+  },
+  {
+    "id": 306,
+    "name": "Ibis World",
+    "name_normalized": "ibis world",
+    "category": null,
+    "website_url": "https://www.ibisworld.com/",
+    "events_sponsored": 1,
+    "conferences": "Pavilion GTM2026 (sponsor)",
+    "conference_slugs": "pavilion-gtm"
+  },
+  {
+    "id": 309,
+    "name": "Influ2",
+    "name_normalized": "influ2",
+    "category": null,
+    "website_url": "https://www.influ2.com/",
+    "events_sponsored": 1,
+    "conferences": "Pavilion GTM2026 (sponsor)",
+    "conference_slugs": "pavilion-gtm"
+  },
+  {
+    "id": 295,
+    "name": "Infuse",
+    "name_normalized": "infuse",
+    "category": null,
+    "website_url": "https://infuse.com",
+    "events_sponsored": 1,
+    "conferences": "Pavilion GTM2026 (sponsor)",
+    "conference_slugs": "pavilion-gtm"
+  },
+  {
+    "id": 85,
+    "name": "Inselligence",
+    "name_normalized": "inselligence",
+    "category": null,
+    "website_url": "https://inselligence.com/",
+    "events_sponsored": 1,
+    "conferences": "INBOUND (gold)",
+    "conference_slugs": "inbound"
+  },
+  {
+    "id": 50,
+    "name": "Insentric by Demandlab",
+    "name_normalized": "insentric by demandlab",
+    "category": null,
+    "website_url": "https://insentric.com/",
+    "events_sponsored": 1,
+    "conferences": "INBOUND (silver)",
+    "conference_slugs": "inbound"
+  },
+  {
+    "id": 57,
+    "name": "Insight Assurance",
+    "name_normalized": "insight assurance",
+    "category": null,
+    "website_url": "https://insightassurance.com/",
+    "events_sponsored": 1,
+    "conferences": "INBOUND (silver)",
+    "conference_slugs": "inbound"
+  },
+  {
+    "id": 154,
+    "name": "Jade Simmons",
+    "name_normalized": "jade simmons",
+    "category": null,
+    "website_url": null,
+    "events_sponsored": 1,
+    "conferences": "Outreach Unleash (sponsor)",
+    "conference_slugs": "outreach-unleash"
+  },
+  {
+    "id": 72,
+    "name": "Jotform",
+    "name_normalized": "jotform",
+    "category": null,
+    "website_url": "https://www.jotform.com/",
+    "events_sponsored": 1,
+    "conferences": "INBOUND (gold)",
+    "conference_slugs": "inbound"
+  },
+  {
+    "id": 35,
+    "name": "JustCall",
+    "name_normalized": "justcall",
+    "category": null,
+    "website_url": "https://justcall.io",
+    "events_sponsored": 1,
+    "conferences": "INBOUND (silver)",
+    "conference_slugs": "inbound"
+  },
+  {
+    "id": 328,
+    "name": "Justworks",
+    "name_normalized": "justworks",
+    "category": null,
+    "website_url": "https://www.justworks.com",
+    "events_sponsored": 1,
+    "conferences": "SaaStr Annual (sponsor)",
+    "conference_slugs": "saastr-annual"
+  },
+  {
+    "id": 338,
+    "name": "Kintsugi",
+    "name_normalized": "kintsugi",
+    "category": null,
+    "website_url": "https://www.trykintsugi.com",
+    "events_sponsored": 1,
+    "conferences": "SaaStr Annual (sponsor)",
+    "conference_slugs": "saastr-annual"
+  },
+  {
+    "id": 329,
+    "name": "Larridin",
+    "name_normalized": "larridin",
+    "category": null,
+    "website_url": "https://www.larridin.com",
+    "events_sponsored": 1,
+    "conferences": "SaaStr Annual (sponsor)",
+    "conference_slugs": "saastr-annual"
+  },
+  {
+    "id": 355,
+    "name": "Lative Logo 2026",
+    "name_normalized": "lative logo 2026",
+    "category": null,
+    "website_url": "https://hubs.li/Q03ZhZdX0",
+    "events_sponsored": 1,
+    "conferences": "RevOpsAF US (gold)",
+    "conference_slugs": "revopsaf-us"
+  },
+  {
+    "id": 119,
+    "name": "Leads.io",
+    "name_normalized": "leads.io",
+    "category": null,
+    "website_url": null,
+    "events_sponsored": 1,
+    "conferences": "LeadsCon (sponsor)",
+    "conference_slugs": "leadscon"
+  },
+  {
+    "id": 120,
+    "name": "Leadspedia",
+    "name_normalized": "leadspedia",
+    "category": null,
+    "website_url": null,
+    "events_sponsored": 1,
+    "conferences": "LeadsCon (sponsor)",
+    "conference_slugs": "leadscon"
+  },
+  {
+    "id": 58,
+    "name": "LeanData",
+    "name_normalized": "leandata",
+    "category": null,
+    "website_url": "https://www.leandata.com/",
+    "events_sponsored": 1,
+    "conferences": "INBOUND (bronze)",
+    "conference_slugs": "inbound"
+  },
+  {
+    "id": 19,
+    "name": "LearnUpon",
+    "name_normalized": "learnupon",
+    "category": null,
+    "website_url": "https://www.learnupon.com/",
+    "events_sponsored": 1,
+    "conferences": "INBOUND (silver)",
+    "conference_slugs": "inbound"
+  },
+  {
+    "id": 137,
+    "name": "LinkUnite",
+    "name_normalized": "linkunite",
+    "category": null,
+    "website_url": null,
+    "events_sponsored": 1,
+    "conferences": "LeadsCon (sponsor)",
+    "conference_slugs": "leadscon"
+  },
+  {
+    "id": 209,
+    "name": "Logo for 3M",
+    "name_normalized": "logo for 3m",
+    "category": null,
+    "website_url": null,
+    "events_sponsored": 1,
+    "conferences": "Sales 3.0 (sponsor)",
+    "conference_slugs": "sales-3-0"
+  },
+  {
+    "id": 225,
+    "name": "Logo for 6sense",
+    "name_normalized": "logo for 6sense",
+    "category": null,
+    "website_url": null,
+    "events_sponsored": 1,
+    "conferences": "Sales 3.0 (sponsor)",
+    "conference_slugs": "sales-3-0"
+  },
+  {
+    "id": 249,
+    "name": "Logo for 7taps",
+    "name_normalized": "logo for 7taps",
+    "category": null,
+    "website_url": "https://www.7taps.com/",
+    "events_sponsored": 1,
+    "conferences": "Sales 3.0 (sponsor)",
+    "conference_slugs": "sales-3-0"
+  },
+  {
+    "id": 207,
+    "name": "Logo for AMD",
+    "name_normalized": "logo for amd",
+    "category": null,
+    "website_url": null,
+    "events_sponsored": 1,
+    "conferences": "Sales 3.0 (sponsor)",
+    "conference_slugs": "sales-3-0"
+  },
+  {
+    "id": 182,
+    "name": "Logo for AT&T",
+    "name_normalized": "logo for at&t",
+    "category": null,
+    "website_url": null,
+    "events_sponsored": 1,
+    "conferences": "Sales 3.0 (sponsor)",
+    "conference_slugs": "sales-3-0"
+  },
+  {
+    "id": 218,
+    "name": "Logo for Accenture",
+    "name_normalized": "logo for accenture",
+    "category": null,
+    "website_url": null,
+    "events_sponsored": 1,
+    "conferences": "Sales 3.0 (sponsor)",
+    "conference_slugs": "sales-3-0"
+  },
+  {
+    "id": 265,
+    "name": "Logo for Acelera Group",
+    "name_normalized": "logo for acelera",
+    "category": null,
+    "website_url": "https://www.aceleragroup.com/",
+    "events_sponsored": 1,
+    "conferences": "Sales 3.0 (sponsor)",
+    "conference_slugs": "sales-3-0"
+  },
+  {
+    "id": 180,
+    "name": "Logo for Adobe",
+    "name_normalized": "logo for adobe",
+    "category": null,
+    "website_url": null,
+    "events_sponsored": 1,
+    "conferences": "Sales 3.0 (sponsor)",
+    "conference_slugs": "sales-3-0"
+  },
+  {
+    "id": 212,
+    "name": "Logo for Amazon AWS",
+    "name_normalized": "logo for amazon aws",
+    "category": null,
+    "website_url": null,
+    "events_sponsored": 1,
+    "conferences": "Sales 3.0 (sponsor)",
+    "conference_slugs": "sales-3-0"
+  },
+  {
+    "id": 246,
+    "name": "Logo for Apollo",
+    "name_normalized": "logo for apollo",
+    "category": null,
+    "website_url": "https://www.apollo.io/",
+    "events_sponsored": 1,
+    "conferences": "Sales 3.0 (sponsor)",
+    "conference_slugs": "sales-3-0"
+  },
+  {
+    "id": 200,
+    "name": "Logo for Appian",
+    "name_normalized": "logo for appian",
+    "category": null,
+    "website_url": null,
+    "events_sponsored": 1,
+    "conferences": "Sales 3.0 (sponsor)",
+    "conference_slugs": "sales-3-0"
+  },
+  {
+    "id": 261,
+    "name": "Logo for Asher Strategies",
+    "name_normalized": "logo for asher strategies",
+    "category": null,
+    "website_url": "https://www.asherstrategies.com/",
+    "events_sponsored": 1,
+    "conferences": "Sales 3.0 (sponsor)",
+    "conference_slugs": "sales-3-0"
+  },
+  {
+    "id": 262,
+    "name": "Logo for Braintrust",
+    "name_normalized": "logo for braintrust",
+    "category": null,
+    "website_url": "https://braintrustgrowth.com/",
+    "events_sponsored": 1,
+    "conferences": "Sales 3.0 (sponsor)",
+    "conference_slugs": "sales-3-0"
+  },
+  {
+    "id": 258,
+    "name": "Logo for C-Suite Network",
+    "name_normalized": "logo for c-suite network",
+    "category": null,
+    "website_url": "https://www.c-suitenetwork.com/",
+    "events_sponsored": 1,
+    "conferences": "Sales 3.0 (sponsor)",
+    "conference_slugs": "sales-3-0"
+  },
+  {
+    "id": 274,
+    "name": "Logo for Carew International",
+    "name_normalized": "logo for carew",
+    "category": null,
+    "website_url": "https://www.carew.com/",
+    "events_sponsored": 1,
+    "conferences": "Sales 3.0 (sponsor)",
+    "conference_slugs": "sales-3-0"
+  },
+  {
+    "id": 189,
+    "name": "Logo for Cisco",
+    "name_normalized": "logo for cisco",
+    "category": null,
+    "website_url": null,
+    "events_sponsored": 1,
+    "conferences": "Sales 3.0 (sponsor)",
+    "conference_slugs": "sales-3-0"
+  },
+  {
+    "id": 251,
+    "name": "Logo for Coaching and Sales Institute",
+    "name_normalized": "logo for coaching and sales institute",
+    "category": null,
+    "website_url": "https://www.coachingandsalesinstitute.com/",
+    "events_sponsored": 1,
+    "conferences": "Sales 3.0 (sponsor)",
+    "conference_slugs": "sales-3-0"
+  },
+  {
+    "id": 239,
+    "name": "Logo for Codebreaker Technologies",
+    "name_normalized": "logo for codebreaker",
+    "category": null,
+    "website_url": "http://www.codebreakertech.com/",
+    "events_sponsored": 1,
+    "conferences": "Sales 3.0 (sponsor)",
+    "conference_slugs": "sales-3-0"
+  },
+  {
+    "id": 216,
+    "name": "Logo for Cognizant",
+    "name_normalized": "logo for cognizant",
+    "category": null,
+    "website_url": null,
+    "events_sponsored": 1,
+    "conferences": "Sales 3.0 (sponsor)",
+    "conference_slugs": "sales-3-0"
+  },
+  {
+    "id": 185,
+    "name": "Logo for Comcast",
+    "name_normalized": "logo for comcast",
+    "category": null,
+    "website_url": null,
+    "events_sponsored": 1,
+    "conferences": "Sales 3.0 (sponsor)",
+    "conference_slugs": "sales-3-0"
+  },
+  {
+    "id": 252,
+    "name": "Logo for Copient.ai",
+    "name_normalized": "logo for copient.ai",
+    "category": null,
+    "website_url": "https://www.copient.ai/",
+    "events_sponsored": 1,
+    "conferences": "Sales 3.0 (sponsor)",
+    "conference_slugs": "sales-3-0"
+  },
+  {
+    "id": 237,
+    "name": "Logo for Corporate Visions",
+    "name_normalized": "logo for corporate visions",
+    "category": null,
+    "website_url": "https://www.corporatevisions.com/",
+    "events_sponsored": 1,
+    "conferences": "Sales 3.0 (sponsor)",
+    "conference_slugs": "sales-3-0"
+  },
+  {
+    "id": 198,
+    "name": "Logo for Cyfercode",
+    "name_normalized": "logo for cyfercode",
+    "category": null,
+    "website_url": null,
+    "events_sponsored": 1,
+    "conferences": "Sales 3.0 (sponsor)",
+    "conference_slugs": "sales-3-0"
+  },
+  {
+    "id": 204,
+    "name": "Logo for Databricks",
+    "name_normalized": "logo for databricks",
+    "category": null,
+    "website_url": null,
+    "events_sponsored": 1,
+    "conferences": "Sales 3.0 (sponsor)",
+    "conference_slugs": "sales-3-0"
+  },
+  {
+    "id": 255,
+    "name": "Logo for DeepTrust AI",
+    "name_normalized": "logo for deeptrust ai",
+    "category": null,
+    "website_url": "https://www.deeptrust.ai/",
+    "events_sponsored": 1,
+    "conferences": "Sales 3.0 (sponsor)",
+    "conference_slugs": "sales-3-0"
+  },
+  {
+    "id": 202,
+    "name": "Logo for Dell Technologies",
+    "name_normalized": "logo for dell",
+    "category": null,
+    "website_url": null,
+    "events_sponsored": 1,
+    "conferences": "Sales 3.0 (sponsor)",
+    "conference_slugs": "sales-3-0"
+  },
+  {
+    "id": 220,
+    "name": "Logo for Deloitte",
+    "name_normalized": "logo for deloitte",
+    "category": null,
+    "website_url": null,
+    "events_sponsored": 1,
+    "conferences": "Sales 3.0 (sponsor)",
+    "conference_slugs": "sales-3-0"
+  },
+  {
+    "id": 230,
+    "name": "Logo for FUEL !nc.",
+    "name_normalized": "logo for fuel !nc.",
+    "category": null,
+    "website_url": "https://www.myfuel.io/",
+    "events_sponsored": 1,
+    "conferences": "Sales 3.0 (sponsor)",
+    "conference_slugs": "sales-3-0"
+  },
+  {
+    "id": 269,
+    "name": "Logo for Factor 8",
+    "name_normalized": "logo for factor 8",
+    "category": null,
+    "website_url": "https://www.factor8.com/",
+    "events_sponsored": 1,
+    "conferences": "Sales 3.0 (sponsor)",
+    "conference_slugs": "sales-3-0"
+  },
+  {
+    "id": 276,
+    "name": "Logo for GTM Buddy",
+    "name_normalized": "logo for gtm buddy",
+    "category": null,
+    "website_url": "https://www.gtmbuddy.com/",
+    "events_sponsored": 1,
+    "conferences": "Sales 3.0 (sponsor)",
+    "conference_slugs": "sales-3-0"
+  },
+  {
+    "id": 184,
+    "name": "Logo for Gallagher",
+    "name_normalized": "logo for gallagher",
+    "category": null,
+    "website_url": null,
+    "events_sponsored": 1,
+    "conferences": "Sales 3.0 (sponsor)",
+    "conference_slugs": "sales-3-0"
+  },
+  {
+    "id": 227,
+    "name": "Logo for GitLab",
+    "name_normalized": "logo for gitlab",
+    "category": null,
+    "website_url": null,
+    "events_sponsored": 1,
+    "conferences": "Sales 3.0 (sponsor)",
+    "conference_slugs": "sales-3-0"
+  },
+  {
+    "id": 270,
+    "name": "Logo for Global Performance Group",
+    "name_normalized": "logo for global performance",
+    "category": null,
+    "website_url": "https://www.globalperformancegroup.com/",
+    "events_sponsored": 1,
+    "conferences": "Sales 3.0 (sponsor)",
+    "conference_slugs": "sales-3-0"
+  },
+  {
+    "id": 197,
+    "name": "Logo for Google",
+    "name_normalized": "logo for google",
+    "category": null,
+    "website_url": null,
+    "events_sponsored": 1,
+    "conferences": "Sales 3.0 (sponsor)",
+    "conference_slugs": "sales-3-0"
+  },
+  {
+    "id": 205,
+    "name": "Logo for HP",
+    "name_normalized": "logo for hp",
+    "category": null,
+    "website_url": null,
+    "events_sponsored": 1,
+    "conferences": "Sales 3.0 (sponsor)",
+    "conference_slugs": "sales-3-0"
+  },
+  {
+    "id": 222,
+    "name": "Logo for Heartland",
+    "name_normalized": "logo for heartland",
+    "category": null,
+    "website_url": null,
+    "events_sponsored": 1,
+    "conferences": "Sales 3.0 (sponsor)",
+    "conference_slugs": "sales-3-0"
+  },
+  {
+    "id": 190,
+    "name": "Logo for IBM",
+    "name_normalized": "logo for ibm",
+    "category": null,
+    "website_url": null,
+    "events_sponsored": 1,
+    "conferences": "Sales 3.0 (sponsor)",
+    "conference_slugs": "sales-3-0"
+  },
+  {
+    "id": 231,
+    "name": "Logo for Imparta",
+    "name_normalized": "logo for imparta",
+    "category": null,
+    "website_url": "https://www.imparta.com/",
+    "events_sponsored": 1,
+    "conferences": "Sales 3.0 (sponsor)",
+    "conference_slugs": "sales-3-0"
+  },
+  {
+    "id": 219,
+    "name": "Logo for Infor",
+    "name_normalized": "logo for infor",
+    "category": null,
+    "website_url": null,
+    "events_sponsored": 1,
+    "conferences": "Sales 3.0 (sponsor)",
+    "conference_slugs": "sales-3-0"
+  },
+  {
+    "id": 199,
+    "name": "Logo for Intuit",
+    "name_normalized": "logo for intuit",
+    "category": null,
+    "website_url": null,
+    "events_sponsored": 1,
+    "conferences": "Sales 3.0 (sponsor)",
+    "conference_slugs": "sales-3-0"
+  },
+  {
+    "id": 187,
+    "name": "Logo for Juniper Networks",
+    "name_normalized": "logo for juniper networks",
+    "category": null,
+    "website_url": null,
+    "events_sponsored": 1,
+    "conferences": "Sales 3.0 (sponsor)",
+    "conference_slugs": "sales-3-0"
+  },
+  {
+    "id": 224,
+    "name": "Logo for LabCorp",
+    "name_normalized": "logo for labcorp",
+    "category": null,
+    "website_url": null,
+    "events_sponsored": 1,
+    "conferences": "Sales 3.0 (sponsor)",
+    "conference_slugs": "sales-3-0"
+  },
+  {
+    "id": 226,
+    "name": "Logo for Lenovo",
+    "name_normalized": "logo for lenovo",
+    "category": null,
+    "website_url": null,
+    "events_sponsored": 1,
+    "conferences": "Sales 3.0 (sponsor)",
+    "conference_slugs": "sales-3-0"
+  },
+  {
+    "id": 192,
+    "name": "Logo for LinkedIn",
+    "name_normalized": "logo for linkedin",
+    "category": null,
+    "website_url": null,
+    "events_sponsored": 1,
+    "conferences": "Sales 3.0 (sponsor)",
+    "conference_slugs": "sales-3-0"
+  },
+  {
+    "id": 232,
+    "name": "Logo for Lisa T Miller",
+    "name_normalized": "logo for lisa t miller",
+    "category": null,
+    "website_url": "https://www.lisatmiller.com/",
+    "events_sponsored": 1,
+    "conferences": "Sales 3.0 (sponsor)",
+    "conference_slugs": "sales-3-0"
+  },
+  {
+    "id": 206,
+    "name": "Logo for LocaliQ",
+    "name_normalized": "logo for localiq",
+    "category": null,
+    "website_url": null,
+    "events_sponsored": 1,
+    "conferences": "Sales 3.0 (sponsor)",
+    "conference_slugs": "sales-3-0"
+  },
+  {
+    "id": 253,
+    "name": "Logo for MarketJoy",
+    "name_normalized": "logo for marketjoy",
+    "category": null,
+    "website_url": "https://www.marketjoy.com/",
+    "events_sponsored": 1,
+    "conferences": "Sales 3.0 (sponsor)",
+    "conference_slugs": "sales-3-0"
+  },
+  {
+    "id": 223,
+    "name": "Logo for McKinsey & Company",
+    "name_normalized": "logo for mckinsey &",
+    "category": null,
+    "website_url": null,
+    "events_sponsored": 1,
+    "conferences": "Sales 3.0 (sponsor)",
+    "conference_slugs": "sales-3-0"
+  },
+  {
+    "id": 263,
+    "name": "Logo for Mental Toughness University",
+    "name_normalized": "logo for mental toughness university",
+    "category": null,
+    "website_url": "https://www.mtuec.com/",
+    "events_sponsored": 1,
+    "conferences": "Sales 3.0 (sponsor)",
+    "conference_slugs": "sales-3-0"
+  },
+  {
+    "id": 213,
+    "name": "Logo for Microsoft",
+    "name_normalized": "logo for microsoft",
+    "category": null,
+    "website_url": null,
+    "events_sponsored": 1,
+    "conferences": "Sales 3.0 (sponsor)",
+    "conference_slugs": "sales-3-0"
+  },
+  {
+    "id": 254,
+    "name": "Logo for Momentum.io",
+    "name_normalized": "logo for momentum.io",
+    "category": null,
+    "website_url": "https://www.momentum.io/",
+    "events_sponsored": 1,
+    "conferences": "Sales 3.0 (sponsor)",
+    "conference_slugs": "sales-3-0"
+  },
+  {
+    "id": 183,
+    "name": "Logo for Monday",
+    "name_normalized": "logo for monday",
+    "category": null,
+    "website_url": null,
+    "events_sponsored": 1,
+    "conferences": "Sales 3.0 (sponsor)",
+    "conference_slugs": "sales-3-0"
+  },
+  {
+    "id": 217,
+    "name": "Logo for NBC News",
+    "name_normalized": "logo for nbc news",
+    "category": null,
+    "website_url": null,
+    "events_sponsored": 1,
+    "conferences": "Sales 3.0 (sponsor)",
+    "conference_slugs": "sales-3-0"
+  },
+  {
+    "id": 211,
+    "name": "Logo for NetSuite",
+    "name_normalized": "logo for netsuite",
+    "category": null,
+    "website_url": null,
+    "events_sponsored": 1,
+    "conferences": "Sales 3.0 (sponsor)",
+    "conference_slugs": "sales-3-0"
+  },
+  {
+    "id": 193,
+    "name": "Logo for Oracle",
+    "name_normalized": "logo for oracle",
+    "category": null,
+    "website_url": null,
+    "events_sponsored": 1,
+    "conferences": "Sales 3.0 (sponsor)",
+    "conference_slugs": "sales-3-0"
+  },
+  {
+    "id": 240,
+    "name": "Logo for Palmer Sales Training",
+    "name_normalized": "logo for palmer sales training",
+    "category": null,
+    "website_url": "https://www.palmersalestraining.com/",
+    "events_sponsored": 1,
+    "conferences": "Sales 3.0 (sponsor)",
+    "conference_slugs": "sales-3-0"
+  },
+  {
+    "id": 214,
+    "name": "Logo for Paychex",
+    "name_normalized": "logo for paychex",
+    "category": null,
+    "website_url": null,
+    "events_sponsored": 1,
+    "conferences": "Sales 3.0 (sponsor)",
+    "conference_slugs": "sales-3-0"
+  },
+  {
+    "id": 272,
+    "name": "Logo for People.ai",
+    "name_normalized": "logo for people.ai",
+    "category": null,
+    "website_url": "https://www.people.ai/",
+    "events_sponsored": 1,
+    "conferences": "Sales 3.0 (sponsor)",
+    "conference_slugs": "sales-3-0"
+  },
+  {
+    "id": 241,
+    "name": "Logo for Poggio Labs",
+    "name_normalized": "logo for poggio labs",
+    "category": null,
+    "website_url": "https://www.poggiolabs.com",
+    "events_sponsored": 1,
+    "conferences": "Sales 3.0 (sponsor)",
+    "conference_slugs": "sales-3-0"
+  },
+  {
+    "id": 188,
+    "name": "Logo for RICOH",
+    "name_normalized": "logo for ricoh",
+    "category": null,
+    "website_url": null,
+    "events_sponsored": 1,
+    "conferences": "Sales 3.0 (sponsor)",
+    "conference_slugs": "sales-3-0"
+  },
+  {
+    "id": 191,
+    "name": "Logo for SAP",
+    "name_normalized": "logo for sap",
+    "category": null,
+    "website_url": null,
+    "events_sponsored": 1,
+    "conferences": "Sales 3.0 (sponsor)",
+    "conference_slugs": "sales-3-0"
+  },
+  {
+    "id": 266,
+    "name": "Logo for STRATMOR Group",
+    "name_normalized": "logo for stratmor",
+    "category": null,
+    "website_url": "https://www.stratmorgroup.com/",
+    "events_sponsored": 1,
+    "conferences": "Sales 3.0 (sponsor)",
+    "conference_slugs": "sales-3-0"
+  },
+  {
+    "id": 179,
+    "name": "Logo for Sales 3.0 Digest",
+    "name_normalized": "logo for sales 3.0 digest",
+    "category": null,
+    "website_url": "/blog/subscribe-to-the-sales-3-0-newsletter/?sp_src=Sales30Conf_Site_Homepage_Newsletter-CTA_Tile-Image",
+    "events_sponsored": 1,
+    "conferences": "Sales 3.0 (sponsor)",
+    "conference_slugs": "sales-3-0"
+  },
+  {
+    "id": 259,
+    "name": "Logo for Sales 3.0 Labs",
+    "name_normalized": "logo for sales 3.0 labs",
+    "category": null,
+    "website_url": "https://deepinsight.sales30conf.com/aie-ai-ethical-certified-for-b2b-sales/",
+    "events_sponsored": 1,
+    "conferences": "Sales 3.0 (sponsor)",
+    "conference_slugs": "sales-3-0"
+  },
+  {
+    "id": 268,
+    "name": "Logo for Sales 4.0 Deep Insight",
+    "name_normalized": "logo for sales 4.0 deep insight",
+    "category": null,
+    "website_url": "https://deepinsight.sales30conf.com/",
+    "events_sponsored": 1,
+    "conferences": "Sales 3.0 (sponsor)",
+    "conference_slugs": "sales-3-0"
+  },
+  {
+    "id": 264,
+    "name": "Logo for Sales Optimization Group",
+    "name_normalized": "logo for sales optimization",
+    "category": null,
+    "website_url": "https://www.salesog.com/",
+    "events_sponsored": 1,
+    "conferences": "Sales 3.0 (sponsor)",
+    "conference_slugs": "sales-3-0"
+  },
+  {
+    "id": 248,
+    "name": "Logo for SalesChoice",
+    "name_normalized": "logo for saleschoice",
+    "category": null,
+    "website_url": "https://www.saleschoice.com/",
+    "events_sponsored": 1,
+    "conferences": "Sales 3.0 (sponsor)",
+    "conference_slugs": "sales-3-0"
+  },
+  {
+    "id": 233,
+    "name": "Logo for SalesFuel",
+    "name_normalized": "logo for salesfuel",
+    "category": null,
+    "website_url": "https://www.salesfuel.com/",
+    "events_sponsored": 1,
+    "conferences": "Sales 3.0 (sponsor)",
+    "conference_slugs": "sales-3-0"
+  },
+  {
+    "id": 234,
+    "name": "Logo for SalesHood",
+    "name_normalized": "logo for saleshood",
+    "category": null,
+    "website_url": "https://www.saleshood.com/",
+    "events_sponsored": 1,
+    "conferences": "Sales 3.0 (sponsor)",
+    "conference_slugs": "sales-3-0"
+  },
+  {
+    "id": 186,
+    "name": "Logo for Salesforce",
+    "name_normalized": "logo for salesforce",
+    "category": null,
+    "website_url": null,
+    "events_sponsored": 1,
+    "conferences": "Sales 3.0 (sponsor)",
+    "conference_slugs": "sales-3-0"
+  },
+  {
+    "id": 235,
+    "name": "Logo for Sandler",
+    "name_normalized": "logo for sandler",
+    "category": null,
+    "website_url": "https://www.sandler.com/",
+    "events_sponsored": 1,
+    "conferences": "Sales 3.0 (sponsor)",
+    "conference_slugs": "sales-3-0"
+  },
+  {
+    "id": 229,
+    "name": "Logo for Selling Power",
+    "name_normalized": "logo for selling power",
+    "category": null,
+    "website_url": "https://www.sellingpower.com/",
+    "events_sponsored": 1,
+    "conferences": "Sales 3.0 (sponsor)",
+    "conference_slugs": "sales-3-0"
+  },
+  {
+    "id": 203,
+    "name": "Logo for ServiceNow",
+    "name_normalized": "logo for servicenow",
+    "category": null,
+    "website_url": null,
+    "events_sponsored": 1,
+    "conferences": "Sales 3.0 (sponsor)",
+    "conference_slugs": "sales-3-0"
+  },
+  {
+    "id": 271,
+    "name": "Logo for ShareCRM",
+    "name_normalized": "logo for sharecrm",
+    "category": null,
+    "website_url": "https://www.sharecrm.com/",
+    "events_sponsored": 1,
+    "conferences": "Sales 3.0 (sponsor)",
+    "conference_slugs": "sales-3-0"
+  },
+  {
+    "id": 194,
+    "name": "Logo for Sherwin Williams",
+    "name_normalized": "logo for sherwin williams",
+    "category": null,
+    "website_url": null,
+    "events_sponsored": 1,
+    "conferences": "Sales 3.0 (sponsor)",
+    "conference_slugs": "sales-3-0"
+  },
+  {
+    "id": 236,
+    "name": "Logo for Soar",
+    "name_normalized": "logo for soar",
+    "category": null,
+    "website_url": "https://www.soar.com/",
+    "events_sponsored": 1,
+    "conferences": "Sales 3.0 (sponsor)",
+    "conference_slugs": "sales-3-0"
+  },
+  {
+    "id": 201,
+    "name": "Logo for Spotify",
+    "name_normalized": "logo for spotify",
+    "category": null,
+    "website_url": null,
+    "events_sponsored": 1,
+    "conferences": "Sales 3.0 (sponsor)",
+    "conference_slugs": "sales-3-0"
+  },
+  {
+    "id": 242,
+    "name": "Logo for Spotlight",
+    "name_normalized": "logo for spotlight",
+    "category": null,
+    "website_url": "https://www.spotlight.com/",
+    "events_sponsored": 1,
+    "conferences": "Sales 3.0 (sponsor)",
+    "conference_slugs": "sales-3-0"
+  },
+  {
+    "id": 243,
+    "name": "Logo for SugarCRM",
+    "name_normalized": "logo for sugarcrm",
+    "category": null,
+    "website_url": "https://www.sugarcrm.com/",
+    "events_sponsored": 1,
+    "conferences": "Sales 3.0 (sponsor)",
+    "conference_slugs": "sales-3-0"
+  },
+  {
+    "id": 245,
+    "name": "Logo for Take Flight Learning",
+    "name_normalized": "logo for take flight learning",
+    "category": null,
+    "website_url": "https://www.takeflightlearning.com/",
+    "events_sponsored": 1,
+    "conferences": "Sales 3.0 (sponsor)",
+    "conference_slugs": "sales-3-0"
+  },
+  {
+    "id": 244,
+    "name": "Logo for Tango",
+    "name_normalized": "logo for tango",
+    "category": null,
+    "website_url": "https://www.tango.ai/",
+    "events_sponsored": 1,
+    "conferences": "Sales 3.0 (sponsor)",
+    "conference_slugs": "sales-3-0"
+  },
+  {
+    "id": 247,
+    "name": "Logo for Terret",
+    "name_normalized": "logo for terret",
+    "category": null,
+    "website_url": "https://www.terret.ai/",
+    "events_sponsored": 1,
+    "conferences": "Sales 3.0 (sponsor)",
+    "conference_slugs": "sales-3-0"
+  },
+  {
+    "id": 250,
+    "name": "Logo for The Brooks Group",
+    "name_normalized": "logo for the brooks",
+    "category": null,
+    "website_url": "https://www.thebrooksgroup.com/",
+    "events_sponsored": 1,
+    "conferences": "Sales 3.0 (sponsor)",
+    "conference_slugs": "sales-3-0"
+  },
+  {
+    "id": 238,
+    "name": "Logo for The Vanella Group",
+    "name_normalized": "logo for the vanella",
+    "category": null,
+    "website_url": "https://www.vanellagroup.com/",
+    "events_sponsored": 1,
+    "conferences": "Sales 3.0 (sponsor)",
+    "conference_slugs": "sales-3-0"
+  },
+  {
+    "id": 215,
+    "name": "Logo for Thomson Reuters",
+    "name_normalized": "logo for thomson reuters",
+    "category": null,
+    "website_url": null,
+    "events_sponsored": 1,
+    "conferences": "Sales 3.0 (sponsor)",
+    "conference_slugs": "sales-3-0"
+  },
+  {
+    "id": 210,
+    "name": "Logo for Twilio",
+    "name_normalized": "logo for twilio",
+    "category": null,
+    "website_url": null,
+    "events_sponsored": 1,
+    "conferences": "Sales 3.0 (sponsor)",
+    "conference_slugs": "sales-3-0"
+  },
+  {
+    "id": 267,
+    "name": "Logo for UMU",
+    "name_normalized": "logo for umu",
+    "category": null,
+    "website_url": "https://www.umu.com/",
+    "events_sponsored": 1,
+    "conferences": "Sales 3.0 (sponsor)",
+    "conference_slugs": "sales-3-0"
+  },
+  {
+    "id": 273,
+    "name": "Logo for UneeQ",
+    "name_normalized": "logo for uneeq",
+    "category": null,
+    "website_url": "https://www.uneeq.com/",
+    "events_sponsored": 1,
+    "conferences": "Sales 3.0 (sponsor)",
+    "conference_slugs": "sales-3-0"
+  },
+  {
+    "id": 260,
+    "name": "Logo for Virtual Instinct",
+    "name_normalized": "logo for virtual instinct",
+    "category": null,
+    "website_url": "https://www.virtualinstinct.ai/",
+    "events_sponsored": 1,
+    "conferences": "Sales 3.0 (sponsor)",
+    "conference_slugs": "sales-3-0"
+  },
+  {
+    "id": 257,
+    "name": "Logo for WINN.AI",
+    "name_normalized": "logo for winn.ai",
+    "category": null,
+    "website_url": "https://www.winn.ai/",
+    "events_sponsored": 1,
+    "conferences": "Sales 3.0 (sponsor)",
+    "conference_slugs": "sales-3-0"
+  },
+  {
+    "id": 221,
+    "name": "Logo for Waste Management",
+    "name_normalized": "logo for waste management",
+    "category": null,
+    "website_url": null,
+    "events_sponsored": 1,
+    "conferences": "Sales 3.0 (sponsor)",
+    "conference_slugs": "sales-3-0"
+  },
+  {
+    "id": 181,
+    "name": "Logo for Wells Fargo",
+    "name_normalized": "logo for wells fargo",
+    "category": null,
+    "website_url": null,
+    "events_sponsored": 1,
+    "conferences": "Sales 3.0 (sponsor)",
+    "conference_slugs": "sales-3-0"
+  },
+  {
+    "id": 228,
+    "name": "Logo for Workday",
+    "name_normalized": "logo for workday",
+    "category": null,
+    "website_url": null,
+    "events_sponsored": 1,
+    "conferences": "Sales 3.0 (sponsor)",
+    "conference_slugs": "sales-3-0"
+  },
+  {
+    "id": 275,
+    "name": "Logo for Xactly",
+    "name_normalized": "logo for xactly",
+    "category": null,
+    "website_url": "https://www.xactly.com/",
+    "events_sponsored": 1,
+    "conferences": "Sales 3.0 (sponsor)",
+    "conference_slugs": "sales-3-0"
+  },
+  {
+    "id": 208,
+    "name": "Logo for Xerox",
+    "name_normalized": "logo for xerox",
+    "category": null,
+    "website_url": null,
+    "events_sponsored": 1,
+    "conferences": "Sales 3.0 (sponsor)",
+    "conference_slugs": "sales-3-0"
+  },
+  {
+    "id": 196,
+    "name": "Logo for Yelp",
+    "name_normalized": "logo for yelp",
+    "category": null,
+    "website_url": null,
+    "events_sponsored": 1,
+    "conferences": "Sales 3.0 (sponsor)",
+    "conference_slugs": "sales-3-0"
+  },
+  {
+    "id": 256,
+    "name": "Logo for Yesable",
+    "name_normalized": "logo for yesable",
+    "category": null,
+    "website_url": "https://www.yesable.ai/",
+    "events_sponsored": 1,
+    "conferences": "Sales 3.0 (sponsor)",
+    "conference_slugs": "sales-3-0"
+  },
+  {
+    "id": 195,
+    "name": "Logo for ZS Associates",
+    "name_normalized": "logo for zs associates",
+    "category": null,
+    "website_url": null,
+    "events_sponsored": 1,
+    "conferences": "Sales 3.0 (sponsor)",
+    "conference_slugs": "sales-3-0"
+  },
+  {
+    "id": 173,
+    "name": "Logo for the Sales 3.0 Conference",
+    "name_normalized": "logo for the sales 3.0 conference",
+    "category": null,
+    "website_url": "/",
+    "events_sponsored": 1,
+    "conferences": "Sales 3.0 (sponsor)",
+    "conference_slugs": "sales-3-0"
+  },
+  {
+    "id": 79,
+    "name": "Lusha",
+    "name_normalized": "lusha",
+    "category": null,
+    "website_url": "https://www.lusha.com/",
+    "events_sponsored": 1,
+    "conferences": "INBOUND (silver)",
+    "conference_slugs": "inbound"
+  },
+  {
+    "id": 296,
+    "name": "Luster",
+    "name_normalized": "luster",
+    "category": null,
+    "website_url": "https://www.luster.ai/",
+    "events_sponsored": 1,
+    "conferences": "Pavilion GTM2026 (sponsor)",
+    "conference_slugs": "pavilion-gtm"
+  },
+  {
+    "id": 482,
+    "name": "MJ Joseph",
+    "name_normalized": "mj joseph",
+    "category": null,
+    "website_url": null,
+    "events_sponsored": 1,
+    "conferences": "B2BMX (exhibitor)",
+    "conference_slugs": "b2bmx"
+  },
+  {
+    "id": 47,
+    "name": "Make",
+    "name_normalized": "make",
+    "category": null,
+    "website_url": " https://www.make.com",
+    "events_sponsored": 1,
+    "conferences": "INBOUND (bronze)",
+    "conference_slugs": "inbound"
+  },
+  {
+    "id": 38,
+    "name": "Map My Customers",
+    "name_normalized": "map my customers",
+    "category": null,
+    "website_url": "https://mapmycustomers.com/",
+    "events_sponsored": 1,
+    "conferences": "INBOUND (silver)",
+    "conference_slugs": "inbound"
+  },
+  {
+    "id": 138,
+    "name": "Market Driven Edu",
+    "name_normalized": "market driven edu",
+    "category": null,
+    "website_url": null,
+    "events_sponsored": 1,
+    "conferences": "LeadsCon (sponsor)",
+    "conference_slugs": "leadscon"
+  },
+  {
+    "id": 132,
+    "name": "Marketboats Consulting Inc",
+    "name_normalized": "marketboats consulting",
+    "category": null,
+    "website_url": null,
+    "events_sponsored": 1,
+    "conferences": "LeadsCon (sponsor)",
+    "conference_slugs": "leadscon"
+  },
+  {
+    "id": 111,
+    "name": "Meera AI",
+    "name_normalized": "meera ai",
+    "category": null,
+    "website_url": "www.meera.ai",
+    "events_sponsored": 1,
+    "conferences": "INBOUND (bronze)",
+    "conference_slugs": "inbound"
+  },
+  {
+    "id": 59,
+    "name": "Mobly",
+    "name_normalized": "mobly",
+    "category": null,
+    "website_url": "https://www.getmobly.com/",
+    "events_sponsored": 1,
+    "conferences": "INBOUND (bronze)",
+    "conference_slugs": "inbound"
+  },
+  {
+    "id": 105,
+    "name": "Mole Street",
+    "name_normalized": "mole street",
+    "category": null,
+    "website_url": "https://www.molestreet.com/",
+    "events_sponsored": 1,
+    "conferences": "INBOUND (silver)",
+    "conference_slugs": "inbound"
+  },
+  {
+    "id": 330,
+    "name": "Momentum",
+    "name_normalized": "momentum",
+    "category": null,
+    "website_url": "https://www.momentum.io",
+    "events_sponsored": 1,
+    "conferences": "SaaStr Annual (sponsor)",
+    "conference_slugs": "saastr-annual"
+  },
+  {
+    "id": 319,
+    "name": "Monaco",
+    "name_normalized": "monaco",
+    "category": null,
+    "website_url": "https://www.monaco.com/",
+    "events_sponsored": 1,
+    "conferences": "SaaStr Annual (sponsor)",
+    "conference_slugs": "saastr-annual"
+  },
+  {
+    "id": 112,
+    "name": "Monjur",
+    "name_normalized": "monjur",
+    "category": null,
+    "website_url": "https://www.monjur.com",
+    "events_sponsored": 1,
+    "conferences": "INBOUND (silver)",
+    "conference_slugs": "inbound"
+  },
+  {
+    "id": 277,
+    "name": "Mopza ticket",
+    "name_normalized": "mopza ticket",
+    "category": null,
+    "website_url": null,
+    "events_sponsored": 1,
+    "conferences": "MOps-Apalooza (sponsor)",
+    "conference_slugs": "mops-apalooza"
+  },
+  {
+    "id": 478,
+    "name": "Morgan J. Ingram",
+    "name_normalized": "morgan j. ingram",
+    "category": null,
+    "website_url": null,
+    "events_sponsored": 1,
+    "conferences": "B2BMX (exhibitor)",
+    "conference_slugs": "b2bmx"
+  },
+  {
+    "id": 95,
+    "name": "Navu",
+    "name_normalized": "navu",
+    "category": null,
+    "website_url": "https://navu.co/",
+    "events_sponsored": 1,
+    "conferences": "INBOUND (bronze)",
+    "conference_slugs": "inbound"
+  },
+  {
+    "id": 107,
+    "name": "NetLine",
+    "name_normalized": "netline",
+    "category": null,
+    "website_url": "https://netline.com/",
+    "events_sponsored": 1,
+    "conferences": "INBOUND (silver)",
+    "conference_slugs": "inbound"
+  },
+  {
+    "id": 3,
+    "name": "New Breed",
+    "name_normalized": "new breed",
+    "category": null,
+    "website_url": "https://www.newbreedrevenue.com/",
+    "events_sponsored": 1,
+    "conferences": "INBOUND (title)",
+    "conference_slugs": "inbound"
+  },
+  {
+    "id": 283,
+    "name": "Nital-Shah",
+    "name_normalized": "nital-shah",
+    "category": null,
+    "website_url": "https://www.linkedin.com/posts/nitalshah_mopza25-aiinmarketing-lifecyclemarketing-activity-7389285789131587584-llg0/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADjjnacB44oMglnn1AFVmE5TiSU7HACWwKg",
+    "events_sponsored": 1,
+    "conferences": "MOps-Apalooza (sponsor)",
+    "conference_slugs": "mops-apalooza"
+  },
+  {
+    "id": 331,
+    "name": "Nue",
+    "name_normalized": "nue",
+    "category": null,
+    "website_url": "https://www.nue.io",
+    "events_sponsored": 1,
+    "conferences": "SaaStr Annual (sponsor)",
+    "conference_slugs": "saastr-annual"
+  },
+  {
+    "id": 23,
+    "name": "ON24",
+    "name_normalized": "on24",
+    "category": null,
+    "website_url": "www.on24.com",
+    "events_sponsored": 1,
+    "conferences": "INBOUND (bronze)",
+    "conference_slugs": "inbound"
+  },
+  {
+    "id": 17,
+    "name": "OneSignal",
+    "name_normalized": "onesignal",
+    "category": null,
+    "website_url": "https://onesignal.com/",
+    "events_sponsored": 1,
+    "conferences": "INBOUND (bronze)",
+    "conference_slugs": "inbound"
+  },
+  {
+    "id": 92,
+    "name": "OpenPhone",
+    "name_normalized": "openphone",
+    "category": null,
+    "website_url": "https://openphone.com/",
+    "events_sponsored": 1,
+    "conferences": "INBOUND (silver)",
+    "conference_slugs": "inbound"
+  },
+  {
+    "id": 42,
+    "name": "Opensense",
+    "name_normalized": "opensense",
+    "category": null,
+    "website_url": "https://www.opensense.com/",
+    "events_sponsored": 1,
+    "conferences": "INBOUND (silver)",
+    "conference_slugs": "inbound"
+  },
+  {
+    "id": 307,
+    "name": "Oracle Netsuite",
+    "name_normalized": "oracle netsuite",
+    "category": null,
+    "website_url": "https://www.netsuite.com/portal/home.shtml",
+    "events_sponsored": 1,
+    "conferences": "Pavilion GTM2026 (sponsor)",
+    "conference_slugs": "pavilion-gtm"
+  },
+  {
+    "id": 339,
+    "name": "Orca Security",
+    "name_normalized": "orca security",
+    "category": null,
+    "website_url": "https://orca.security",
+    "events_sponsored": 1,
+    "conferences": "SaaStr Annual (sponsor)",
+    "conference_slugs": "saastr-annual"
+  },
+  {
+    "id": 299,
+    "name": "Othello",
+    "name_normalized": "othello",
+    "category": null,
+    "website_url": "https://www.othello.ai",
+    "events_sponsored": 1,
+    "conferences": "Pavilion GTM2026 (sponsor)",
+    "conference_slugs": "pavilion-gtm"
+  },
+  {
+    "id": 4,
+    "name": "Otter.ai",
+    "name_normalized": "otter.ai",
+    "category": null,
+    "website_url": "https://otter.ai/sales-agent",
+    "events_sponsored": 1,
+    "conferences": "INBOUND (silver)",
+    "conference_slugs": "inbound"
+  },
+  {
+    "id": 113,
+    "name": "PX",
+    "name_normalized": "px",
+    "category": null,
+    "website_url": null,
+    "events_sponsored": 1,
+    "conferences": "LeadsCon (sponsor)",
+    "conference_slugs": "leadscon"
+  },
+  {
+    "id": 332,
+    "name": "People.ai",
+    "name_normalized": "people.ai",
+    "category": null,
+    "website_url": "https://www.people.ai/",
+    "events_sponsored": 1,
+    "conferences": "SaaStr Annual (sponsor)",
+    "conference_slugs": "saastr-annual"
+  },
+  {
+    "id": 121,
+    "name": "Phonexa",
+    "name_normalized": "phonexa",
+    "category": null,
+    "website_url": null,
+    "events_sponsored": 1,
+    "conferences": "LeadsCon (sponsor)",
+    "conference_slugs": "leadscon"
+  },
+  {
+    "id": 479,
+    "name": "Phyllis Davidson",
+    "name_normalized": "phyllis davidson",
+    "category": null,
+    "website_url": null,
+    "events_sponsored": 1,
+    "conferences": "B2BMX (exhibitor)",
+    "conference_slugs": "b2bmx"
+  },
+  {
+    "id": 90,
+    "name": "Pitch",
+    "name_normalized": "pitch",
+    "category": null,
+    "website_url": "https://pitch.com/",
+    "events_sponsored": 1,
+    "conferences": "INBOUND (silver)",
+    "conference_slugs": "inbound"
+  },
+  {
+    "id": 487,
+    "name": "Powered by Emerald",
+    "name_normalized": "powered by emerald",
+    "category": null,
+    "website_url": "https://www.emeraldx.com",
+    "events_sponsored": 1,
+    "conferences": "B2BMX (exhibitor)",
+    "conference_slugs": "b2bmx"
+  },
+  {
+    "id": 340,
+    "name": "Prismatic",
+    "name_normalized": "prismatic",
+    "category": null,
+    "website_url": "https://www.prismatic.io",
+    "events_sponsored": 1,
+    "conferences": "SaaStr Annual (sponsor)",
+    "conference_slugs": "saastr-annual"
+  },
+  {
+    "id": 101,
+    "name": "Profoundly",
+    "name_normalized": "profoundly",
+    "category": null,
+    "website_url": "https://profound.ly/",
+    "events_sponsored": 1,
+    "conferences": "INBOUND (bronze)",
+    "conference_slugs": "inbound"
+  },
+  {
+    "id": 109,
+    "name": "Propensity",
+    "name_normalized": "propensity",
+    "category": null,
+    "website_url": "https://www.propensity.com/",
+    "events_sponsored": 1,
+    "conferences": "INBOUND (silver)",
+    "conference_slugs": "inbound"
+  },
+  {
+    "id": 39,
+    "name": "Proposify",
+    "name_normalized": "proposify",
+    "category": null,
+    "website_url": "https://www.proposify.com/",
+    "events_sponsored": 1,
+    "conferences": "INBOUND (bronze)",
+    "conference_slugs": "inbound"
+  },
+  {
+    "id": 71,
+    "name": "PullSpark",
+    "name_normalized": "pullspark",
+    "category": null,
+    "website_url": "https://www.pullspark.com/",
+    "events_sponsored": 1,
+    "conferences": "INBOUND (gold)",
+    "conference_slugs": "inbound"
+  },
+  {
+    "id": 341,
+    "name": "Pylon",
+    "name_normalized": "pylon",
+    "category": null,
+    "website_url": "https://www.usepylon.com",
+    "events_sponsored": 1,
+    "conferences": "SaaStr Annual (sponsor)",
+    "conference_slugs": "saastr-annual"
+  },
+  {
+    "id": 346,
+    "name": "Qobra",
+    "name_normalized": "qobra",
+    "category": null,
+    "website_url": "https://www.qobra.co",
+    "events_sponsored": 1,
+    "conferences": "SaaStr Annual (sponsor)",
+    "conference_slugs": "saastr-annual"
+  },
+  {
+    "id": 125,
+    "name": "QuoteWizard by LendingTree",
+    "name_normalized": "quotewizard by lendingtree",
+    "category": null,
+    "website_url": null,
+    "events_sponsored": 1,
+    "conferences": "LeadsCon (sponsor)",
+    "conference_slugs": "leadscon"
+  },
+  {
+    "id": 480,
+    "name": "RJ_Headshot-2022 (1)",
+    "name_normalized": "rj_headshot-2022 (1)",
+    "category": null,
+    "website_url": null,
+    "events_sponsored": 1,
+    "conferences": "B2BMX (exhibitor)",
+    "conference_slugs": "b2bmx"
+  },
+  {
+    "id": 143,
+    "name": "ROI.DNA",
+    "name_normalized": "roi.dna",
+    "category": null,
+    "website_url": null,
+    "events_sponsored": 1,
+    "conferences": "6sense Breakthrough (sponsor)",
+    "conference_slugs": "6sense-breakthrough"
+  },
+  {
+    "id": 312,
+    "name": "Rattle",
+    "name_normalized": "rattle",
+    "category": null,
+    "website_url": "https://www.gorattle.com/",
+    "events_sponsored": 1,
+    "conferences": "Pavilion GTM2026 (sponsor)",
+    "conference_slugs": "pavilion-gtm"
+  },
+  {
+    "id": 342,
+    "name": "Relevance AI",
+    "name_normalized": "relevance ai",
+    "category": null,
+    "website_url": "https://relevanceai.com/",
+    "events_sponsored": 1,
+    "conferences": "SaaStr Annual (sponsor)",
+    "conference_slugs": "saastr-annual"
+  },
+  {
+    "id": 333,
+    "name": "Remote",
+    "name_normalized": "remote",
+    "category": null,
+    "website_url": "https://www.remote.com",
+    "events_sponsored": 1,
+    "conferences": "SaaStr Annual (sponsor)",
+    "conference_slugs": "saastr-annual"
+  },
+  {
+    "id": 320,
+    "name": "Replit",
+    "name_normalized": "replit",
+    "category": null,
+    "website_url": "https://replit.com/",
+    "events_sponsored": 1,
+    "conferences": "SaaStr Annual (sponsor)",
+    "conference_slugs": "saastr-annual"
+  },
+  {
+    "id": 302,
+    "name": "Rev-logic",
+    "name_normalized": "rev-logic",
+    "category": null,
+    "website_url": "https://rev-logic.com/",
+    "events_sponsored": 1,
+    "conferences": "Pavilion GTM2026 (sponsor)",
+    "conference_slugs": "pavilion-gtm"
+  },
+  {
+    "id": 349,
+    "name": "RevOpsAF dark on light logo",
+    "name_normalized": "revopsaf dark on light logo",
+    "category": null,
+    "website_url": "/",
+    "events_sponsored": 1,
+    "conferences": "RevOpsAF US (gold)",
+    "conference_slugs": "revopsaf-us"
+  },
+  {
+    "id": 158,
+    "name": "RevOptics logo",
+    "name_normalized": "revoptics logo",
+    "category": null,
+    "website_url": null,
+    "events_sponsored": 1,
+    "conferences": "Outreach Unleash (silver)",
+    "conference_slugs": "outreach-unleash"
+  },
+  {
+    "id": 159,
+    "name": "RevShoppe logo",
+    "name_normalized": "revshoppe logo",
+    "category": null,
+    "website_url": null,
+    "events_sponsored": 1,
+    "conferences": "Outreach Unleash (silver)",
+    "conference_slugs": "outreach-unleash"
+  },
+  {
+    "id": 103,
+    "name": "RevSure AI",
+    "name_normalized": "revsure ai",
+    "category": null,
+    "website_url": "https://www.revsure.ai/",
+    "events_sponsored": 1,
+    "conferences": "INBOUND (bronze)",
+    "conference_slugs": "inbound"
+  },
+  {
+    "id": 88,
+    "name": "RingCentral",
+    "name_normalized": "ringcentral",
+    "category": null,
+    "website_url": "https://www.ringcentral.com/?BMID=INBOUNDQ32025",
+    "events_sponsored": 1,
+    "conferences": "INBOUND (gold)",
+    "conference_slugs": "inbound"
+  },
+  {
+    "id": 122,
+    "name": "Ringba",
+    "name_normalized": "ringba",
+    "category": null,
+    "website_url": null,
+    "events_sponsored": 1,
+    "conferences": "LeadsCon (sponsor)",
+    "conference_slugs": "leadscon"
+  },
+  {
+    "id": 325,
+    "name": "Roam",
+    "name_normalized": "roam",
+    "category": null,
+    "website_url": "https://www.ro.am",
+    "events_sponsored": 1,
+    "conferences": "SaaStr Annual (sponsor)",
+    "conference_slugs": "saastr-annual"
+  },
+  {
+    "id": 31,
+    "name": "Runway",
+    "name_normalized": "runway",
+    "category": null,
+    "website_url": "https://runway.com/",
+    "events_sponsored": 1,
+    "conferences": "INBOUND (bronze)",
+    "conference_slugs": "inbound"
+  },
+  {
+    "id": 98,
+    "name": "S-Docs",
+    "name_normalized": "s-docs",
+    "category": null,
+    "website_url": "https://www.sdocs.com/products/hubspot-document-automation",
+    "events_sponsored": 1,
+    "conferences": "INBOUND (silver)",
+    "conference_slugs": "inbound"
+  },
+  {
+    "id": 106,
+    "name": "SalesAi",
+    "name_normalized": "salesai",
+    "category": null,
+    "website_url": "https://www.salesai.com",
+    "events_sponsored": 1,
+    "conferences": "INBOUND (title)",
+    "conference_slugs": "inbound"
+  },
+  {
+    "id": 5,
+    "name": "SalesCaptain",
+    "name_normalized": "salescaptain",
+    "category": null,
+    "website_url": "https://salescaptain.io",
+    "events_sponsored": 1,
+    "conferences": "INBOUND (bronze)",
+    "conference_slugs": "inbound"
+  },
+  {
+    "id": 321,
+    "name": "Salesforce",
+    "name_normalized": "salesforce",
+    "category": null,
+    "website_url": "https://www.salesforce.com/",
+    "events_sponsored": 1,
+    "conferences": "SaaStr Annual (sponsor)",
+    "conference_slugs": "saastr-annual"
+  },
+  {
+    "id": 44,
+    "name": "Salesmsg",
+    "name_normalized": "salesmsg",
+    "category": null,
+    "website_url": "https://www.SalesMessage.com",
+    "events_sponsored": 1,
+    "conferences": "INBOUND (silver)",
+    "conference_slugs": "inbound"
+  },
+  {
+    "id": 54,
+    "name": "Salted Stone",
+    "name_normalized": "salted stone",
+    "category": null,
+    "website_url": "https://www.saltedstone.com/inbound-2025",
+    "events_sponsored": 1,
+    "conferences": "INBOUND (silver)",
+    "conference_slugs": "inbound"
+  },
+  {
+    "id": 100,
+    "name": "Sendoso",
+    "name_normalized": "sendoso",
+    "category": null,
+    "website_url": "https://www.sendoso.com/",
+    "events_sponsored": 1,
+    "conferences": "INBOUND (silver)",
+    "conference_slugs": "inbound"
+  },
+  {
+    "id": 281,
+    "name": "Silver",
+    "name_normalized": "silver",
+    "category": null,
+    "website_url": null,
+    "events_sponsored": 1,
+    "conferences": "MOps-Apalooza (sponsor)",
+    "conference_slugs": "mops-apalooza"
+  },
+  {
+    "id": 102,
+    "name": "SimulTrans",
+    "name_normalized": "simultrans",
+    "category": null,
+    "website_url": "https://www.simultrans.com",
+    "events_sponsored": 1,
+    "conferences": "INBOUND (bronze)",
+    "conference_slugs": "inbound"
+  },
+  {
+    "id": 55,
+    "name": "Sinch",
+    "name_normalized": "sinch",
+    "category": null,
+    "website_url": "https://sinch.com/engage/",
+    "events_sponsored": 1,
+    "conferences": "INBOUND (bronze)",
+    "conference_slugs": "inbound"
+  },
+  {
+    "id": 168,
+    "name": "SlashExperts logo",
+    "name_normalized": "slashexperts logo",
+    "category": null,
+    "website_url": null,
+    "events_sponsored": 1,
+    "conferences": "Outreach Unleash (bronze)",
+    "conference_slugs": "outreach-unleash"
+  },
+  {
+    "id": 33,
+    "name": "SmartBug Media",
+    "name_normalized": "smartbug media",
+    "category": null,
+    "website_url": "https://www.smartbugmedia.com/inbound-2025",
+    "events_sponsored": 1,
+    "conferences": "INBOUND (title)",
+    "conference_slugs": "inbound"
+  },
+  {
+    "id": 133,
+    "name": "SmartFinancial",
+    "name_normalized": "smartfinancial",
+    "category": null,
+    "website_url": null,
+    "events_sponsored": 1,
+    "conferences": "LeadsCon (sponsor)",
+    "conference_slugs": "leadscon"
+  },
+  {
+    "id": 169,
+    "name": "Smarte logo",
+    "name_normalized": "smarte logo",
+    "category": null,
+    "website_url": null,
+    "events_sponsored": 1,
+    "conferences": "Outreach Unleash (bronze)",
+    "conference_slugs": "outreach-unleash"
+  },
+  {
+    "id": 126,
+    "name": "Snapchat",
+    "name_normalized": "snapchat",
+    "category": null,
+    "website_url": null,
+    "events_sponsored": 1,
+    "conferences": "LeadsCon (sponsor)",
+    "conference_slugs": "leadscon"
+  },
+  {
+    "id": 41,
+    "name": "Snowflake",
+    "name_normalized": "snowflake",
+    "category": null,
+    "website_url": "https://www.snowflake.com",
+    "events_sponsored": 1,
+    "conferences": "INBOUND (bronze)",
+    "conference_slugs": "inbound"
+  },
+  {
+    "id": 300,
+    "name": "Spike AI",
+    "name_normalized": "spike ai",
+    "category": null,
+    "website_url": "https://getspike.ai",
+    "events_sponsored": 1,
+    "conferences": "Pavilion GTM2026 (sponsor)",
+    "conference_slugs": "pavilion-gtm"
+  },
+  {
+    "id": 63,
+    "name": "StackAdapt",
+    "name_normalized": "stackadapt",
+    "category": null,
+    "website_url": "https://go.stackadapt.com/j4ztwkgi",
+    "events_sponsored": 1,
+    "conferences": "INBOUND (silver)",
+    "conference_slugs": "inbound"
+  },
+  {
+    "id": 123,
+    "name": "Summit Direct Mail",
+    "name_normalized": "summit direct mail",
+    "category": null,
+    "website_url": null,
+    "events_sponsored": 1,
+    "conferences": "LeadsCon (sponsor)",
+    "conference_slugs": "leadscon"
+  },
+  {
+    "id": 61,
+    "name": "SuperAGI",
+    "name_normalized": "superagi",
+    "category": null,
+    "website_url": "https://superagi.com/",
+    "events_sponsored": 1,
+    "conferences": "INBOUND (silver)",
+    "conference_slugs": "inbound"
+  },
+  {
+    "id": 49,
+    "name": "Supered",
+    "name_normalized": "supered",
+    "category": null,
+    "website_url": "www.supered.io",
+    "events_sponsored": 1,
+    "conferences": "INBOUND (title)",
+    "conference_slugs": "inbound"
+  },
+  {
+    "id": 75,
+    "name": "Superside",
+    "name_normalized": "superside",
+    "category": null,
+    "website_url": "https://www.superside.com/book-call?utm_source=Event&utm_medium=cpc&utm_campaign=Hubspot_Inbound_2025",
+    "events_sponsored": 1,
+    "conferences": "INBOUND (silver)",
+    "conference_slugs": "inbound"
+  },
+  {
+    "id": 343,
+    "name": "Svitla",
+    "name_normalized": "svitla",
+    "category": null,
+    "website_url": "https://www.svitla.com",
+    "events_sponsored": 1,
+    "conferences": "SaaStr Annual (sponsor)",
+    "conference_slugs": "saastr-annual"
+  },
+  {
+    "id": 176,
+    "name": "Swirls of bright colors.",
+    "name_normalized": "swirls of bright colors.",
+    "category": null,
+    "website_url": null,
+    "events_sponsored": 1,
+    "conferences": "Sales 3.0 (sponsor)",
+    "conference_slugs": "sales-3-0"
+  },
+  {
+    "id": 344,
+    "name": "Syllable",
+    "name_normalized": "syllable",
+    "category": null,
+    "website_url": "https://www.syllable.ai",
+    "events_sponsored": 1,
+    "conferences": "SaaStr Annual (sponsor)",
+    "conference_slugs": "saastr-annual"
+  },
+  {
+    "id": 16,
+    "name": "Tango.ai",
+    "name_normalized": "tango.ai",
+    "category": null,
+    "website_url": "https://www.tango.ai/",
+    "events_sponsored": 1,
+    "conferences": "INBOUND (silver)",
+    "conference_slugs": "inbound"
+  },
+  {
+    "id": 347,
+    "name": "TaskUs",
+    "name_normalized": "taskus",
+    "category": null,
+    "website_url": "https://www.taskus.com",
+    "events_sponsored": 1,
+    "conferences": "SaaStr Annual (sponsor)",
+    "conference_slugs": "saastr-annual"
+  },
+  {
+    "id": 22,
+    "name": "The Swarm",
+    "name_normalized": "the swarm",
+    "category": null,
+    "website_url": "https://www.theswarm.com/",
+    "events_sponsored": 1,
+    "conferences": "INBOUND (bronze)",
+    "conference_slugs": "inbound"
+  },
+  {
+    "id": 84,
+    "name": "TikTok",
+    "name_normalized": "tiktok",
+    "category": null,
+    "website_url": "https://www.tiktok.com/business/en-US",
+    "events_sponsored": 1,
+    "conferences": "INBOUND (platinum)",
+    "conference_slugs": "inbound"
+  },
+  {
+    "id": 43,
+    "name": "Tofu",
+    "name_normalized": "tofu",
+    "category": null,
+    "website_url": "https://www.tofuhq.com/",
+    "events_sponsored": 1,
+    "conferences": "INBOUND (bronze)",
+    "conference_slugs": "inbound"
+  },
+  {
+    "id": 134,
+    "name": "TransUnion",
+    "name_normalized": "transunion",
+    "category": null,
+    "website_url": null,
+    "events_sponsored": 1,
+    "conferences": "LeadsCon (sponsor)",
+    "conference_slugs": "leadscon"
+  },
+  {
+    "id": 287,
+    "name": "Transaction",
+    "name_normalized": "transaction",
+    "category": null,
+    "website_url": null,
+    "events_sponsored": 1,
+    "conferences": "MOps-Apalooza (sponsor)",
+    "conference_slugs": "mops-apalooza"
+  },
+  {
+    "id": 68,
+    "name": "Trestle",
+    "name_normalized": "trestle",
+    "category": null,
+    "website_url": "https://trestleiq.com/",
+    "events_sponsored": 1,
+    "conferences": "INBOUND (bronze)",
+    "conference_slugs": "inbound"
+  },
+  {
+    "id": 345,
+    "name": "TriNet",
+    "name_normalized": "trinet",
+    "category": null,
+    "website_url": "https://www.trinet.com",
+    "events_sponsored": 1,
+    "conferences": "SaaStr Annual (sponsor)",
+    "conference_slugs": "saastr-annual"
+  },
+  {
+    "id": 81,
+    "name": "UJET",
+    "name_normalized": "ujet",
+    "category": null,
+    "website_url": "https://ujet.cx/",
+    "events_sponsored": 1,
+    "conferences": "INBOUND (silver)",
+    "conference_slugs": "inbound"
+  },
+  {
+    "id": 348,
+    "name": "UpSolve",
+    "name_normalized": "upsolve",
+    "category": null,
+    "website_url": "https://www.upsolve.ai",
+    "events_sponsored": 1,
+    "conferences": "SaaStr Annual (sponsor)",
+    "conference_slugs": "saastr-annual"
+  },
+  {
+    "id": 20,
+    "name": "Usercentrics",
+    "name_normalized": "usercentrics",
+    "category": null,
+    "website_url": "https://usercentrics.com/",
+    "events_sponsored": 1,
+    "conferences": "INBOUND (platinum)",
+    "conference_slugs": "inbound"
+  },
+  {
+    "id": 135,
+    "name": "V Digital Services",
+    "name_normalized": "v digital",
+    "category": null,
+    "website_url": null,
+    "events_sponsored": 1,
+    "conferences": "LeadsCon (sponsor)",
+    "conference_slugs": "leadscon"
+  },
+  {
+    "id": 127,
+    "name": "VanillaSoft",
+    "name_normalized": "vanillasoft",
+    "category": null,
+    "website_url": null,
+    "events_sponsored": 1,
+    "conferences": "LeadsCon (sponsor)",
+    "conference_slugs": "leadscon"
+  },
+  {
+    "id": 11,
+    "name": "VelocityEngine",
+    "name_normalized": "velocityengine",
+    "category": null,
+    "website_url": "https://www.velocityengine.co/",
+    "events_sponsored": 1,
+    "conferences": "INBOUND (silver)",
+    "conference_slugs": "inbound"
+  },
+  {
+    "id": 322,
+    "name": "Vercel",
+    "name_normalized": "vercel",
+    "category": null,
+    "website_url": "https://vercel.com/",
+    "events_sponsored": 1,
+    "conferences": "SaaStr Annual (sponsor)",
+    "conference_slugs": "saastr-annual"
+  },
+  {
+    "id": 69,
+    "name": "ViB",
+    "name_normalized": "vib",
+    "category": null,
+    "website_url": "https://vib.tech",
+    "events_sponsored": 1,
+    "conferences": "INBOUND (bronze)",
+    "conference_slugs": "inbound"
+  },
+  {
+    "id": 28,
+    "name": "Vidyard",
+    "name_normalized": "vidyard",
+    "category": null,
+    "website_url": "http://vidyard.com/",
+    "events_sponsored": 1,
+    "conferences": "INBOUND (platinum)",
+    "conference_slugs": "inbound"
+  },
+  {
+    "id": 83,
+    "name": "Vimeo",
+    "name_normalized": "vimeo",
+    "category": null,
+    "website_url": "https://vimeo.com/",
+    "events_sponsored": 1,
+    "conferences": "INBOUND (gold)",
+    "conference_slugs": "inbound"
+  },
+  {
+    "id": 485,
+    "name": "Vito Salvatore",
+    "name_normalized": "vito salvatore",
+    "category": null,
+    "website_url": null,
+    "events_sponsored": 1,
+    "conferences": "B2BMX (exhibitor)",
+    "conference_slugs": "b2bmx"
+  },
+  {
+    "id": 74,
+    "name": "Voxo",
+    "name_normalized": "voxo",
+    "category": null,
+    "website_url": "https://voxoevent.ai/",
+    "events_sponsored": 1,
+    "conferences": "INBOUND (bronze)",
+    "conference_slugs": "inbound"
+  },
+  {
+    "id": 172,
+    "name": "Warmly logo",
+    "name_normalized": "warmly logo",
+    "category": null,
+    "website_url": null,
+    "events_sponsored": 1,
+    "conferences": "Outreach Unleash (bronze)",
+    "conference_slugs": "outreach-unleash"
+  },
+  {
+    "id": 108,
+    "name": "Webflow",
+    "name_normalized": "webflow",
+    "category": null,
+    "website_url": "https://webflow.com/",
+    "events_sponsored": 1,
+    "conferences": "INBOUND (title)",
+    "conference_slugs": "inbound"
+  },
+  {
+    "id": 294,
+    "name": "Welcome-1 1",
+    "name_normalized": "welcome-1 1",
+    "category": null,
+    "website_url": null,
+    "events_sponsored": 1,
+    "conferences": "Pavilion GTM2026 (sponsor)",
+    "conference_slugs": "pavilion-gtm"
+  },
+  {
+    "id": 278,
+    "name": "Why Join MOpza26 Online This October?",
+    "name_normalized": "why join mopza26 online this october?",
+    "category": null,
+    "website_url": null,
+    "events_sponsored": 1,
+    "conferences": "MOps-Apalooza (sponsor)",
+    "conference_slugs": "mops-apalooza"
+  },
+  {
+    "id": 67,
+    "name": "WiseStamp",
+    "name_normalized": "wisestamp",
+    "category": null,
+    "website_url": "https://www.wisestamp.com/",
+    "events_sponsored": 1,
+    "conferences": "INBOUND (silver)",
+    "conference_slugs": "inbound"
+  },
+  {
+    "id": 29,
+    "name": "Wistia",
+    "name_normalized": "wistia",
+    "category": null,
+    "website_url": "https://wistia.com",
+    "events_sponsored": 1,
+    "conferences": "INBOUND (platinum)",
+    "conference_slugs": "inbound"
+  },
+  {
+    "id": 334,
+    "name": "Worldpay",
+    "name_normalized": "worldpay",
+    "category": null,
+    "website_url": "https://platforms.worldpay.com/",
+    "events_sponsored": 1,
+    "conferences": "SaaStr Annual (sponsor)",
+    "conference_slugs": "saastr-annual"
+  },
+  {
+    "id": 62,
+    "name": "Wyzard.ai",
+    "name_normalized": "wyzard.ai",
+    "category": null,
+    "website_url": "https://wyzard.ai/",
+    "events_sponsored": 1,
+    "conferences": "INBOUND (bronze)",
+    "conference_slugs": "inbound"
+  },
+  {
+    "id": 32,
+    "name": "ZeroBounce",
+    "name_normalized": "zerobounce",
+    "category": null,
+    "website_url": "https://www.zerobounce.net/",
+    "events_sponsored": 1,
+    "conferences": "INBOUND (silver)",
+    "conference_slugs": "inbound"
+  },
+  {
+    "id": 152,
+    "name": "Zion&Zion",
+    "name_normalized": "zion&zion",
+    "category": null,
+    "website_url": null,
+    "events_sponsored": 1,
+    "conferences": "6sense Breakthrough (sponsor)",
+    "conference_slugs": "6sense-breakthrough"
+  },
+  {
+    "id": 40,
+    "name": "Zoom",
+    "name_normalized": "zoom",
+    "category": null,
+    "website_url": "https://www.zoom.com/",
+    "events_sponsored": 1,
+    "conferences": "INBOUND (silver)",
+    "conference_slugs": "inbound"
+  },
+  {
+    "id": 34,
+    "name": "Zuper",
+    "name_normalized": "zuper",
+    "category": null,
+    "website_url": "https://www.zuper.co/",
+    "events_sponsored": 1,
+    "conferences": "INBOUND (silver)",
+    "conference_slugs": "inbound"
+  },
+  {
+    "id": 356,
+    "name": "accord partner logo",
+    "name_normalized": "accord partner logo",
+    "category": null,
+    "website_url": "https://hubs.li/Q03Zh-0r0",
+    "events_sponsored": 1,
+    "conferences": "RevOpsAF US (gold)",
+    "conference_slugs": "revopsaf-us"
+  },
+  {
+    "id": 358,
+    "name": "activate the magic logo",
+    "name_normalized": "activate the magic logo",
+    "category": null,
+    "website_url": "https://hubs.li/Q0416ZdN0",
+    "events_sponsored": 1,
+    "conferences": "RevOpsAF US (gold)",
+    "conference_slugs": "revopsaf-us"
+  },
+  {
+    "id": 376,
+    "name": "activatems.com",
+    "name_normalized": "activatems.com",
+    "category": null,
+    "website_url": "https://www.activatems.com/",
+    "events_sponsored": 1,
+    "conferences": "B2BMX (exhibitor)",
+    "conference_slugs": "b2bmx"
+  },
+  {
+    "id": 128,
+    "name": "adHere",
+    "name_normalized": "adhere",
+    "category": null,
+    "website_url": null,
+    "events_sponsored": 1,
+    "conferences": "LeadsCon (sponsor)",
+    "conference_slugs": "leadscon"
+  },
+  {
+    "id": 398,
+    "name": "addaptive.com",
+    "name_normalized": "addaptive.com",
+    "category": null,
+    "website_url": "https://www.addaptive.com/",
+    "events_sponsored": 1,
+    "conferences": "B2BMX (exhibitor)",
+    "conference_slugs": "b2bmx"
+  },
+  {
+    "id": 433,
+    "name": "advertisingweek.com",
+    "name_normalized": "advertisingweek.com",
+    "category": null,
+    "website_url": "https://advertisingweek.com/",
+    "events_sponsored": 1,
+    "conferences": "B2BMX (exhibitor)",
+    "conference_slugs": "b2bmx"
+  },
+  {
+    "id": 473,
+    "name": "ama.org",
+    "name_normalized": "ama.org",
+    "category": null,
+    "website_url": "https://www.ama.org/",
+    "events_sponsored": 1,
+    "conferences": "B2BMX (exhibitor)",
+    "conference_slugs": "b2bmx"
+  },
+  {
+    "id": 413,
+    "name": "amsive.com",
+    "name_normalized": "amsive.com",
+    "category": null,
+    "website_url": "http://amsive.com/",
+    "events_sponsored": 1,
+    "conferences": "B2BMX (exhibitor)",
+    "conference_slugs": "b2bmx"
+  },
+  {
+    "id": 418,
+    "name": "anteriad.com",
+    "name_normalized": "anteriad.com",
+    "category": null,
+    "website_url": "https://anteriad.com/",
+    "events_sponsored": 1,
+    "conferences": "B2BMX (exhibitor)",
+    "conference_slugs": "b2bmx"
+  },
+  {
+    "id": 451,
+    "name": "anura.io",
+    "name_normalized": "anura.io",
+    "category": null,
+    "website_url": "https://www.anura.io/",
+    "events_sponsored": 1,
+    "conferences": "B2BMX (exhibitor)",
+    "conference_slugs": "b2bmx"
+  },
+  {
+    "id": 429,
+    "name": "articlegroup.com",
+    "name_normalized": "articlegroup.com",
+    "category": null,
+    "website_url": "https://articlegroup.com/",
+    "events_sponsored": 1,
+    "conferences": "B2BMX (exhibitor)",
+    "conference_slugs": "b2bmx"
+  },
+  {
+    "id": 357,
+    "name": "axiss consulting logo",
+    "name_normalized": "axiss consulting logo",
+    "category": null,
+    "website_url": "https://hubs.li/Q03-FzPz0",
+    "events_sponsored": 1,
+    "conferences": "RevOpsAF US (gold)",
+    "conference_slugs": "revopsaf-us"
+  },
+  {
+    "id": 419,
+    "name": "b2bmg.com",
+    "name_normalized": "b2bmg.com",
+    "category": null,
+    "website_url": "https://www.b2bmg.com/en/home",
+    "events_sponsored": 1,
+    "conferences": "B2BMX (exhibitor)",
+    "conference_slugs": "b2bmx"
+  },
+  {
+    "id": 431,
+    "name": "b2lead.com",
+    "name_normalized": "b2lead.com",
+    "category": null,
+    "website_url": "https://b2lead.com/",
+    "events_sponsored": 1,
+    "conferences": "B2BMX (exhibitor)",
+    "conference_slugs": "b2bmx"
+  },
+  {
+    "id": 162,
+    "name": "bearworks logo",
+    "name_normalized": "bearworks logo",
+    "category": null,
+    "website_url": null,
+    "events_sponsored": 1,
+    "conferences": "Outreach Unleash (bronze)",
+    "conference_slugs": "outreach-unleash"
+  },
+  {
+    "id": 420,
+    "name": "bluewhaleresearch.com",
+    "name_normalized": "bluewhaleresearch.com",
+    "category": null,
+    "website_url": "https://bluewhaleresearch.com/",
+    "events_sponsored": 1,
+    "conferences": "B2BMX (exhibitor)",
+    "conference_slugs": "b2bmx"
+  },
+  {
+    "id": 457,
+    "name": "bol-agency.com",
+    "name_normalized": "bol-agency.com",
+    "category": null,
+    "website_url": "https://www.bol-agency.com/",
+    "events_sponsored": 1,
+    "conferences": "B2BMX (exhibitor)",
+    "conference_slugs": "b2bmx"
+  },
+  {
+    "id": 163,
+    "name": "bombbomb logo",
+    "name_normalized": "bombbomb logo",
+    "category": null,
+    "website_url": null,
+    "events_sponsored": 1,
+    "conferences": "Outreach Unleash (bronze)",
+    "conference_slugs": "outreach-unleash"
+  },
+  {
+    "id": 147,
+    "name": "bombora",
+    "name_normalized": "bombora",
+    "category": null,
+    "website_url": null,
+    "events_sponsored": 1,
+    "conferences": "6sense Breakthrough (sponsor)",
+    "conference_slugs": "6sense-breakthrough"
+  },
+  {
+    "id": 456,
+    "name": "braidit.com",
+    "name_normalized": "braidit.com",
+    "category": null,
+    "website_url": "https://braidit.com/",
+    "events_sponsored": 1,
+    "conferences": "B2BMX (exhibitor)",
+    "conference_slugs": "b2bmx"
+  },
+  {
+    "id": 461,
+    "name": "brainrider.com",
+    "name_normalized": "brainrider.com",
+    "category": null,
+    "website_url": "https://www.brainrider.com/",
+    "events_sponsored": 1,
+    "conferences": "B2BMX (exhibitor)",
+    "conference_slugs": "b2bmx"
+  },
+  {
+    "id": 452,
+    "name": "brandlive.com",
+    "name_normalized": "brandlive.com",
+    "category": null,
+    "website_url": "https://www.brandlive.com/",
+    "events_sponsored": 1,
+    "conferences": "B2BMX (exhibitor)",
+    "conference_slugs": "b2bmx"
+  },
+  {
+    "id": 421,
+    "name": "brightcove.com",
+    "name_normalized": "brightcove.com",
+    "category": null,
+    "website_url": "https://www.brightcove.com/en/",
+    "events_sponsored": 1,
+    "conferences": "B2BMX (exhibitor)",
+    "conference_slugs": "b2bmx"
+  },
+  {
+    "id": 377,
+    "name": "calibermind.com",
+    "name_normalized": "calibermind.com",
+    "category": null,
+    "website_url": "https://calibermind.com/",
+    "events_sponsored": 1,
+    "conferences": "B2BMX (exhibitor)",
+    "conference_slugs": "b2bmx"
+  },
+  {
+    "id": 415,
+    "name": "captello.com",
+    "name_normalized": "captello.com",
+    "category": null,
+    "website_url": "https://www.captello.com/",
+    "events_sponsored": 1,
+    "conferences": "B2BMX (exhibitor)",
+    "conference_slugs": "b2bmx"
+  },
+  {
+    "id": 438,
+    "name": "cheq.ai",
+    "name_normalized": "cheq.ai",
+    "category": null,
+    "website_url": "https://cheq.ai/",
+    "events_sponsored": 1,
+    "conferences": "B2BMX (exhibitor)",
+    "conference_slugs": "b2bmx"
+  },
+  {
+    "id": 464,
+    "name": "claritydigital.agency",
+    "name_normalized": "claritydigital.agency",
+    "category": null,
+    "website_url": "https://claritydigital.agency/",
+    "events_sponsored": 1,
+    "conferences": "B2BMX (exhibitor)",
+    "conference_slugs": "b2bmx"
+  },
+  {
+    "id": 465,
+    "name": "closedloop.com",
+    "name_normalized": "closedloop.com",
+    "category": null,
+    "website_url": "https://www.closedloop.com/",
+    "events_sponsored": 1,
+    "conferences": "B2BMX (exhibitor)",
+    "conference_slugs": "b2bmx"
+  },
+  {
+    "id": 392,
+    "name": "clozd.com",
+    "name_normalized": "clozd.com",
+    "category": null,
+    "website_url": "https://www.clozd.com/",
+    "events_sponsored": 1,
+    "conferences": "B2BMX (exhibitor)",
+    "conference_slugs": "b2bmx"
+  },
+  {
+    "id": 442,
+    "name": "content4demand.com",
+    "name_normalized": "content4demand.com",
+    "category": null,
+    "website_url": "https://content4demand.com",
+    "events_sponsored": 1,
+    "conferences": "B2BMX (exhibitor)",
+    "conference_slugs": "b2bmx"
+  },
+  {
+    "id": 117,
+    "name": "convoso",
+    "name_normalized": "convoso",
+    "category": null,
+    "website_url": null,
+    "events_sponsored": 1,
+    "conferences": "LeadsCon (sponsor)",
+    "conference_slugs": "leadscon"
+  },
+  {
+    "id": 155,
+    "name": "corporate visions logo",
+    "name_normalized": "corporate visions logo",
+    "category": null,
+    "website_url": null,
+    "events_sponsored": 1,
+    "conferences": "Outreach Unleash (diamond)",
+    "conference_slugs": "outreach-unleash"
+  },
+  {
+    "id": 466,
+    "name": "data-axle.com",
+    "name_normalized": "data-axle.com",
+    "category": null,
+    "website_url": "https://www.data-axle.com/",
+    "events_sponsored": 1,
+    "conferences": "B2BMX (exhibitor)",
+    "conference_slugs": "b2bmx"
+  },
+  {
+    "id": 399,
+    "name": "demandai.net",
+    "name_normalized": "demandai.net",
+    "category": null,
+    "website_url": "https://demandai.net/",
+    "events_sponsored": 1,
+    "conferences": "B2BMX (exhibitor)",
+    "conference_slugs": "b2bmx"
+  },
+  {
+    "id": 393,
+    "name": "demandbase.com",
+    "name_normalized": "demandbase.com",
+    "category": null,
+    "website_url": "https://www.demandbase.com",
+    "events_sponsored": 1,
+    "conferences": "B2BMX (exhibitor)",
+    "conference_slugs": "b2bmx"
+  },
+  {
+    "id": 379,
+    "name": "demandfactor.com",
+    "name_normalized": "demandfactor.com",
+    "category": null,
+    "website_url": "https://demandfactor.com/",
+    "events_sponsored": 1,
+    "conferences": "B2BMX (exhibitor)",
+    "conference_slugs": "b2bmx"
+  },
+  {
+    "id": 434,
+    "name": "demandgenreport.com",
+    "name_normalized": "demandgenreport.com",
+    "category": null,
+    "website_url": "https://www.demandgenreport.com/",
+    "events_sponsored": 1,
+    "conferences": "B2BMX (exhibitor)",
+    "conference_slugs": "b2bmx"
+  },
+  {
+    "id": 458,
+    "name": "demandlab.com",
+    "name_normalized": "demandlab.com",
+    "category": null,
+    "website_url": "https://www.demandlab.com/",
+    "events_sponsored": 1,
+    "conferences": "B2BMX (exhibitor)",
+    "conference_slugs": "b2bmx"
+  },
+  {
+    "id": 422,
+    "name": "demandscience.com",
+    "name_normalized": "demandscience.com",
+    "category": null,
+    "website_url": "https://demandscience.com",
+    "events_sponsored": 1,
+    "conferences": "B2BMX (exhibitor)",
+    "conference_slugs": "b2bmx"
+  },
+  {
+    "id": 459,
+    "name": "demandspring.com",
+    "name_normalized": "demandspring.com",
+    "category": null,
+    "website_url": "https://demandspring.com/",
+    "events_sponsored": 1,
+    "conferences": "B2BMX (exhibitor)",
+    "conference_slugs": "b2bmx"
+  },
+  {
+    "id": 394,
+    "name": "demandview.ai",
+    "name_normalized": "demandview.ai",
+    "category": null,
+    "website_url": "https://demandview.ai/",
+    "events_sponsored": 1,
+    "conferences": "B2BMX (exhibitor)",
+    "conference_slugs": "b2bmx"
+  },
+  {
+    "id": 474,
+    "name": "deveniopodcasts.com",
+    "name_normalized": "deveniopodcasts.com",
+    "category": null,
+    "website_url": "https://deveniopodcasts.com/",
+    "events_sponsored": 1,
+    "conferences": "B2BMX (exhibitor)",
+    "conference_slugs": "b2bmx"
+  },
+  {
+    "id": 365,
+    "name": "digitalzone.com",
+    "name_normalized": "digitalzone.com",
+    "category": null,
+    "website_url": "https://digitalzone.com/",
+    "events_sponsored": 1,
+    "conferences": "B2BMX (exhibitor)",
+    "conference_slugs": "b2bmx"
+  },
+  {
+    "id": 380,
+    "name": "docket.io",
+    "name_normalized": "docket.io",
+    "category": null,
+    "website_url": "https://www.docket.io/%20",
+    "events_sponsored": 1,
+    "conferences": "B2BMX (exhibitor)",
+    "conference_slugs": "b2bmx"
+  },
+  {
+    "id": 124,
+    "name": "dot818",
+    "name_normalized": "dot818",
+    "category": null,
+    "website_url": null,
+    "events_sponsored": 1,
+    "conferences": "LeadsCon (sponsor)",
+    "conference_slugs": "leadscon"
+  },
+  {
+    "id": 441,
+    "name": "dwmedia.com",
+    "name_normalized": "dwmedia.com",
+    "category": null,
+    "website_url": "http://dwmedia.com/",
+    "events_sponsored": 1,
+    "conferences": "B2BMX (exhibitor)",
+    "conference_slugs": "b2bmx"
+  },
+  {
+    "id": 151,
+    "name": "elevated third",
+    "name_normalized": "elevated third",
+    "category": null,
+    "website_url": null,
+    "events_sponsored": 1,
+    "conferences": "6sense Breakthrough (sponsor)",
+    "conference_slugs": "6sense-breakthrough"
+  },
+  {
+    "id": 400,
+    "name": "energize-marketing.com",
+    "name_normalized": "energize-marketing.com",
+    "category": null,
+    "website_url": "https://www.energize-marketing.com/",
+    "events_sponsored": 1,
+    "conferences": "B2BMX (exhibitor)",
+    "conference_slugs": "b2bmx"
+  },
+  {
+    "id": 351,
+    "name": "everstage vector logo",
+    "name_normalized": "everstage vector logo",
+    "category": null,
+    "website_url": "https://hubs.li/Q03ZhZpQ0",
+    "events_sponsored": 1,
+    "conferences": "RevOpsAF US (gold)",
+    "conference_slugs": "revopsaf-us"
+  },
+  {
+    "id": 416,
+    "name": "firstconnectdigital.com",
+    "name_normalized": "firstconnectdigital.com",
+    "category": null,
+    "website_url": "https://firstconnectdigital.com/",
+    "events_sponsored": 1,
+    "conferences": "B2BMX (exhibitor)",
+    "conference_slugs": "b2bmx"
+  },
+  {
+    "id": 145,
+    "name": "folloze",
+    "name_normalized": "folloze",
+    "category": null,
+    "website_url": null,
+    "events_sponsored": 1,
+    "conferences": "6sense Breakthrough (sponsor)",
+    "conference_slugs": "6sense-breakthrough"
+  },
+  {
+    "id": 381,
+    "name": "foundryco.com",
+    "name_normalized": "foundryco.com",
+    "category": null,
+    "website_url": "https://foundryco.com/",
+    "events_sponsored": 1,
+    "conferences": "B2BMX (exhibitor)",
+    "conference_slugs": "b2bmx"
+  },
+  {
+    "id": 359,
+    "name": "fullcast logo",
+    "name_normalized": "fullcast logo",
+    "category": null,
+    "website_url": "https://hubs.li/Q03_BVWN0",
+    "events_sponsored": 1,
+    "conferences": "RevOpsAF US (gold)",
+    "conference_slugs": "revopsaf-us"
+  },
+  {
+    "id": 414,
+    "name": "gatherhq.com",
+    "name_normalized": "gatherhq.com",
+    "category": null,
+    "website_url": "https://www.gatherhq.com/",
+    "events_sponsored": 1,
+    "conferences": "B2BMX (exhibitor)",
+    "conference_slugs": "b2bmx"
+  },
+  {
+    "id": 395,
+    "name": "getmobly.com",
+    "name_normalized": "getmobly.com",
+    "category": null,
+    "website_url": "https://www.getmobly.com/",
+    "events_sponsored": 1,
+    "conferences": "B2BMX (exhibitor)",
+    "conference_slugs": "b2bmx"
+  },
+  {
+    "id": 430,
+    "name": "getrev.ai",
+    "name_normalized": "getrev.ai",
+    "category": null,
+    "website_url": "https://getrev.ai/",
+    "events_sponsored": 1,
+    "conferences": "B2BMX (exhibitor)",
+    "conference_slugs": "b2bmx"
+  },
+  {
+    "id": 460,
+    "name": "ghostranch.com",
+    "name_normalized": "ghostranch.com",
+    "category": null,
+    "website_url": "https://www.ghostranch.com/",
+    "events_sponsored": 1,
+    "conferences": "B2BMX (exhibitor)",
+    "conference_slugs": "b2bmx"
+  },
+  {
+    "id": 378,
+    "name": "goconsensus.com",
+    "name_normalized": "goconsensus.com",
+    "category": null,
+    "website_url": "https://goconsensus.com/",
+    "events_sponsored": 1,
+    "conferences": "B2BMX (exhibitor)",
+    "conference_slugs": "b2bmx"
+  },
+  {
+    "id": 401,
+    "name": "goldcast.io",
+    "name_normalized": "goldcast.io",
+    "category": null,
+    "website_url": "https://www.goldcast.io/",
+    "events_sponsored": 1,
+    "conferences": "B2BMX (exhibitor)",
+    "conference_slugs": "b2bmx"
+  },
+  {
+    "id": 82,
+    "name": "hapily",
+    "name_normalized": "hapily",
+    "category": null,
+    "website_url": "https://hapily.com",
+    "events_sponsored": 1,
+    "conferences": "INBOUND (gold)",
+    "conference_slugs": "inbound"
+  },
+  {
+    "id": 453,
+    "name": "hawksearch.com",
+    "name_normalized": "hawksearch.com",
+    "category": null,
+    "website_url": "https://www.hawksearch.com/",
+    "events_sponsored": 1,
+    "conferences": "B2BMX (exhibitor)",
+    "conference_slugs": "b2bmx"
+  },
+  {
+    "id": 354,
+    "name": "hg insights logo",
+    "name_normalized": "hg insights logo",
+    "category": null,
+    "website_url": "https://hubs.li/Q04233000",
+    "events_sponsored": 1,
+    "conferences": "RevOpsAF US (gold)",
+    "conference_slugs": "revopsaf-us"
+  },
+  {
+    "id": 449,
+    "name": "hushly.com",
+    "name_normalized": "hushly.com",
+    "category": null,
+    "website_url": "https://www.hushly.com/",
+    "events_sponsored": 1,
+    "conferences": "B2BMX (exhibitor)",
+    "conference_slugs": "b2bmx"
+  },
+  {
+    "id": 444,
+    "name": "icreon.com",
+    "name_normalized": "icreon.com",
+    "category": null,
+    "website_url": "https://www.icreon.com/en",
+    "events_sponsored": 1,
+    "conferences": "B2BMX (exhibitor)",
+    "conference_slugs": "b2bmx"
+  },
+  {
+    "id": 148,
+    "name": "ignitium",
+    "name_normalized": "ignitium",
+    "category": null,
+    "website_url": null,
+    "events_sponsored": 1,
+    "conferences": "6sense Breakthrough (sponsor)",
+    "conference_slugs": "6sense-breakthrough"
+  },
+  {
+    "id": 382,
+    "name": "ignitium.com",
+    "name_normalized": "ignitium.com",
+    "category": null,
+    "website_url": "https://www.ignitium.com/",
+    "events_sponsored": 1,
+    "conferences": "B2BMX (exhibitor)",
+    "conference_slugs": "b2bmx"
+  },
+  {
+    "id": 370,
+    "name": "influ2.com",
+    "name_normalized": "influ2.com",
+    "category": null,
+    "website_url": "https://www.influ2.com/",
+    "events_sponsored": 1,
+    "conferences": "B2BMX (exhibitor)",
+    "conference_slugs": "b2bmx"
+  },
+  {
+    "id": 371,
+    "name": "informatechtarget.com",
+    "name_normalized": "informatechtarget.com",
+    "category": null,
+    "website_url": "https://www.informatechtarget.com/",
+    "events_sponsored": 1,
+    "conferences": "B2BMX (exhibitor)",
+    "conference_slugs": "b2bmx"
+  },
+  {
+    "id": 372,
+    "name": "infusemedia.com",
+    "name_normalized": "infusemedia.com",
+    "category": null,
+    "website_url": "https://infusemedia.com/",
+    "events_sponsored": 1,
+    "conferences": "B2BMX (exhibitor)",
+    "conference_slugs": "b2bmx"
+  },
+  {
+    "id": 150,
+    "name": "integrate",
+    "name_normalized": "integrate",
+    "category": null,
+    "website_url": null,
+    "events_sponsored": 1,
+    "conferences": "6sense Breakthrough (sponsor)",
+    "conference_slugs": "6sense-breakthrough"
+  },
+  {
+    "id": 366,
+    "name": "integrate.com",
+    "name_normalized": "integrate.com",
+    "category": null,
+    "website_url": "https://integrate.com",
+    "events_sponsored": 1,
+    "conferences": "B2BMX (exhibitor)",
+    "conference_slugs": "b2bmx"
+  },
+  {
+    "id": 383,
+    "name": "intentsify.io",
+    "name_normalized": "intentsify.io",
+    "category": null,
+    "website_url": "https://intentsify.io/",
+    "events_sponsored": 1,
+    "conferences": "B2BMX (exhibitor)",
+    "conference_slugs": "b2bmx"
+  },
+  {
+    "id": 139,
+    "name": "klue.com",
+    "name_normalized": "klue.com",
+    "category": null,
+    "website_url": "https://klue.com/?utm_source=wynter&utm_medium=promo&utm_campaign=spryng",
+    "events_sponsored": 1,
+    "conferences": "Spryng (sponsor)",
+    "conference_slugs": "spryng"
+  },
+  {
+    "id": 467,
+    "name": "knorex.com",
+    "name_normalized": "knorex.com",
+    "category": null,
+    "website_url": "https://www.knorex.com/",
+    "events_sponsored": 1,
+    "conferences": "B2BMX (exhibitor)",
+    "conference_slugs": "b2bmx"
+  },
+  {
+    "id": 384,
+    "name": "lead2pipeline.com",
+    "name_normalized": "lead2pipeline.com",
+    "category": null,
+    "website_url": "https://www.lead2pipeline.com/",
+    "events_sponsored": 1,
+    "conferences": "B2BMX (exhibitor)",
+    "conference_slugs": "b2bmx"
+  },
+  {
+    "id": 149,
+    "name": "lean data",
+    "name_normalized": "lean data",
+    "category": null,
+    "website_url": null,
+    "events_sponsored": 1,
+    "conferences": "6sense Breakthrough (sponsor)",
+    "conference_slugs": "6sense-breakthrough"
+  },
+  {
+    "id": 385,
+    "name": "leandata.com",
+    "name_normalized": "leandata.com",
+    "category": null,
+    "website_url": "https://www.leandata.com/",
+    "events_sponsored": 1,
+    "conferences": "B2BMX (exhibitor)",
+    "conference_slugs": "b2bmx"
+  },
+  {
+    "id": 417,
+    "name": "lessie.ai",
+    "name_normalized": "lessie.ai",
+    "category": null,
+    "website_url": "https://lessie.ai/",
+    "events_sponsored": 1,
+    "conferences": "B2BMX (exhibitor)",
+    "conference_slugs": "b2bmx"
+  },
+  {
+    "id": 462,
+    "name": "level.agency",
+    "name_normalized": "level.agency",
+    "category": null,
+    "website_url": "https://www.level.agency/",
+    "events_sponsored": 1,
+    "conferences": "B2BMX (exhibitor)",
+    "conference_slugs": "b2bmx"
+  },
+  {
+    "id": 402,
+    "name": "lilt.com",
+    "name_normalized": "lilt.com",
+    "category": null,
+    "website_url": "https://lilt.com/",
+    "events_sponsored": 1,
+    "conferences": "B2BMX (exhibitor)",
+    "conference_slugs": "b2bmx"
+  },
+  {
+    "id": 386,
+    "name": "madisonlogic.com",
+    "name_normalized": "madisonlogic.com",
+    "category": null,
+    "website_url": "https://www.madisonlogic.com/",
+    "events_sponsored": 1,
+    "conferences": "B2BMX (exhibitor)",
+    "conference_slugs": "b2bmx"
+  },
+  {
+    "id": 424,
+    "name": "marketboats.com",
+    "name_normalized": "marketboats.com",
+    "category": null,
+    "website_url": "https://marketboats.com/",
+    "events_sponsored": 1,
+    "conferences": "B2BMX (exhibitor)",
+    "conference_slugs": "b2bmx"
+  },
+  {
+    "id": 432,
+    "name": "marketbridge.com",
+    "name_normalized": "marketbridge.com",
+    "category": null,
+    "website_url": "https://marketbridge.com/",
+    "events_sponsored": 1,
+    "conferences": "B2BMX (exhibitor)",
+    "conference_slugs": "b2bmx"
+  },
+  {
+    "id": 435,
+    "name": "marketingops.com",
+    "name_normalized": "marketingops.com",
+    "category": null,
+    "website_url": "https://marketingops.com/",
+    "events_sponsored": 1,
+    "conferences": "B2BMX (exhibitor)",
+    "conference_slugs": "b2bmx"
+  },
+  {
+    "id": 425,
+    "name": "mixology-digital.com",
+    "name_normalized": "mixology-digital.com",
+    "category": null,
+    "website_url": "https://mixology-digital.com/",
+    "events_sponsored": 1,
+    "conferences": "B2BMX (exhibitor)",
+    "conference_slugs": "b2bmx"
+  },
+  {
+    "id": 436,
+    "name": "morningbrew.com",
+    "name_normalized": "morningbrew.com",
+    "category": null,
+    "website_url": "https://www.morningbrew.com/",
+    "events_sponsored": 1,
+    "conferences": "B2BMX (exhibitor)",
+    "conference_slugs": "b2bmx"
+  },
+  {
+    "id": 439,
+    "name": "mountain.com",
+    "name_normalized": "mountain.com",
+    "category": null,
+    "website_url": "https://mountain.com/",
+    "events_sponsored": 1,
+    "conferences": "B2BMX (exhibitor)",
+    "conference_slugs": "b2bmx"
+  },
+  {
+    "id": 468,
+    "name": "mperativ.io",
+    "name_normalized": "mperativ.io",
+    "category": null,
+    "website_url": "https://www.mperativ.io/",
+    "events_sponsored": 1,
+    "conferences": "B2BMX (exhibitor)",
+    "conference_slugs": "b2bmx"
+  },
+  {
+    "id": 446,
+    "name": "navu.co",
+    "name_normalized": "navu.co",
+    "category": null,
+    "website_url": "https://navu.co/",
+    "events_sponsored": 1,
+    "conferences": "B2BMX (exhibitor)",
+    "conference_slugs": "b2bmx"
+  },
+  {
+    "id": 477,
+    "name": "neilpatel",
+    "name_normalized": "neilpatel",
+    "category": null,
+    "website_url": null,
+    "events_sponsored": 1,
+    "conferences": "B2BMX (exhibitor)",
+    "conference_slugs": "b2bmx"
+  },
+  {
+    "id": 373,
+    "name": "netline.com",
+    "name_normalized": "netline.com",
+    "category": null,
+    "website_url": "https://www.netline.com/",
+    "events_sponsored": 1,
+    "conferences": "B2BMX (exhibitor)",
+    "conference_slugs": "b2bmx"
+  },
+  {
+    "id": 369,
+    "name": "nextroll.com",
+    "name_normalized": "nextroll.com",
+    "category": null,
+    "website_url": "https://www.nextroll.com/",
+    "events_sponsored": 1,
+    "conferences": "B2BMX (exhibitor)",
+    "conference_slugs": "b2bmx"
+  },
+  {
+    "id": 156,
+    "name": "nooks logo",
+    "name_normalized": "nooks logo",
+    "category": null,
+    "website_url": null,
+    "events_sponsored": 1,
+    "conferences": "Outreach Unleash (gold)",
+    "conference_slugs": "outreach-unleash"
+  },
+  {
+    "id": 403,
+    "name": "omnibound.ai",
+    "name_normalized": "omnibound.ai",
+    "category": null,
+    "website_url": "https://www.omnibound.ai/",
+    "events_sponsored": 1,
+    "conferences": "B2BMX (exhibitor)",
+    "conference_slugs": "b2bmx"
+  },
+  {
+    "id": 387,
+    "name": "on24.com",
+    "name_normalized": "on24.com",
+    "category": null,
+    "website_url": "https://on24.com",
+    "events_sponsored": 1,
+    "conferences": "B2BMX (exhibitor)",
+    "conference_slugs": "b2bmx"
+  },
+  {
+    "id": 396,
+    "name": "only-b2b.com",
+    "name_normalized": "only-b2b.com",
+    "category": null,
+    "website_url": "https://www.only-b2b.com/",
+    "events_sponsored": 1,
+    "conferences": "B2BMX (exhibitor)",
+    "conference_slugs": "b2bmx"
+  },
+  {
+    "id": 475,
+    "name": "onyourmarket.co",
+    "name_normalized": "onyourmarket.co",
+    "category": null,
+    "website_url": "https://www.onyourmarket.co/",
+    "events_sponsored": 1,
+    "conferences": "B2BMX (exhibitor)",
+    "conference_slugs": "b2bmx"
+  },
+  {
+    "id": 352,
+    "name": "openprise logo",
+    "name_normalized": "openprise logo",
+    "category": null,
+    "website_url": "https://hubs.li/Q03-FxBF0",
+    "events_sponsored": 1,
+    "conferences": "RevOpsAF US (gold)",
+    "conference_slugs": "revopsaf-us"
+  },
+  {
+    "id": 450,
+    "name": "opensense.com",
+    "name_normalized": "opensense.com",
+    "category": null,
+    "website_url": "https://www.opensense.com/",
+    "events_sponsored": 1,
+    "conferences": "B2BMX (exhibitor)",
+    "conference_slugs": "b2bmx"
+  },
+  {
+    "id": 447,
+    "name": "optimizely.com",
+    "name_normalized": "optimizely.com",
+    "category": null,
+    "website_url": "https://www.optimizely.com/",
+    "events_sponsored": 1,
+    "conferences": "B2BMX (exhibitor)",
+    "conference_slugs": "b2bmx"
+  },
+  {
+    "id": 157,
+    "name": "orum logo",
+    "name_normalized": "orum logo",
+    "category": null,
+    "website_url": null,
+    "events_sponsored": 1,
+    "conferences": "Outreach Unleash (silver)",
+    "conference_slugs": "outreach-unleash"
+  },
+  {
+    "id": 454,
+    "name": "papirfly.com",
+    "name_normalized": "papirfly.com",
+    "category": null,
+    "website_url": "https://www.papirfly.com/",
+    "events_sponsored": 1,
+    "conferences": "B2BMX (exhibitor)",
+    "conference_slugs": "b2bmx"
+  },
+  {
+    "id": 146,
+    "name": "path factory",
+    "name_normalized": "path factory",
+    "category": null,
+    "website_url": null,
+    "events_sponsored": 1,
+    "conferences": "6sense Breakthrough (sponsor)",
+    "conference_slugs": "6sense-breakthrough"
+  },
+  {
+    "id": 443,
+    "name": "pathfactory.com",
+    "name_normalized": "pathfactory.com",
+    "category": null,
+    "website_url": "https://www.pathfactory.com/",
+    "events_sponsored": 1,
+    "conferences": "B2BMX (exhibitor)",
+    "conference_slugs": "b2bmx"
+  },
+  {
+    "id": 426,
+    "name": "paved.com",
+    "name_normalized": "paved.com",
+    "category": null,
+    "website_url": "https://www.paved.com/",
+    "events_sponsored": 1,
+    "conferences": "B2BMX (exhibitor)",
+    "conference_slugs": "b2bmx"
+  },
+  {
+    "id": 476,
+    "name": "pedowitzgroup.com",
+    "name_normalized": "pedowitzgroup.com",
+    "category": null,
+    "website_url": "https://www.pedowitzgroup.com/",
+    "events_sponsored": 1,
+    "conferences": "B2BMX (exhibitor)",
+    "conference_slugs": "b2bmx"
+  },
+  {
+    "id": 469,
+    "name": "peopledatalabs.com",
+    "name_normalized": "peopledatalabs.com",
+    "category": null,
+    "website_url": "https://www.peopledatalabs.com/",
+    "events_sponsored": 1,
+    "conferences": "B2BMX (exhibitor)",
+    "conference_slugs": "b2bmx"
+  },
+  {
+    "id": 397,
+    "name": "pharosiq.com",
+    "name_normalized": "pharosiq.com",
+    "category": null,
+    "website_url": "https://pharosiq.com/",
+    "events_sponsored": 1,
+    "conferences": "B2BMX (exhibitor)",
+    "conference_slugs": "b2bmx"
+  },
+  {
+    "id": 367,
+    "name": "pipeline-360.com",
+    "name_normalized": "pipeline-360.com",
+    "category": null,
+    "website_url": "https://www.pipeline-360.com/",
+    "events_sponsored": 1,
+    "conferences": "B2BMX (exhibitor)",
+    "conference_slugs": "b2bmx"
+  },
+  {
+    "id": 455,
+    "name": "planful.com",
+    "name_normalized": "planful.com",
+    "category": null,
+    "website_url": "https://planful.com/",
+    "events_sponsored": 1,
+    "conferences": "B2BMX (exhibitor)",
+    "conference_slugs": "b2bmx"
+  },
+  {
+    "id": 166,
+    "name": "postal logo",
+    "name_normalized": "postal logo",
+    "category": null,
+    "website_url": null,
+    "events_sponsored": 1,
+    "conferences": "Outreach Unleash (bronze)",
+    "conference_slugs": "outreach-unleash"
+  },
+  {
+    "id": 470,
+    "name": "prezent.ai",
+    "name_normalized": "prezent.ai",
+    "category": null,
+    "website_url": "https://www.prezent.ai/",
+    "events_sponsored": 1,
+    "conferences": "B2BMX (exhibitor)",
+    "conference_slugs": "b2bmx"
+  },
+  {
+    "id": 368,
+    "name": "propensity.com",
+    "name_normalized": "propensity.com",
+    "category": null,
+    "website_url": "https://www.propensity.com/",
+    "events_sponsored": 1,
+    "conferences": "B2BMX (exhibitor)",
+    "conference_slugs": "b2bmx"
+  },
+  {
+    "id": 388,
+    "name": "prospectbase.com",
+    "name_normalized": "prospectbase.com",
+    "category": null,
+    "website_url": "https://www.prospectbase.com/",
+    "events_sponsored": 1,
+    "conferences": "B2BMX (exhibitor)",
+    "conference_slugs": "b2bmx"
+  },
+  {
+    "id": 404,
+    "name": "prospectprecise.com",
+    "name_normalized": "prospectprecise.com",
+    "category": null,
+    "website_url": "https://www.prospectprecise.com/",
+    "events_sponsored": 1,
+    "conferences": "B2BMX (exhibitor)",
+    "conference_slugs": "b2bmx"
+  },
+  {
+    "id": 353,
+    "name": "qobra logo",
+    "name_normalized": "qobra logo",
+    "category": null,
+    "website_url": "https://hubs.li/Q03-HgQN0",
+    "events_sponsored": 1,
+    "conferences": "RevOpsAF US (gold)",
+    "conference_slugs": "revopsaf-us"
+  },
+  {
+    "id": 448,
+    "name": "qualified.com",
+    "name_normalized": "qualified.com",
+    "category": null,
+    "website_url": "https://www.qualified.com/",
+    "events_sponsored": 1,
+    "conferences": "B2BMX (exhibitor)",
+    "conference_slugs": "b2bmx"
+  },
+  {
+    "id": 360,
+    "name": "quotapath logo",
+    "name_normalized": "quotapath logo",
+    "category": null,
+    "website_url": "https://hubs.li/Q043tMsx0",
+    "events_sponsored": 1,
+    "conferences": "RevOpsAF US (gold)",
+    "conference_slugs": "revopsaf-us"
+  },
+  {
+    "id": 405,
+    "name": "rampedup.io",
+    "name_normalized": "rampedup.io",
+    "category": null,
+    "website_url": "https://rampedup.io/",
+    "events_sponsored": 1,
+    "conferences": "B2BMX (exhibitor)",
+    "conference_slugs": "b2bmx"
+  },
+  {
+    "id": 389,
+    "name": "reachdesk.com",
+    "name_normalized": "reachdesk.com",
+    "category": null,
+    "website_url": "https://www.reachdesk.com/",
+    "events_sponsored": 1,
+    "conferences": "B2BMX (exhibitor)",
+    "conference_slugs": "b2bmx"
+  },
+  {
+    "id": 437,
+    "name": "revgenius.com",
+    "name_normalized": "revgenius.com",
+    "category": null,
+    "website_url": "https://www.revgenius.com/",
+    "events_sponsored": 1,
+    "conferences": "B2BMX (exhibitor)",
+    "conference_slugs": "b2bmx"
+  },
+  {
+    "id": 471,
+    "name": "s2wmedia.com",
+    "name_normalized": "s2wmedia.com",
+    "category": null,
+    "website_url": "https://www.s2wmedia.com/",
+    "events_sponsored": 1,
+    "conferences": "B2BMX (exhibitor)",
+    "conference_slugs": "b2bmx"
+  },
+  {
+    "id": 427,
+    "name": "salesbox.ai",
+    "name_normalized": "salesbox.ai",
+    "category": null,
+    "website_url": "https://salesbox.ai/",
+    "events_sponsored": 1,
+    "conferences": "B2BMX (exhibitor)",
+    "conference_slugs": "b2bmx"
+  },
+  {
+    "id": 440,
+    "name": "salesforce.com",
+    "name_normalized": "salesforce.com",
+    "category": null,
+    "website_url": "https://salesforce.com",
+    "events_sponsored": 1,
+    "conferences": "B2BMX (exhibitor)",
+    "conference_slugs": "b2bmx"
+  },
+  {
+    "id": 167,
+    "name": "salesintel logo",
+    "name_normalized": "salesintel logo",
+    "category": null,
+    "website_url": null,
+    "events_sponsored": 1,
+    "conferences": "Outreach Unleash (bronze)",
+    "conference_slugs": "outreach-unleash"
+  },
+  {
+    "id": 428,
+    "name": "stackadapt.com",
+    "name_normalized": "stackadapt.com",
+    "category": null,
+    "website_url": "https://www.stackadapt.com/",
+    "events_sponsored": 1,
+    "conferences": "B2BMX (exhibitor)",
+    "conference_slugs": "b2bmx"
+  },
+  {
+    "id": 406,
+    "name": "swag.com",
+    "name_normalized": "swag.com",
+    "category": null,
+    "website_url": "https://swag.com/",
+    "events_sponsored": 1,
+    "conferences": "B2BMX (exhibitor)",
+    "conference_slugs": "b2bmx"
+  },
+  {
+    "id": 390,
+    "name": "technologyadvice.com",
+    "name_normalized": "technologyadvice.com",
+    "category": null,
+    "website_url": "https://technologyadvice.com/",
+    "events_sponsored": 1,
+    "conferences": "B2BMX (exhibitor)",
+    "conference_slugs": "b2bmx"
+  },
+  {
+    "id": 170,
+    "name": "techtarget logo",
+    "name_normalized": "techtarget logo",
+    "category": null,
+    "website_url": null,
+    "events_sponsored": 1,
+    "conferences": "Outreach Unleash (bronze)",
+    "conference_slugs": "outreach-unleash"
+  },
+  {
+    "id": 407,
+    "name": "tenspeed.io",
+    "name_normalized": "tenspeed.io",
+    "category": null,
+    "website_url": "https://www.tenspeed.io/",
+    "events_sponsored": 1,
+    "conferences": "B2BMX (exhibitor)",
+    "conference_slugs": "b2bmx"
+  },
+  {
+    "id": 171,
+    "name": "testbox logo",
+    "name_normalized": "testbox logo",
+    "category": null,
+    "website_url": null,
+    "events_sponsored": 1,
+    "conferences": "Outreach Unleash (bronze)",
+    "conference_slugs": "outreach-unleash"
+  },
+  {
+    "id": 472,
+    "name": "thedigitalfunnel.com",
+    "name_normalized": "thedigitalfunnel.com",
+    "category": null,
+    "website_url": "https://www.thedigitalfunnel.com/",
+    "events_sponsored": 1,
+    "conferences": "B2BMX (exhibitor)",
+    "conference_slugs": "b2bmx"
+  },
+  {
+    "id": 423,
+    "name": "theleadcrafters.com",
+    "name_normalized": "theleadcrafters.com",
+    "category": null,
+    "website_url": "https://theleadcrafters.com/",
+    "events_sponsored": 1,
+    "conferences": "B2BMX (exhibitor)",
+    "conference_slugs": "b2bmx"
+  },
+  {
+    "id": 463,
+    "name": "themxgroup.com",
+    "name_normalized": "themxgroup.com",
+    "category": null,
+    "website_url": "https://www.themxgroup.com/",
+    "events_sponsored": 1,
+    "conferences": "B2BMX (exhibitor)",
+    "conference_slugs": "b2bmx"
+  },
+  {
+    "id": 391,
+    "name": "toxpand.com",
+    "name_normalized": "toxpand.com",
+    "category": null,
+    "website_url": "https://toxpand.com/",
+    "events_sponsored": 1,
+    "conferences": "B2BMX (exhibitor)",
+    "conference_slugs": "b2bmx"
+  },
+  {
+    "id": 350,
+    "name": "traction complete logo",
+    "name_normalized": "traction complete logo",
+    "category": null,
+    "website_url": "https://hubs.li/Q03ZhZpf0",
+    "events_sponsored": 1,
+    "conferences": "RevOpsAF US (gold)",
+    "conference_slugs": "revopsaf-us"
+  },
+  {
+    "id": 445,
+    "name": "unboundb2b.com",
+    "name_normalized": "unboundb2b.com",
+    "category": null,
+    "website_url": "https://www.unboundb2b.com/",
+    "events_sponsored": 1,
+    "conferences": "B2BMX (exhibitor)",
+    "conference_slugs": "b2bmx"
+  },
+  {
+    "id": 285,
+    "name": "user-profile",
+    "name_normalized": "user-profile",
+    "category": null,
+    "website_url": null,
+    "events_sponsored": 1,
+    "conferences": "MOps-Apalooza (sponsor)",
+    "conference_slugs": "mops-apalooza"
+  },
+  {
+    "id": 141,
+    "name": "userevidence.com",
+    "name_normalized": "userevidence.com",
+    "category": null,
+    "website_url": "https://userevidence.com/?utm_source=wynter&utm_medium=promo&utm_campaign=spryng",
+    "events_sponsored": 1,
+    "conferences": "Spryng (sponsor)",
+    "conference_slugs": "spryng"
+  },
+  {
+    "id": 408,
+    "name": "userled.io",
+    "name_normalized": "userled.io",
+    "category": null,
+    "website_url": "https://www.userled.io/",
+    "events_sponsored": 1,
+    "conferences": "B2BMX (exhibitor)",
+    "conference_slugs": "b2bmx"
+  },
+  {
+    "id": 409,
+    "name": "vendelux.com",
+    "name_normalized": "vendelux.com",
+    "category": null,
+    "website_url": "https://vendelux.com/",
+    "events_sponsored": 1,
+    "conferences": "B2BMX (exhibitor)",
+    "conference_slugs": "b2bmx"
+  },
+  {
+    "id": 410,
+    "name": "vereigenmedia.com",
+    "name_normalized": "vereigenmedia.com",
+    "category": null,
+    "website_url": "https://vereigenmedia.com/",
+    "events_sponsored": 1,
+    "conferences": "B2BMX (exhibitor)",
+    "conference_slugs": "b2bmx"
+  },
+  {
+    "id": 374,
+    "name": "wistia.com",
+    "name_normalized": "wistia.com",
+    "category": null,
+    "website_url": "https://wistia.com/",
+    "events_sponsored": 1,
+    "conferences": "B2BMX (exhibitor)",
+    "conference_slugs": "b2bmx"
+  },
+  {
+    "id": 375,
+    "name": "wpvip.com",
+    "name_normalized": "wpvip.com",
+    "category": null,
+    "website_url": "https://wpvip.com/",
+    "events_sponsored": 1,
+    "conferences": "B2BMX (exhibitor)",
+    "conference_slugs": "b2bmx"
+  },
+  {
+    "id": 411,
+    "name": "yolando.com",
+    "name_normalized": "yolando.com",
+    "category": null,
+    "website_url": "https://yolando.com/",
+    "events_sponsored": 1,
+    "conferences": "B2BMX (exhibitor)",
+    "conference_slugs": "b2bmx"
+  }
+]
