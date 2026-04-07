@@ -1,1 +1,4 @@
 output/
+
+# Internal files (not for public serving)
+.agents/
