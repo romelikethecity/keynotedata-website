@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 500" fill="none">
+  <rect width="1200" height="500" fill="#F0F4F3"/>
+  <text x="600" y="40" font-family="system-ui,sans-serif" font-size="20" font-weight="700" fill="#2D3748" text-anchor="middle">Conference Intelligence Platform</text>
+  <g transform="translate(40,60)">
+    <rect width="360" height="160" rx="10" fill="#FAFBFA" stroke="#E2E8F0" stroke-width="1.5"/>
+    <text x="20" y="28" font-family="system-ui,sans-serif" font-size="13" font-weight="600" fill="#0F5132">Speaker Database</text>
+    <g transform="translate(20,44)">
+      <rect width="320" height="24" rx="4" fill="#0F5132" opacity="0.06"/>
+      <rect width="280" height="24" rx="4" fill="#0F5132" opacity="0.12"/>
+      <text x="8" y="16" font-family="system-ui,sans-serif" font-size="11" fill="#2D3748">AI/ML Conference Speakers</text>
+    </g>
+    <g transform="translate(20,74)">
+      <rect width="320" height="24" rx="4" fill="#0F5132" opacity="0.06"/>
+      <rect width="240" height="24" rx="4" fill="#5B9E7A" opacity="0.15"/>
+      <text x="8" y="16" font-family="system-ui,sans-serif" font-size="11" fill="#2D3748">SaaS Growth Speakers</text>
+    </g>
+    <g transform="translate(20,104)">
+      <rect width="320" height="24" rx="4" fill="#0F5132" opacity="0.06"/>
+      <rect width="200" height="24" rx="4" fill="#0F5132" opacity="0.12"/>
+      <text x="8" y="16" font-family="system-ui,sans-serif" font-size="11" fill="#2D3748">RevOps Keynote Speakers</text>
+    </g>
+  </g>
+  <g transform="translate(420,60)">
+    <rect width="360" height="160" rx="10" fill="#FAFBFA" stroke="#E2E8F0" stroke-width="1.5"/>
+    <text x="20" y="28" font-family="system-ui,sans-serif" font-size="13" font-weight="600" fill="#5B9E7A">Conference Calendar</text>
+    <rect x="20" y="48" width="80" height="80" rx="6" fill="#0F5132" opacity="0.06"/>
+    <text x="60" y="82" font-family="system-ui,sans-serif" font-size="24" font-weight="800" fill="#0F5132" text-anchor="middle">250+</text>
+    <text x="60" y="102" font-family="system-ui,sans-serif" font-size="10" fill="#A0AEC0" text-anchor="middle">Events tracked</text>
+    <rect x="120" y="48" width="80" height="80" rx="6" fill="#5B9E7A" opacity="0.08"/>
+    <text x="160" y="82" font-family="system-ui,sans-serif" font-size="24" font-weight="800" fill="#5B9E7A" text-anchor="middle">50+</text>
+    <text x="160" y="102" font-family="system-ui,sans-serif" font-size="10" fill="#A0AEC0" text-anchor="middle">Industries</text>
+    <rect x="220" y="48" width="80" height="80" rx="6" fill="#0F5132" opacity="0.06"/>
+    <text x="260" y="82" font-family="system-ui,sans-serif" font-size="24" font-weight="800" fill="#0F5132" text-anchor="middle">$2B+</text>
+    <text x="260" y="102" font-family="system-ui,sans-serif" font-size="10" fill="#A0AEC0" text-anchor="middle">Sponsorship $</text>
+  </g>
+  <g transform="translate(800,60)">
+    <rect width="360" height="160" rx="10" fill="#FAFBFA" stroke="#E2E8F0" stroke-width="1.5"/>
+    <text x="20" y="28" font-family="system-ui,sans-serif" font-size="13" font-weight="600" fill="#0F5132">Sponsor Tracking</text>
+    <polyline points="20,130 60,115 100,120 140,100 180,90 220,80 260,75 300,60 340,55" stroke="#0F5132" stroke-width="2.5" fill="none"/>
+    <polyline points="20,125 60,122 100,115 140,110 180,108 220,100 260,95 300,85 340,78" stroke="#5B9E7A" stroke-width="2" fill="none" stroke-dasharray="4,3"/>
+    <text x="20" y="152" font-family="system-ui,sans-serif" font-size="10" fill="#A0AEC0">Sponsorship spend trends</text>
+  </g>
+  <g transform="translate(40,250)">
+    <rect width="1120" height="80" rx="10" fill="#FAFBFA" stroke="#E2E8F0" stroke-width="1"/>
+    <g transform="translate(60,14)">
+      <text x="0" y="22" font-family="system-ui,sans-serif" font-size="26" font-weight="800" fill="#0F5132">250+</text>
+      <text x="0" y="42" font-family="system-ui,sans-serif" font-size="11" fill="#A0AEC0">Conferences</text>
+    </g>
+    <g transform="translate(280,14)">
+      <text x="0" y="22" font-family="system-ui,sans-serif" font-size="26" font-weight="800" fill="#2D3748">5,000+</text>
+      <text x="0" y="42" font-family="system-ui,sans-serif" font-size="11" fill="#A0AEC0">Speakers tracked</text>
+    </g>
+    <g transform="translate(520,14)">
+      <text x="0" y="22" font-family="system-ui,sans-serif" font-size="26" font-weight="800" fill="#5B9E7A">Monthly</text>
+      <text x="0" y="42" font-family="system-ui,sans-serif" font-size="11" fill="#A0AEC0">Data updates</text>
+    </g>
+    <g transform="translate(760,14)">
+      <text x="0" y="22" font-family="system-ui,sans-serif" font-size="26" font-weight="800" fill="#0F5132">ROI</text>
+      <text x="0" y="42" font-family="system-ui,sans-serif" font-size="11" fill="#A0AEC0">Measurement tools</text>
+    </g>
+  </g>
+  <g transform="translate(40,360)">
+    <rect width="1120" height="110" rx="10" fill="#0F5132"/>
+    <text x="560" y="32" font-family="system-ui,sans-serif" font-size="16" font-weight="700" fill="#fff" text-anchor="middle">What KeynoteData Delivers</text>
+    <g transform="translate(60,50)">
+      <circle cx="8" cy="8" r="8" fill="#5B9E7A" opacity="0.4"/>
+      <circle cx="8" cy="8" r="4" fill="#5B9E7A"/>
+      <text x="24" y="12" font-family="system-ui,sans-serif" font-size="12" fill="#E8F0EC">Speaker research</text>
+    </g>
+    <g transform="translate(260,50)">
+      <circle cx="8" cy="8" r="8" fill="#5B9E7A" opacity="0.4"/>
+      <circle cx="8" cy="8" r="4" fill="#5B9E7A"/>
+      <text x="24" y="12" font-family="system-ui,sans-serif" font-size="12" fill="#E8F0EC">Sponsor intelligence</text>
+    </g>
+    <g transform="translate(480,50)">
+      <circle cx="8" cy="8" r="8" fill="#5B9E7A" opacity="0.4"/>
+      <circle cx="8" cy="8" r="4" fill="#5B9E7A"/>
+      <text x="24" y="12" font-family="system-ui,sans-serif" font-size="12" fill="#E8F0EC">Conference ROI tracking</text>
+    </g>
+    <g transform="translate(720,50)">
+      <circle cx="8" cy="8" r="8" fill="#5B9E7A" opacity="0.4"/>
+      <circle cx="8" cy="8" r="4" fill="#5B9E7A"/>
+      <text x="24" y="12" font-family="system-ui,sans-serif" font-size="12" fill="#E8F0EC">Event calendar</text>
+    </g>
+    <g transform="translate(920,50)">
+      <circle cx="8" cy="8" r="8" fill="#5B9E7A" opacity="0.4"/>
+      <circle cx="8" cy="8" r="4" fill="#5B9E7A"/>
+      <text x="24" y="12" font-family="system-ui,sans-serif" font-size="12" fill="#E8F0EC">Audience data</text>
+    </g>
+  </g>
+</svg>

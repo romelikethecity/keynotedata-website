@@ -447,3 +447,8 @@ details[open] .faq-question::after { content: '2'; }
   .conf-header-stats { gap: var(--space-4); }
   .section-title { font-size: var(--text-3xl); }
 }
+
+/* Content Figures — SEO Image System */
+.content-figure { margin: 2rem 0; border-radius: 12px; overflow: hidden; background: var(--color-card, #FAFBFA); border: 1px solid var(--color-border, #E2E8F0); }
+.content-figure img { display: block; width: 100%; height: auto; }
+.content-figure figcaption { padding: 0.75rem 1rem; font-size: 0.8125rem; color: var(--color-text-muted, #A0AEC0); text-align: center; border-top: 1px solid var(--color-border, #E2E8F0); }
