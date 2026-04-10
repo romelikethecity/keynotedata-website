@@ -1,0 +1,106 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 500" fill="none">
+  <rect width="1200" height="500" fill="#F0F4F3"/>
+  <text x="600" y="40" font-family="system-ui,sans-serif" font-size="20" font-weight="700" fill="#2D3748" text-anchor="middle">Event Marketing Budget Breakdown</text>
+
+  <!-- Donut chart card -->
+  <g transform="translate(40,60)">
+    <rect width="440" height="400" rx="10" fill="#FAFBFA" stroke="#E2E8F0" stroke-width="1.5"/>
+    <text x="20" y="30" font-family="system-ui,sans-serif" font-size="13" font-weight="600" fill="#0F5132">Annual Allocation</text>
+    <text x="20" y="52" font-family="system-ui,sans-serif" font-size="11" fill="#A0AEC0">Total: $485,000</text>
+
+    <!-- Donut: center 220,210 radius 120 stroke 44 -->
+    <!-- Segments: Sponsorship 32%, Booth 22%, Travel 16%, Swag 8%, Staff 12%, Content 6%, Other 4% -->
+    <!-- Circumference = 2 * PI * 120 = 753.98 -->
+    <g transform="translate(220,220)">
+      <circle r="120" fill="none" stroke="#E8EDEB" stroke-width="44"/>
+      <!-- rotate -90 so start at top -->
+      <g transform="rotate(-90)">
+        <!-- Sponsorship 32% = 241.27 -->
+        <circle r="120" fill="none" stroke="#0F5132" stroke-width="44" stroke-dasharray="241.27 753.98" stroke-dashoffset="0"/>
+        <!-- Booth 22% = 165.88, offset -241.27 -->
+        <circle r="120" fill="none" stroke="#5B9E7A" stroke-width="44" stroke-dasharray="165.88 753.98" stroke-dashoffset="-241.27"/>
+        <!-- Travel 16% = 120.64, offset -407.15 -->
+        <circle r="120" fill="none" stroke="#0F5132" stroke-width="44" stroke-opacity="0.6" stroke-dasharray="120.64 753.98" stroke-dashoffset="-407.15"/>
+        <!-- Staff 12% = 90.48, offset -527.79 -->
+        <circle r="120" fill="none" stroke="#5B9E7A" stroke-width="44" stroke-opacity="0.55" stroke-dasharray="90.48 753.98" stroke-dashoffset="-527.79"/>
+        <!-- Swag 8% = 60.32, offset -618.27 -->
+        <circle r="120" fill="none" stroke="#0F5132" stroke-width="44" stroke-opacity="0.35" stroke-dasharray="60.32 753.98" stroke-dashoffset="-618.27"/>
+        <!-- Content 6% = 45.24, offset -678.58 -->
+        <circle r="120" fill="none" stroke="#5B9E7A" stroke-width="44" stroke-opacity="0.30" stroke-dasharray="45.24 753.98" stroke-dashoffset="-678.58"/>
+        <!-- Other 4% = 30.16, offset -723.82 -->
+        <circle r="120" fill="none" stroke="#A0AEC0" stroke-width="44" stroke-dasharray="30.16 753.98" stroke-dashoffset="-723.82"/>
+      </g>
+      <text x="0" y="-4" font-family="system-ui,sans-serif" font-size="28" font-weight="800" fill="#0F5132" text-anchor="middle">$485K</text>
+      <text x="0" y="18" font-family="system-ui,sans-serif" font-size="11" fill="#A0AEC0" text-anchor="middle">Total budget</text>
+    </g>
+  </g>
+
+  <!-- Legend / bar breakdown -->
+  <g transform="translate(510,60)">
+    <rect width="650" height="400" rx="10" fill="#FAFBFA" stroke="#E2E8F0" stroke-width="1.5"/>
+    <text x="20" y="30" font-family="system-ui,sans-serif" font-size="13" font-weight="600" fill="#0F5132">Category Detail</text>
+
+    <!-- Sponsorship -->
+    <g transform="translate(20,60)">
+      <rect width="10" height="14" rx="2" fill="#0F5132"/>
+      <text x="22" y="12" font-family="system-ui,sans-serif" font-size="12" font-weight="600" fill="#2D3748">Sponsorship fees</text>
+      <text x="540" y="12" font-family="system-ui,sans-serif" font-size="12" font-weight="700" fill="#0F5132" text-anchor="end">$155,200 · 32%</text>
+      <rect y="22" width="610" height="10" rx="3" fill="#E8EDEB"/>
+      <rect y="22" width="195" height="10" rx="3" fill="#0F5132"/>
+    </g>
+
+    <!-- Booth -->
+    <g transform="translate(20,110)">
+      <rect width="10" height="14" rx="2" fill="#5B9E7A"/>
+      <text x="22" y="12" font-family="system-ui,sans-serif" font-size="12" font-weight="600" fill="#2D3748">Booth design &amp; build</text>
+      <text x="540" y="12" font-family="system-ui,sans-serif" font-size="12" font-weight="700" fill="#0F5132" text-anchor="end">$106,700 · 22%</text>
+      <rect y="22" width="610" height="10" rx="3" fill="#E8EDEB"/>
+      <rect y="22" width="134" height="10" rx="3" fill="#5B9E7A"/>
+    </g>
+
+    <!-- Travel -->
+    <g transform="translate(20,160)">
+      <rect width="10" height="14" rx="2" fill="#0F5132" fill-opacity="0.6"/>
+      <text x="22" y="12" font-family="system-ui,sans-serif" font-size="12" font-weight="600" fill="#2D3748">Travel &amp; lodging</text>
+      <text x="540" y="12" font-family="system-ui,sans-serif" font-size="12" font-weight="700" fill="#0F5132" text-anchor="end">$77,600 · 16%</text>
+      <rect y="22" width="610" height="10" rx="3" fill="#E8EDEB"/>
+      <rect y="22" width="97" height="10" rx="3" fill="#0F5132" fill-opacity="0.6"/>
+    </g>
+
+    <!-- Staff -->
+    <g transform="translate(20,210)">
+      <rect width="10" height="14" rx="2" fill="#5B9E7A" fill-opacity="0.55"/>
+      <text x="22" y="12" font-family="system-ui,sans-serif" font-size="12" font-weight="600" fill="#2D3748">Staff &amp; training</text>
+      <text x="540" y="12" font-family="system-ui,sans-serif" font-size="12" font-weight="700" fill="#0F5132" text-anchor="end">$58,200 · 12%</text>
+      <rect y="22" width="610" height="10" rx="3" fill="#E8EDEB"/>
+      <rect y="22" width="73" height="10" rx="3" fill="#5B9E7A" fill-opacity="0.55"/>
+    </g>
+
+    <!-- Swag -->
+    <g transform="translate(20,260)">
+      <rect width="10" height="14" rx="2" fill="#0F5132" fill-opacity="0.35"/>
+      <text x="22" y="12" font-family="system-ui,sans-serif" font-size="12" font-weight="600" fill="#2D3748">Swag &amp; giveaways</text>
+      <text x="540" y="12" font-family="system-ui,sans-serif" font-size="12" font-weight="700" fill="#0F5132" text-anchor="end">$38,800 · 8%</text>
+      <rect y="22" width="610" height="10" rx="3" fill="#E8EDEB"/>
+      <rect y="22" width="49" height="10" rx="3" fill="#0F5132" fill-opacity="0.35"/>
+    </g>
+
+    <!-- Content -->
+    <g transform="translate(20,310)">
+      <rect width="10" height="14" rx="2" fill="#5B9E7A" fill-opacity="0.30"/>
+      <text x="22" y="12" font-family="system-ui,sans-serif" font-size="12" font-weight="600" fill="#2D3748">Content &amp; creative</text>
+      <text x="540" y="12" font-family="system-ui,sans-serif" font-size="12" font-weight="700" fill="#0F5132" text-anchor="end">$29,100 · 6%</text>
+      <rect y="22" width="610" height="10" rx="3" fill="#E8EDEB"/>
+      <rect y="22" width="37" height="10" rx="3" fill="#5B9E7A" fill-opacity="0.30"/>
+    </g>
+
+    <!-- Other -->
+    <g transform="translate(20,360)">
+      <rect width="10" height="14" rx="2" fill="#A0AEC0"/>
+      <text x="22" y="12" font-family="system-ui,sans-serif" font-size="12" font-weight="600" fill="#2D3748">Other (tech, misc)</text>
+      <text x="540" y="12" font-family="system-ui,sans-serif" font-size="12" font-weight="700" fill="#0F5132" text-anchor="end">$19,400 · 4%</text>
+      <rect y="22" width="610" height="10" rx="3" fill="#E8EDEB"/>
+      <rect y="22" width="24" height="10" rx="3" fill="#A0AEC0"/>
+    </g>
+  </g>
+</svg>

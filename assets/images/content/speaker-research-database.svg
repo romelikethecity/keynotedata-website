@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 500" fill="none">
+  <rect width="1200" height="500" fill="#F0F4F3"/>
+  <text x="600" y="40" font-family="system-ui,sans-serif" font-size="20" font-weight="700" fill="#2D3748" text-anchor="middle">Speaker Research Database</text>
+
+  <!-- Search bar -->
+  <g transform="translate(40,60)">
+    <rect width="1120" height="44" rx="22" fill="#FAFBFA" stroke="#E2E8F0" stroke-width="1.5"/>
+    <circle cx="30" cy="22" r="8" fill="none" stroke="#0F5132" stroke-width="2"/>
+    <line x1="36" y1="28" x2="44" y2="36" stroke="#0F5132" stroke-width="2"/>
+    <text x="60" y="27" font-family="system-ui,sans-serif" font-size="13" fill="#A0AEC0">Search: "RevOps keynote speakers"</text>
+    <rect x="940" y="10" width="160" height="24" rx="12" fill="#0F5132"/>
+    <text x="1020" y="27" font-family="system-ui,sans-serif" font-size="11" font-weight="600" fill="#FAFBFA" text-anchor="middle">Filter by topic</text>
+  </g>
+
+  <!-- Speaker card 1 -->
+  <g transform="translate(40,130)">
+    <rect width="360" height="200" rx="10" fill="#FAFBFA" stroke="#E2E8F0" stroke-width="1.5"/>
+    <circle cx="46" cy="46" r="26" fill="#0F5132" opacity="0.12"/>
+    <text x="46" y="52" font-family="system-ui,sans-serif" font-size="18" font-weight="700" fill="#0F5132" text-anchor="middle">SK</text>
+    <text x="82" y="40" font-family="system-ui,sans-serif" font-size="14" font-weight="700" fill="#2D3748">Sarah Kim</text>
+    <text x="82" y="58" font-family="system-ui,sans-serif" font-size="11" fill="#A0AEC0">VP Revenue Ops, Notion</text>
+    <text x="20" y="96" font-family="system-ui,sans-serif" font-size="11" font-weight="600" fill="#0F5132">EXPERTISE</text>
+    <g transform="translate(20,106)">
+      <rect width="84" height="20" rx="10" fill="#5B9E7A" opacity="0.15"/>
+      <text x="42" y="14" font-family="system-ui,sans-serif" font-size="10" fill="#0F5132" text-anchor="middle">RevOps</text>
+      <rect x="92" width="90" height="20" rx="10" fill="#5B9E7A" opacity="0.15"/>
+      <text x="137" y="14" font-family="system-ui,sans-serif" font-size="10" fill="#0F5132" text-anchor="middle">Pipeline</text>
+      <rect x="190" width="110" height="20" rx="10" fill="#5B9E7A" opacity="0.15"/>
+      <text x="245" y="14" font-family="system-ui,sans-serif" font-size="10" fill="#0F5132" text-anchor="middle">GTM Strategy</text>
+    </g>
+    <text x="20" y="156" font-family="system-ui,sans-serif" font-size="11" font-weight="600" fill="#0F5132">PAST EVENTS</text>
+    <text x="20" y="174" font-family="system-ui,sans-serif" font-size="11" fill="#2D3748">SaaStr 2025, Pavilion CRO 2024</text>
+    <text x="20" y="190" font-family="system-ui,sans-serif" font-size="11" fill="#A0AEC0">12 talks, avg rating 4.7</text>
+  </g>
+
+  <!-- Speaker card 2 -->
+  <g transform="translate(420,130)">
+    <rect width="360" height="200" rx="10" fill="#FAFBFA" stroke="#E2E8F0" stroke-width="1.5"/>
+    <circle cx="46" cy="46" r="26" fill="#5B9E7A" opacity="0.20"/>
+    <text x="46" y="52" font-family="system-ui,sans-serif" font-size="18" font-weight="700" fill="#0F5132" text-anchor="middle">MR</text>
+    <text x="82" y="40" font-family="system-ui,sans-serif" font-size="14" font-weight="700" fill="#2D3748">Marcus Reyes</text>
+    <text x="82" y="58" font-family="system-ui,sans-serif" font-size="11" fill="#A0AEC0">Head of Demand Gen, Ramp</text>
+    <text x="20" y="96" font-family="system-ui,sans-serif" font-size="11" font-weight="600" fill="#0F5132">EXPERTISE</text>
+    <g transform="translate(20,106)">
+      <rect width="110" height="20" rx="10" fill="#0F5132" opacity="0.10"/>
+      <text x="55" y="14" font-family="system-ui,sans-serif" font-size="10" fill="#0F5132" text-anchor="middle">Demand Gen</text>
+      <rect x="118" width="70" height="20" rx="10" fill="#0F5132" opacity="0.10"/>
+      <text x="153" y="14" font-family="system-ui,sans-serif" font-size="10" fill="#0F5132" text-anchor="middle">Paid</text>
+      <rect x="196" width="100" height="20" rx="10" fill="#0F5132" opacity="0.10"/>
+      <text x="246" y="14" font-family="system-ui,sans-serif" font-size="10" fill="#0F5132" text-anchor="middle">Attribution</text>
+    </g>
+    <text x="20" y="156" font-family="system-ui,sans-serif" font-size="11" font-weight="600" fill="#0F5132">PAST EVENTS</text>
+    <text x="20" y="174" font-family="system-ui,sans-serif" font-size="11" fill="#2D3748">Inbound 2025, B2BMX 2025</text>
+    <text x="20" y="190" font-family="system-ui,sans-serif" font-size="11" fill="#A0AEC0">9 talks, avg rating 4.6</text>
+  </g>
+
+  <!-- Speaker card 3 -->
+  <g transform="translate(800,130)">
+    <rect width="360" height="200" rx="10" fill="#FAFBFA" stroke="#E2E8F0" stroke-width="1.5"/>
+    <circle cx="46" cy="46" r="26" fill="#0F5132" opacity="0.12"/>
+    <text x="46" y="52" font-family="system-ui,sans-serif" font-size="18" font-weight="700" fill="#0F5132" text-anchor="middle">PJ</text>
+    <text x="82" y="40" font-family="system-ui,sans-serif" font-size="14" font-weight="700" fill="#2D3748">Priya Joshi</text>
+    <text x="82" y="58" font-family="system-ui,sans-serif" font-size="11" fill="#A0AEC0">CMO, Linear</text>
+    <text x="20" y="96" font-family="system-ui,sans-serif" font-size="11" font-weight="600" fill="#0F5132">EXPERTISE</text>
+    <g transform="translate(20,106)">
+      <rect width="120" height="20" rx="10" fill="#5B9E7A" opacity="0.15"/>
+      <text x="60" y="14" font-family="system-ui,sans-serif" font-size="10" fill="#0F5132" text-anchor="middle">Brand Strategy</text>
+      <rect x="128" width="86" height="20" rx="10" fill="#5B9E7A" opacity="0.15"/>
+      <text x="171" y="14" font-family="system-ui,sans-serif" font-size="10" fill="#0F5132" text-anchor="middle">Content</text>
+      <rect x="222" width="78" height="20" rx="10" fill="#5B9E7A" opacity="0.15"/>
+      <text x="261" y="14" font-family="system-ui,sans-serif" font-size="10" fill="#0F5132" text-anchor="middle">PLG</text>
+    </g>
+    <text x="20" y="156" font-family="system-ui,sans-serif" font-size="11" font-weight="600" fill="#0F5132">PAST EVENTS</text>
+    <text x="20" y="174" font-family="system-ui,sans-serif" font-size="11" fill="#2D3748">Dreamforce 2025, SaaStr 2024</text>
+    <text x="20" y="190" font-family="system-ui,sans-serif" font-size="11" fill="#A0AEC0">18 talks, avg rating 4.8</text>
+  </g>
+
+  <!-- Footer metric bar -->
+  <g transform="translate(40,360)">
+    <rect width="1120" height="110" rx="10" fill="#0F5132"/>
+    <text x="40" y="40" font-family="system-ui,sans-serif" font-size="11" fill="#5B9E7A">TOTAL SPEAKERS INDEXED</text>
+    <text x="40" y="76" font-family="system-ui,sans-serif" font-size="32" font-weight="800" fill="#FAFBFA">5,200+</text>
+    <line x1="280" y1="30" x2="280" y2="88" stroke="#5B9E7A" stroke-width="1" opacity="0.3"/>
+    <text x="310" y="40" font-family="system-ui,sans-serif" font-size="11" fill="#5B9E7A">TOPICS TAGGED</text>
+    <text x="310" y="76" font-family="system-ui,sans-serif" font-size="32" font-weight="800" fill="#FAFBFA">140</text>
+    <line x1="520" y1="30" x2="520" y2="88" stroke="#5B9E7A" stroke-width="1" opacity="0.3"/>
+    <text x="550" y="40" font-family="system-ui,sans-serif" font-size="11" fill="#5B9E7A">EVENTS CROSS-INDEXED</text>
+    <text x="550" y="76" font-family="system-ui,sans-serif" font-size="32" font-weight="800" fill="#FAFBFA">250+</text>
+    <line x1="820" y1="30" x2="820" y2="88" stroke="#5B9E7A" stroke-width="1" opacity="0.3"/>
+    <text x="850" y="40" font-family="system-ui,sans-serif" font-size="11" fill="#5B9E7A">CONTACT DATA</text>
+    <text x="850" y="76" font-family="system-ui,sans-serif" font-size="22" font-weight="800" fill="#FAFBFA">LinkedIn + Email</text>
+  </g>
+</svg>

@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 500" fill="none">
+  <rect width="1200" height="500" fill="#F0F4F3"/>
+  <text x="600" y="40" font-family="system-ui,sans-serif" font-size="20" font-weight="700" fill="#2D3748" text-anchor="middle">Conference Lead Funnel</text>
+
+  <!-- Funnel: 5 trapezoidal stages center 600 -->
+  <!-- Stage 1: Booth Traffic - widest -->
+  <g>
+    <polygon points="220,90 980,90 920,140 280,140" fill="#0F5132"/>
+    <text x="600" y="122" font-family="system-ui,sans-serif" font-size="16" font-weight="700" fill="#FAFBFA" text-anchor="middle">Booth Traffic · 3,200 visitors</text>
+  </g>
+  <!-- connector -->
+  <line x1="320" y1="144" x2="360" y2="164" stroke="#D4DDD8"/>
+  <line x1="880" y1="144" x2="840" y2="164" stroke="#D4DDD8"/>
+
+  <!-- Stage 2: Engaged -->
+  <g>
+    <polygon points="300,168 900,168 850,218 350,218" fill="#0F5132" fill-opacity="0.80"/>
+    <text x="600" y="200" font-family="system-ui,sans-serif" font-size="15" font-weight="700" fill="#FAFBFA" text-anchor="middle">Engaged Conversations · 1,140 · 36%</text>
+  </g>
+
+  <!-- Stage 3: Qualified -->
+  <g>
+    <polygon points="370,246 830,246 780,296 420,296" fill="#5B9E7A"/>
+    <text x="600" y="278" font-family="system-ui,sans-serif" font-size="15" font-weight="700" fill="#FAFBFA" text-anchor="middle">Qualified Leads · 412 · 36%</text>
+  </g>
+
+  <!-- Stage 4: Meetings Booked -->
+  <g>
+    <polygon points="440,324 760,324 720,374 480,374" fill="#5B9E7A" fill-opacity="0.70"/>
+    <text x="600" y="356" font-family="system-ui,sans-serif" font-size="14" font-weight="700" fill="#FAFBFA" text-anchor="middle">Meetings Booked · 128 · 31%</text>
+  </g>
+
+  <!-- Stage 5: Pipeline -->
+  <g>
+    <polygon points="500,402 700,402 670,452 530,452" fill="#0F5132"/>
+    <text x="600" y="434" font-family="system-ui,sans-serif" font-size="13" font-weight="700" fill="#FAFBFA" text-anchor="middle">Pipeline · $1.8M</text>
+  </g>
+
+  <!-- Left side labels -->
+  <g transform="translate(40,90)">
+    <rect width="160" height="50" rx="6" fill="#FAFBFA" stroke="#E2E8F0"/>
+    <text x="12" y="20" font-family="system-ui,sans-serif" font-size="10" font-weight="600" fill="#0F5132">STAGE 1</text>
+    <text x="12" y="38" font-family="system-ui,sans-serif" font-size="11" fill="#2D3748">Scanned badges</text>
+  </g>
+  <g transform="translate(60,168)">
+    <rect width="160" height="50" rx="6" fill="#FAFBFA" stroke="#E2E8F0"/>
+    <text x="12" y="20" font-family="system-ui,sans-serif" font-size="10" font-weight="600" fill="#0F5132">STAGE 2</text>
+    <text x="12" y="38" font-family="system-ui,sans-serif" font-size="11" fill="#2D3748">Live demo / 2+ min</text>
+  </g>
+  <g transform="translate(80,246)">
+    <rect width="160" height="50" rx="6" fill="#FAFBFA" stroke="#E2E8F0"/>
+    <text x="12" y="20" font-family="system-ui,sans-serif" font-size="10" font-weight="600" fill="#5B9E7A">STAGE 3</text>
+    <text x="12" y="38" font-family="system-ui,sans-serif" font-size="11" fill="#2D3748">ICP + budget fit</text>
+  </g>
+  <g transform="translate(100,324)">
+    <rect width="160" height="50" rx="6" fill="#FAFBFA" stroke="#E2E8F0"/>
+    <text x="12" y="20" font-family="system-ui,sans-serif" font-size="10" font-weight="600" fill="#5B9E7A">STAGE 4</text>
+    <text x="12" y="38" font-family="system-ui,sans-serif" font-size="11" fill="#2D3748">Calendar confirmed</text>
+  </g>
+  <g transform="translate(120,402)">
+    <rect width="160" height="50" rx="6" fill="#FAFBFA" stroke="#E2E8F0"/>
+    <text x="12" y="20" font-family="system-ui,sans-serif" font-size="10" font-weight="600" fill="#0F5132">STAGE 5</text>
+    <text x="12" y="38" font-family="system-ui,sans-serif" font-size="11" fill="#2D3748">SQL → opportunity</text>
+  </g>
+
+  <!-- Right side conversion metrics -->
+  <g transform="translate(1000,90)">
+    <rect width="160" height="50" rx="6" fill="#FAFBFA" stroke="#E2E8F0"/>
+    <text x="80" y="24" font-family="system-ui,sans-serif" font-size="16" font-weight="800" fill="#0F5132" text-anchor="middle">100%</text>
+    <text x="80" y="40" font-family="system-ui,sans-serif" font-size="10" fill="#A0AEC0" text-anchor="middle">Top of funnel</text>
+  </g>
+  <g transform="translate(980,168)">
+    <rect width="160" height="50" rx="6" fill="#FAFBFA" stroke="#E2E8F0"/>
+    <text x="80" y="24" font-family="system-ui,sans-serif" font-size="16" font-weight="800" fill="#0F5132" text-anchor="middle">36%</text>
+    <text x="80" y="40" font-family="system-ui,sans-serif" font-size="10" fill="#A0AEC0" text-anchor="middle">Engagement rate</text>
+  </g>
+  <g transform="translate(960,246)">
+    <rect width="160" height="50" rx="6" fill="#FAFBFA" stroke="#E2E8F0"/>
+    <text x="80" y="24" font-family="system-ui,sans-serif" font-size="16" font-weight="800" fill="#5B9E7A" text-anchor="middle">13%</text>
+    <text x="80" y="40" font-family="system-ui,sans-serif" font-size="10" fill="#A0AEC0" text-anchor="middle">Traffic → qualified</text>
+  </g>
+  <g transform="translate(940,324)">
+    <rect width="160" height="50" rx="6" fill="#FAFBFA" stroke="#E2E8F0"/>
+    <text x="80" y="24" font-family="system-ui,sans-serif" font-size="16" font-weight="800" fill="#5B9E7A" text-anchor="middle">4%</text>
+    <text x="80" y="40" font-family="system-ui,sans-serif" font-size="10" fill="#A0AEC0" text-anchor="middle">Traffic → meeting</text>
+  </g>
+  <g transform="translate(920,402)">
+    <rect width="160" height="50" rx="6" fill="#0F5132"/>
+    <text x="80" y="24" font-family="system-ui,sans-serif" font-size="16" font-weight="800" fill="#FAFBFA" text-anchor="middle">$14,062</text>
+    <text x="80" y="40" font-family="system-ui,sans-serif" font-size="10" fill="#5B9E7A" text-anchor="middle">Pipeline per meeting</text>
+  </g>
+</svg>
