@@ -1,0 +1,51 @@
+# KeynoteData
+
+> KeynoteData is a B2B conference intelligence database that tracks speakers, sponsors, and sessions across the top B2B SaaS and marketing conferences. The database covers 887 speakers, 487 sponsors, 1,256 sessions, and 13 conferences with full data (214 conferences tracked total). Built for event marketing managers evaluating sponsorship spend, PR agencies placing speakers, and conference organizers benchmarking their rosters.
+
+KeynoteData provides cross-conference visibility that individual conference websites cannot. Filter speakers by seniority, company, and function. Track which sponsors appear at multiple events. Export everything as CSV. Research before you commit your budget.
+
+## Core Pages
+
+- [Homepage](https://keynotedata.com/): Conference intelligence for B2B marketers with speaker, sponsor, and session data
+- [Speaker Database](https://keynotedata.com/conference-speaker-database/): Searchable database of 887 speakers with title, company, seniority, and LinkedIn
+- [Sponsor Intelligence](https://keynotedata.com/b2b-conference-sponsors/): Sponsor tracking across 13 conferences with tier data and multi-event analysis
+- [All Conferences](https://keynotedata.com/conferences/): Index of all 13 conferences with full speaker and sponsor data
+- [Speaking Opportunities](https://keynotedata.com/conference-speaking-opportunities/): Conference CFP data and speaking opportunity tracking
+- [Event Marketing Intelligence](https://keynotedata.com/event-marketing-intelligence/): Event marketing data and conference ROI analysis
+- [B2B Conference Data](https://keynotedata.com/b2b-conference-data/): Raw conference data and methodology
+- [About](https://keynotedata.com/about/): Company background and data sourcing
+- [Pricing](https://keynotedata.com/pricing/): Access plans and CSV export options
+
+## Conferences
+
+- [INBOUND](https://keynotedata.com/conferences/inbound/): 393 speakers, 112 sponsors, 279 sessions (Boston, 25,000 attendees)
+- [Dreamforce](https://keynotedata.com/conferences/dreamforce/): 70 speakers, 910 sessions (San Francisco, 40,000 attendees)
+- [SaaStr Annual](https://keynotedata.com/conferences/saastr-annual/): 30 speakers, 38 sponsors (San Francisco, 12,500 attendees)
+- [Slush](https://keynotedata.com/conferences/slush/): 120 speakers (Helsinki, 8,000 attendees)
+- [LeadsCon](https://keynotedata.com/conferences/leadscon/): 88 speakers, 26 sponsors (Las Vegas, 2,700 attendees)
+- [MozCon](https://keynotedata.com/conferences/mozcon/): 16 speakers (New York, 1,500 attendees)
+- [Spryng](https://keynotedata.com/conferences/spryng/): 72 speakers, 3 sponsors (Austin, 500 attendees)
+- [Sandler Summit](https://keynotedata.com/conferences/sandler-summit/): 54 speakers, 18 sessions
+- [ERE](https://keynotedata.com/conferences/ere/): 23 speakers, 16 sessions
+
+## Conference Guides
+
+- [Best B2B SaaS Conferences 2026](https://keynotedata.com/best-b2b-saas-conferences-2026/): Ranked list of top SaaS conferences with data
+- [Best B2B Marketing Conferences 2026](https://keynotedata.com/best-b2b-marketing-conferences-2026/): Top marketing conferences ranked by speaker quality and ROI
+- [Best Sales Conferences 2026](https://keynotedata.com/best-sales-conferences-2026/): Top sales conferences for revenue teams
+- [Best AI Conferences 2026](https://keynotedata.com/best-ai-conferences-2026/): AI and ML conference rankings
+- [Best RevOps Conferences 2026](https://keynotedata.com/best-revops-conferences-2026/): Revenue operations conference guide
+- [Best Demand Gen Conferences 2026](https://keynotedata.com/best-demand-gen-conferences-2026/): Demand generation event guide
+- [Best HR Tech Conferences 2026](https://keynotedata.com/best-hr-tech-conferences-2026/): HR technology conference rankings
+- [Best Recruiting Conferences 2026](https://keynotedata.com/best-recruiting-conferences-2026/): Recruiting and talent acquisition events
+
+## Resources
+
+- [Conference Marketing Strategy](https://keynotedata.com/conference-marketing-strategy/): How to plan conference marketing with data
+- [Conference ROI Measurement](https://keynotedata.com/conference-roi-measurement/): Measuring return on conference investment
+- [Conference Sponsorship Costs](https://keynotedata.com/conference-sponsorship-costs/): What conference sponsorships actually cost
+- [Conference Sponsorship ROI](https://keynotedata.com/conference-sponsorship-roi/): Calculating sponsorship return
+- [Conference Speaker Research](https://keynotedata.com/conference-speaker-research/): How to research speakers before events
+- [Conference Budget Allocation](https://keynotedata.com/conference-budget-allocation/): How to allocate conference budgets
+- [Conference Content Repurposing](https://keynotedata.com/conference-content-repurposing-strategy/): Turning conference content into marketing assets
+- [Conference Booth Design](https://keynotedata.com/conference-booth-design-that-generates-meetings/): Booth design that drives meetings
